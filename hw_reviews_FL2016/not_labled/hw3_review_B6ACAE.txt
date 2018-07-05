@@ -1,0 +1,1 @@
+The homework was almost a carbon copy of the lab which allowed us to get a good practical grasp of how to run the test cases of Mapper and Reducer in many different ways. However, I don't feel like I learned as much from the homework as it is more or less the same. What I would like is to get a bit more challenging assignment that is built upon what we did on the lab. 

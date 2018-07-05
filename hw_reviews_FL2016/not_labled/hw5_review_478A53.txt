@@ -1,0 +1,1 @@
+I found this hw very interesting. The sentiment partitioner problem was challenging but was a very applicable example at looking at shakespeare’s work. This hw was very time consuming because switching between the Yarn UI and my local machine to record the statistics was very tedious. 

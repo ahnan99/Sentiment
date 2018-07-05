@@ -1,0 +1,5 @@
+This homework was annoying, like every other homeowork it seems...
+I wonder why that is? The most annoying thing about this homework was
+that you could not access the Spark UI for the last question unless
+the job was still running. Once it finished, Firefox could no longer
+access the server...what.

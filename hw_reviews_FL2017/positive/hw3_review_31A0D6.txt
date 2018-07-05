@@ -1,0 +1,1 @@
+This homework was a lot easier than the last two ones. I think I learned a lot from the first problem because I feel like I got my feet wet with a real map reduce program in the virtual machine environment. The second problem was vague because you didn’t specify the assumptions about how long it takes to reduce a word count. The third problem was mostly looking at the slides.

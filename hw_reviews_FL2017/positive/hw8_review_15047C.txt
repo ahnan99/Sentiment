@@ -1,0 +1,1 @@
+Homework 8 requires less work than the previous one. It is just some exploration on Spark. But it do help us understand the functionality of Spark. It is more user-friendly than hadoop and do jobs much more faster. Though it is a little tricky for programming with python since I did not use this language before, it is a great experience for me to do this homework.

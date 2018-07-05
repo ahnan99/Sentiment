@@ -1,0 +1,1 @@
+This homework is a really long and complex homework; it contains much more knowledge than homework we did before. Firstly, it helps us review the PageRank in paper and pen. Secondly, it allows us to implement a Spark application to count the number of JPG requests. Finally, we use pig script to analyze the ad data.

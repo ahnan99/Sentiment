@@ -1,0 +1,3 @@
+The first question felt overly tedious.  It was difficult to explain my rationale because half of the time it just felt like a gut feeling.
+Number two was difficult to complete until I started using an excel spreadsheet with equations.  After that, it became much easier to tinker around with specific parts of equations and easier to identify where I was incorrect since I knew that the first two parts of the equation should be increasing and the last should be decreasing.
+For number 3, the article seemed awkwardly structured and somewhat frustrating.  However, the material it present was interesting and showed the necessity of big data.

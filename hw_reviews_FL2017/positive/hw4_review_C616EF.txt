@@ -1,0 +1,2 @@
+This homework was a good hands on about configuration and partitioner handling in hadoop. It provided good background in these two areas to understand how configuration handling and partition logic works in Haoop. Overall the homework was fairly balanced, its hard for me to say it was easy or hard. Overall I am quite satisfied with this homework.
+

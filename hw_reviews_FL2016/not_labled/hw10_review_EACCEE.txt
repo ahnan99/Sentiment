@@ -1,0 +1,5 @@
+This homework was quite interesting. There were some problems with Spark but then once we got it going,
+doing everything that we used to do with Map Reduce within a few lines was very cool. Problem 1 took
+really long time to figure out because of all the commands. Problem 2 was good, it was interesting and
+doable. Problem 3 was not difficult but then we were having a hard time to figure out some of the
+problems.

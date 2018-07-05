@@ -1,0 +1,1 @@
+I enjoyed this homework and felt that it was a good review of the material we had gone over in class. The homework problems complemented the lecture well and furthered my understanding of ditributed file systems and MapReduce. One thing that was confusing was the role of racks in HDFS because I could not find enough info about them in the slides.

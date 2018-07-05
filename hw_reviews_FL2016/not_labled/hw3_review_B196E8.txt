@@ -1,0 +1,1 @@
+In this homework, I implemented the Unit to test the MapReduce and modified the Driver program to run it locally. According to the Lab3, I can handle it very well. It is very exciting to take this practice. It is a little bit hard at first. but I can handle that as long as reviewing the slides and lab instruction deeply.

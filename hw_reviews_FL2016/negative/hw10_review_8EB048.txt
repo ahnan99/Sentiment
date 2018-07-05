@@ -1,0 +1,2 @@
+This homework was by far the hardest homework of the semester. I ran into a lot of bugs with the programs not working corrextly in python, bbut working is scala etc. I did learn while I was doing this homework, but I probably spent tripe the time on this homework that I normally spend
+

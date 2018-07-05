@@ -1,0 +1,3 @@
+There were several typos in the homework 5 instructions that made it difficult in completing our assignments.
+It would be great if typos like this could be fixed in the future to avoid small errors that cause a lot of headache.
+Otherwise the assignment wasn't terribly difficult; reviewing the reading of files in java took longer than expected.

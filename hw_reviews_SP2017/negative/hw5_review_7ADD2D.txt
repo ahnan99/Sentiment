@@ -1,0 +1,1 @@
+In this homework, I make a mistake. I forget to turn capital character into lower case. So I can’t divide some of the word from shakespeare poems. After all, anything that build this combiner helps me to use combiner with tool runner and run it in the local place. Anyway, it is helpful to some extent.

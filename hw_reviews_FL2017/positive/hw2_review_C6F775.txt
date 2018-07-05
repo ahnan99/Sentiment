@@ -1,0 +1,1 @@
+The difficulty for this homework 2 is easy. It requires you some basic conception about MapReduce and HDFS, which has been taught clearly by the professor last week. Furthermore, it requires you to read the textbook to find out advantages and disadvantages of HDFS, which is really useful for career development. I am totally glad for that.  

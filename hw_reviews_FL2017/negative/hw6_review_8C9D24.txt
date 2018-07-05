@@ -1,0 +1,1 @@
+This homework was also a late submission because of midterms. I was not able to complete all of it since it needed two jobs. We ran into a lot of type issues with LongWritables and Text which was a pain to troubleshoot. In the end, I think our code is correct but still having issues with uploading files to Distributed cache and analyzing from there! SOS!!!

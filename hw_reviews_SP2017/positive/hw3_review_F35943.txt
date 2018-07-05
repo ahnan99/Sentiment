@@ -1,0 +1,1 @@
+I enjoyed this assignment also, especially the third question, where we had to write our own MapReduce program. It wasn’t too much of a challenge, since I just looked at the code from WordCount and made modifications. The second question helped reinforce the sequence of events in the YARN process for me since we sped through it in lecture.

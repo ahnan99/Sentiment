@@ -1,0 +1,1 @@
+I feel hw2 is much harder than hw1, but the thing I like about this homework is that it pushed me to really dig into the conceptual structure of the HDFS. I find the most difficult problem is the question 3 of problem 1. I am still not so sure about the relationship between nodes and blocks. 

@@ -1,0 +1,1 @@
+This homework is more about application, recommender systems. Its was useful but time consuming. We have implemented top-N list using Map reduce. It was my first time to implement a real application using multiple Map Reduce jobs. Other parts of the homework discuss similarity measures used in recommendation systems and their pros and cons which is pretty cool. 

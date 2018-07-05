@@ -1,0 +1,1 @@
+This homework was incredibly interesting in terms of learning about applications of Hadoop MapReduce. I really enjoyed the inverted index problem especially. I found that question 3b was ambiguously worded, because it doesn't ask specifically about the slides. It could also apply to other stuff.

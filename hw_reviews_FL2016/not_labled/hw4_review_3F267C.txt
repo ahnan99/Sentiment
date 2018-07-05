@@ -1,0 +1,1 @@
+I did not understand ToolRunner, but now I have a better handle of it and why it is important. I wish there were a summary of the differences and the ways to run them because that can be confusing sometimes. Otherwise, I feel ready for the lab and am ecited to learn what comes next. 

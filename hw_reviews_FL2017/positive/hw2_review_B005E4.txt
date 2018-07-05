@@ -1,0 +1,1 @@
+This homework is easy to finish if you have finished reading slides and the required parts of the books. It is helpful to do exercises like problem 2 and 3 to understand how the MapReduce system works. The amount of work is just right. This homework makes me feel more confident about this course.

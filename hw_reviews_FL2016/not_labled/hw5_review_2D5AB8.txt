@@ -1,0 +1,1 @@
+This homework took a long amount of time. The sentiment partitioner was frustrating to implement because there were multiple errors in the provided files, so it was a somewhat confusing process. It was also unwieldy to go through the YARN counters. The homework reflected the material we learned in class well overall. 

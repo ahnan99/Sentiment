@@ -1,0 +1,4 @@
+I did not like how this homework somewhat relied on materal only from the assigned readings.
+It would be better if we focused on lecture material.
+It was nice to learn how to test Hadoop jobs, but I feel like I got enough knowledge from the lab alone
+and thus did not need an assignment too.

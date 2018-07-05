@@ -1,0 +1,1 @@
+Homework 9 provides many hands-on practices on Hive, Spark as well as Python and Scala. After finished this homework, I obtained many knowledge on how to extract the information we want from some raw dataset by Pig. And I also understand how spark uses RDD to manipulate the data. They all very helpful. Hope I can have more opportunities on finding job by learning them.

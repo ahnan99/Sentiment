@@ -1,0 +1,1 @@
+In this lab, we did a lot of work and spent a lot of time. Really time comsuming job. First, we studied about how to implement a Writable project that is exactly like a Writable object, but we got to define how it looks like to people and how that would work. Second, we studied about sequence files and compressed file. Last but not least, we also did a little in inverted mappers.

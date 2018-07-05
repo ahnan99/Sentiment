@@ -1,0 +1,1 @@
+Homework 2 is also pretty helpful in consolidating my understanding of how a large file is stored in HDFS and what the mapper and reducer do and what their inputs and outputs are. A minor complaint that I have is that some questions could have been worded better or provided more context or instructions, for example 1d.

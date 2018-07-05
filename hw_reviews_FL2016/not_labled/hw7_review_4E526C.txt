@@ -1,0 +1,1 @@
+This assignment started out interestingly, but quickly devolved into tedium, particularly when it came to part three. I struggle to see the usefulness of making these computations by hand, particularly when we're likely never to do so again. The lack of clarity in the instructions is also frustrating - the questions seem to jump around, without rhyme or reason.

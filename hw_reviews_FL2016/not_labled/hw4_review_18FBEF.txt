@@ -1,0 +1,2 @@
+This assignment was difficult mostly because there wasn't much time, along with a lot of errors coming up. Running it locally was a big problem and I still don't fully understand how it works.
+Hopefully, this assignment will make more sense after the feedback is in. Otherwise, the homework didn't feel that bad.

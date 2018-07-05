@@ -1,0 +1,7 @@
+The first problem seemed very daunting on the first read of it.
+However, once I downloaded Mahmoud Parsian's implementation
+and understood everything going on in there, there wasn't
+too much to do to be honest. Aside from that, I had some trouble
+with cosine similarity and its something I probably
+need to look into more. I'm also a little unsure if I 
+correctly showed 2a correctly.

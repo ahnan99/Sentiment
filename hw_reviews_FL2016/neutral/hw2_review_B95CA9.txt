@@ -1,0 +1,7 @@
+This was a really fun assignment! Maybe it's only because
+it was much shorter and easier than expected, but I
+enjoyed it, and I can see this being useful practice for
+the upcoming exams. I'm also very glad that we get stubs
+to start our code off with; it made coding really easy
+(almost a matter of copy-paste from the wordcount example).
+I'm sure I would have a much harder time otherwise.

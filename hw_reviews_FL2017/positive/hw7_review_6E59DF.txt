@@ -1,0 +1,1 @@
+At the beginning, when I saw the Hw7 q1, I have not idea what to do and also I can't find any materials in the course power point. It is not tough and I'm happyI finish the last mapreduce homework. In conclusion, I think I still need to learn more about the whole framework for the mapreduce job and also look forward to using spark to complete mapreduce job.

@@ -1,0 +1,4 @@
+I think this homework is much better than the other ones thus far. It is well-divided into separate conceptual sections, with key implementation components in each.
+What could be clearer is the first question, as the examples in the text book do not quite speak to the use cases for the homework set.
+
+Overall, not bad.

@@ -1,0 +1,1 @@
+this homework is quite funny. At first I tried to write a custom FileInput then someone point out that there is a built-in InputFormat that I can use. I kept throwing myself at it. That makes it the second time I tried to write a customized class in Hadoop. I'm used to do this at my job so it's not really a big problem. Some other students might struggle with it though.

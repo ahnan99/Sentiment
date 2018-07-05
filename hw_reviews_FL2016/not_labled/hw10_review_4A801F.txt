@@ -1,0 +1,1 @@
+This homework assignment using Spark was not especially interesting or boring. I enjoyed getting to use the interpreter shell as a nice change of pace from writing the large Java MapReduce programs. Also, the way Spark performs operations using RDD’s and the action/transformation system seems efficient. However, it was a bit slow to write scripts and test/debug them.

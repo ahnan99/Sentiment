@@ -1,0 +1,1 @@
+I'm really behind on all my homework right now because I'm garbage so that sucks.  I was having trouble getting my boolean flag to work but it turned out to be because it has to come before the output directory specification. I will hopefully get caught up this week and get homework 5 turned in on time so I can better prepare for the midterm.

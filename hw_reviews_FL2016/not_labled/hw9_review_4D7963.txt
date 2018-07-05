@@ -1,0 +1,3 @@
+The homework is not that difficult. The only thing I got stuck is I don't know how to read data from HDFS
+and I am confused about how to read ad_data1 and ad_data2 simultaneously. After asking TA I finally dig 
+it out. I really appreciate PIG and it is a useful tool to deal with large data set. 

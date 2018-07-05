@@ -1,0 +1,3 @@
+Since this homework was primarily a copy of lab 5, it was a very quick homework. I think implementation of the map reduce job with combiners was fairly straightforward, and the example code in the Github account was very helpful in understanding some of the ways we can implement a TopN list. One think that could have been clarified was whether it was safe to use a TreeMap for easy sorting; I think I could implement/use a MinHeap, but at the same time, do I want to when Java has a ready-to-use TreeMap and the probability that 2 very popular titles have the exact same ranking is low? 
+
+Again, are these reviews actually read? PUMPKIN SQUASH ZUCCHINI SPINACH BUTTERNUT SQUASH CORN MAIZE TOTORO

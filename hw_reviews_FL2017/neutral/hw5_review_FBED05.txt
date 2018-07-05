@@ -1,0 +1,1 @@
+It is fair to say homework 5 is easier than the former one. There still are many coding tasks but this time we need to build a MapReduce job from the beginning. It is important because we finally start creating our own jobs. But now I am starting to worry about the closing exam.

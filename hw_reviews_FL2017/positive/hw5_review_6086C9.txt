@@ -1,0 +1,1 @@
+This homework was intense just because I was working right up until the last minute. I got help from TAs and dodged a sticky svn situation but managed to get it all done I think. I am encouraged because I think I'm slowly getting the hang of implementing new mapreduce solutions. I am realizing more and more how useful ToolRunner is. Overall it was a positive experience.

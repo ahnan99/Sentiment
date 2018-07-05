@@ -1,0 +1,1 @@
+The first two problems are mean to let us understand how the job execution of MapReduce works, but I personally think the questions were a little bit confusing. For example, in the first problem the significance of skewness can be ambiguous in some cases. The problem 3 is a good practice and introduction to hand on experience of MapReduce.

@@ -1,0 +1,3 @@
+The first problem is somewhat easy to get. Basically, those are what we are mentioned in class.
+The second problem is a bit complicated becasue you need to be careful when checking the formulas. The good part is we can find an example, although simplified, from textbook.  That saves my life.
+The third problem is dull and as it said "unreasonable". Granted I like the fact it reveals. It tries to hide that simple notion: "Model Sucks, go for more Data". Seriously, a student with no background of ML and NLP may have a hard time find the key idea of this article.

@@ -1,0 +1,1 @@
+The homework assignment was fair. It wasn't too difficult however there were some errors that we had to look online to solve. I think this assignment was a good introduction to running hadoop on our own datasets and I found the material very interesting and somewhat fun to work on.

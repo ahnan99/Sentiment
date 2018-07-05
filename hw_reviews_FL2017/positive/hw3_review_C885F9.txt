@@ -1,0 +1,1 @@
+I found the homework this week to be helpful in understanding the Hadoop MapReduce structure. I felt pretty confident on my answers this week, and unlike the previous homeworks, was sure I was giving the answer the questions were looking for. I find it fun and enjoyable whenever asked to perform Hadoop commands, or Unix commands.

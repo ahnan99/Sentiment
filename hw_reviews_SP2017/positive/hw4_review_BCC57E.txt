@@ -1,0 +1,5 @@
+#hw4_review
+Zheng Yuan 452091
+
+	- I think this homework is very helpful for us to get familiar with how to pass parameter to out mapper/reducer, and how to run the mapreduce job locally.
+	- Besides, we also get the chance to write a test java file to test whether out mapreduce procedure is correct.

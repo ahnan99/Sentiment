@@ -1,0 +1,3 @@
+    this homework made me feel good.  it showed off how we could write an entire map reduce program from end to end and make it work.  Also
+    it was a little frustrating at times because mrunits are confusing to write.  Also it is interesting how at times the
+    hadoop framerwork seems to work agianst us making our lives harder.  

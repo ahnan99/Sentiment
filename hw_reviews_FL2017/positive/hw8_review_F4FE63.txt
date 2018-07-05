@@ -1,0 +1,1 @@
+This homework thoroughly examines the understanding of single and pair RDD and the application of Spark shell. Especially, the problem 2 lets students know the flexibility of Spark in terms of transforming RDDs. Problem 3 strengthens the understanding of an important feature of Spark transformations. So this homework is a successful example covering both concepts and practice.

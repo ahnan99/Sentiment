@@ -1,0 +1,1 @@
+I thought this homework was extremely useful for ensuring that I understand how Hadoop MapReduce works. The second question requires a review of a lot of material, and then to concisely summarize it. The third question was a great start to writing our own MapReduce programs, working with something very similar to our example programs.

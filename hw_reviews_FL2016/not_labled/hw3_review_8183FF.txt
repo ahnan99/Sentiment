@@ -1,0 +1,1 @@
+This weeks HW was fair. It did a good job explaining running hadoop jobs locally. I was a little confused about the term skew but was able to figure out that problem after getting help from the TA. overall this hw took me between 3 and 5 hours to complete. I would say the difficulty was moderate. 

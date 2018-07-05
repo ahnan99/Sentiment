@@ -1,0 +1,1 @@
+The second part of this homework really helped me to solidify the ideas we've been learning of testing the mapreduce, of running it locally first, and of the different ways the data can be manipulated. I do wish we were writing more of our own code like in the second part, as apposed to the first part using our previously used code in different ways. 

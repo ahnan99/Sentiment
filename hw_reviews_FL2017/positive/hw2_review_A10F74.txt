@@ -1,0 +1,1 @@
+Overall this homework gave a good overview of HDFS and related concepts. I found the homework to be fairly balanced. It was not as much theory as the first homework. The Download file question was bit tricky to answer and made me think about the way tranfer of file in distributed file system happens.

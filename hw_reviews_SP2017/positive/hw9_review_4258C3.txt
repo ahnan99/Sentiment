@@ -1,0 +1,1 @@
+This homework took a while to get past some Pig debugging (I don't think that it provides extremely helpful error messages) but I actually really enjoyed using Pig and Spark to execute jobs. It's pretty cool to use these tools to greatly speed up our development time. Spark is especially nice for obvious reasons. Pretty cool hw overall though.

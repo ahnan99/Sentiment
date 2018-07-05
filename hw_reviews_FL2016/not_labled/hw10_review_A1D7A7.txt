@@ -1,0 +1,6 @@
+This homework was not as good as last time. Had to reference the API and try various types of functions too many times -- not due to the complexity of the task, but because there is no clear way to accomplish a given transformation.
+I would suggest including more descriptive examples in the slides, so that going through the problems doesn't have to be such a goose hunt.
+
+Overall, the difficulty is fine. We did have some problems with the use of YARN, as it could not produce the logs from the job execution. We do not know how to address that, nor do the slides provide much guidance in this regard.
+
+Rating: 6.5/10

@@ -1,0 +1,1 @@
+This homework is about mapreduce applications. The matrix-vector multiplication interests me most. It relates to my research directly. However, there is no real implementation about it in this homework. Hopefully I can have a chance to practice it in the future homework or project. Writing the input/output of mapper and reducer is still helpful. 

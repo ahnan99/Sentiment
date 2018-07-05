@@ -1,0 +1,1 @@
+This homework was a good overview of Partitioners and Combiners and how they are used within MapReduce. However, I don't think it gave me a very good sense of how much more efficient MapReduce is when run with a very large data set compared to a small one when used with Combiners, because our example data set was very small.

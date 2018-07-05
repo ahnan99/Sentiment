@@ -1,0 +1,1 @@
+I had fun in this homework. It was neat being able to tackle recommendation systems from another angle, this time comparing user similarities for a better recommendation. Though this took much longer than I anticipated, I feel this was probably the most rewarding homework performed so far. I'm looking forward into more ways to manipulate large amounts of data.

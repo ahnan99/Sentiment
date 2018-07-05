@@ -1,0 +1,1 @@
+I love this homework. It serves as an excellent review so far in this course, and it is kinda like a step by step instruction that helps me writing my first mapreduce job. It clearly lays out different testing method, i.e. testing locally using Eclipse, commandline toolrunner, and pseudo cluster, which really makes things a lot more clear for me. Thumb up.

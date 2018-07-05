@@ -1,0 +1,4 @@
+I think this homework is very helpful, the problems tests my understanding of the dimension of the data,
+and I find myself still not quite clear about the difference between the structure and complexity.
+the method described in the google article is exciting, is it really can translate the natural language to what machine can understand?
+I am so impressed, and cannot wait to see the outcome of their project.

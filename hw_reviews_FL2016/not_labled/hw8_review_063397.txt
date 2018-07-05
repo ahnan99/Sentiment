@@ -1,0 +1,1 @@
+The slides for the hw were a little confuisng, especially since they were trying to abstract the similarity algorithms so it seems like there was a lot of extraneous data. SHould have started early, but I feel like I'm at least more familiar with it than I was.  Next time I will start earlier. 

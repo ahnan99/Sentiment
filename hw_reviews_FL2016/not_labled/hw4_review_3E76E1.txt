@@ -1,0 +1,10 @@
+Problem 1 seemed easy but was not so. 
+
+Part (a) was easy, Professor Neumann repeated the "are there any differences in the job execution" twice in the class, so was pretty straight forward.
+
+Part (b) however was not so easy, it was tricky to deal with default configurations and the other methods to set configurations.
+And its "are there any differences in job execution" was confusing because was not sure if it would be asked again if it had the same answer.
+
+Part (c) was easy.
+
+Problem 2 seemed scary at first because it was 70% of the homework and had so many subparts, but was quite interesting.

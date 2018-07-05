@@ -1,0 +1,1 @@
+This latest homework was very interesting. The various ways to do data analysis are very interesting. It is a subject that is constant evolving and even in class we noted that PIG is quickly disappearing. I would like to see more hands on approaches with the data though. Data wrangling and manipulation is one of the more complicated, time consuming efforts with big data analysis.

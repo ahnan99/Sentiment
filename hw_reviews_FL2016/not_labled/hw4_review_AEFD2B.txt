@@ -1,0 +1,3 @@
+HW4 provides two problems on different topics. Problem 1 is based on ToolRunner, a useful tool provided by Hadoop framework. By using ToolRunner, we can enable accepting parameters from terminal commands. This is very useful when we want to use the same code with different jobs and different options, and we don't bother editting our driver file or configuration file. Problem 2 is more like a practice of what we learned so far. We finished it well.
+
+HW4 is still a fair difficult one, and help us building good MAPREDUCE foundamental.

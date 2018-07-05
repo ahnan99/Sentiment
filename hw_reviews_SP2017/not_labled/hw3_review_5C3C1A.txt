@@ -1,0 +1,1 @@
+This home work is mostly concerning about MapReduce. The First two question is more related to the concept of MapReduce. The third question is highly connected to the lab3 we just did of URUnit test. We need to always remember that each time we run a single test, the before scope will be executed again.

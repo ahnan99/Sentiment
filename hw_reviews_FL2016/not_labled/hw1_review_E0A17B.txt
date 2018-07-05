@@ -1,0 +1,2 @@
+I really liked this homework. I felt that it was representative of what we were doing in class (Problem 1 was a lot like the quiz questions), and followed the readings closely (Problem 2 and 3). 
+Problem 2 was a little bit frustrating because I had the correct values, just on a very wrong order of magnitude. I was computing the probablity using 1E5 instead of 1E5^(p-1) in the denominator originally, but the professor's Piazza post and TA hours were very helpful. Looking forward to more homeworks like this one!

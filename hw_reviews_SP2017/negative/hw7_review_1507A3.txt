@@ -1,0 +1,1 @@
+I think hw7 is a bit hard as the slides does not elaborate clearly as to how the MapReduce is implemented for matrix-vector multiplication using stripe. But I still figured out a way to understand it but not so sure about my answer. Besides, the concept of communication cost is also confusing in terms of what types of emits count here.

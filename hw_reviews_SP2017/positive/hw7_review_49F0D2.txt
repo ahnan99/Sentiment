@@ -1,0 +1,1 @@
+In this homework. I know how to use page rank to treat matrix, including the process of the dividing of matrix. However, there is still some problems which is hard to understand. For example, it dose not confirm me that whether I need to write down MapReduce output or input. This makes me very confuse.

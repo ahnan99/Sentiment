@@ -1,0 +1,7 @@
+In this homework, I shall say it is really a challenge for me in general. 
+Problem 1 is a bit easy. I can out it out easily with the guidance of the
+slides of the lab1. The problem 2 take me a while, I spend a lot time getting familiar
+with the linux enviroment. And then, I finally figure it out how to calculate
+the total lines of the output. For the problem 3, I get confused with the skew of the reducing
+time first.  I figure it by doing some research online and read some corresponding papers
+ and complete the work. It is cool.

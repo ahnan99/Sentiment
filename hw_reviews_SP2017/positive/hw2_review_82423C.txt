@@ -1,0 +1,1 @@
+In homework 2, I tried some commands about MapReduce in VM and get some sample results. I am quiet happy that we have already began to do real practice in cluster computing and big data. This homework help us to learn more detail about the procedure of MapReduce and I cannot wait for writing my own MapReduce program.

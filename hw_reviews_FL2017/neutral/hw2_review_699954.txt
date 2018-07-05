@@ -1,0 +1,1 @@
+This homework thoroughly examines the understanding of the distributed file system in hadoop. However, it does not well reflect what is been taught in class. More practical problems can be added in the homework. MapReduce problems are good exercises to examine the understanding of the data flow in MapReduce framework. All in all, this homework is a satisfactory one.

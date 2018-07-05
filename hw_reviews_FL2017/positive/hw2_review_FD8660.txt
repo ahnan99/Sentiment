@@ -1,0 +1,1 @@
+Problem 2 and 3 are relatively easy. Problem 1 took so much of my time though. The collaboration on this homework is better than last time. This homework also reveal a many details about how Distributed File System works. The total time I spent on this homework is around 8 hours. I don't know if this is normal or too much. 

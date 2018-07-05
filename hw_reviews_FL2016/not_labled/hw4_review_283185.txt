@@ -1,0 +1,8 @@
+I liked this homework more than any other homework we have done so far. Being
+able to use command line parameters is a great thing for mapredeuce. It allows
+for more flexability for each job, as shown with the caseSensitive example.
+Toolrunner will be useful in the future for more complicated jobs. The log
+files are also a very real dataset. That is, they are something that every
+developer comes across often and this was a useful exercise for learning how to
+analyze these with mapreduce. This class is becoming much more practical as we
+progress.  

@@ -1,0 +1,1 @@
+I enjoyed learning how to run MapReduce jobs locally. I thought it was interesting to try out testing the MapReduce jobs on a smaller-scale environment and then working up to a full HDFS MapReduce job on the cluster. I think it is important that we learned how to unit test our MapReduce jobs. Overall, I learned a lot from this lab and found it fun.

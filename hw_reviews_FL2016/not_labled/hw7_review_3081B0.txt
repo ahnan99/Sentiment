@@ -1,0 +1,5 @@
+I had a lot of trouble with the matrix part and communication cost.
+The book and lecture slides were a bit confusing and not very clear
+on how either of those worked. I feel like for how the homework, they
+are a bit too frequent and that coupled with my work for other classes,
+I'm always swamped with work.

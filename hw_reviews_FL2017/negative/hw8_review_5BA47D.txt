@@ -1,0 +1,1 @@
+This homework took me two day to finish. I used python for spark. Although I have learned python before. It still took me some time to learn how to write pyspark code. All of the outputs will be shown in the command window is sometimes annoying. It becomes a little bit hard to review the codes written before.

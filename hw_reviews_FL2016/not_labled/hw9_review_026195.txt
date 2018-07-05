@@ -1,0 +1,1 @@
+This homework was pretty fun and much shorter than other previous assignments. I like how PIG is similar to SQL, so it is a somewhat familiar language and not hard to learn. Testing locally is a big timesaver; running on the cluster often took several minutes for me. The homework was straightforward and relatively easy.

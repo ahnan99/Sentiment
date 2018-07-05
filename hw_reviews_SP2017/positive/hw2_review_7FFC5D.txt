@@ -1,0 +1,1 @@
+The hw2 is ok. it covers most of the knowledge and technique from the previous lectures and labs. But it is a bit too theoretical. It requires a bit more practice with linux system. Some quetions are open answer and hard to response. Some questions are not highlighted in lectures or lab, and easy to be ignored. It requires some time to go back to lecture or lab notes 

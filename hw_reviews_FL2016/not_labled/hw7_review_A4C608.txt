@@ -1,0 +1,2 @@
+hw7 is hard. Because it is the first time that we do the theory homework instead of the coding. 
+For the problem 1, my team member has some disagreement with me because of the index problem. I think we need to start with 0 but she think it should be the same as the note. 

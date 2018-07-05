@@ -1,0 +1,1 @@
+I really struggled with this homework. The filtering stuff and the proofs was very hard for me. I couldn't make sense of the slides when it came to doing the different filtering algorithms and the books dont really cover mapreduce implementations fo them. I was kind of lost on what resources I should turn to for help. I think I did problem 3 incorrectly because of it.

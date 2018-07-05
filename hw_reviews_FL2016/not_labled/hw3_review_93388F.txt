@@ -1,0 +1,1 @@
+This homework was more interesting than previous homeworks. The lab helped prepare me to write unit tests in problem 3. I ran into some missing class errors in Eclipse with slf4j, so it was frustrating to have to go manually go download the required dependencies and set them in my classpath. After that, I was able to run the tasks locally in Eclipse. 

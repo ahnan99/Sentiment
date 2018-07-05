@@ -1,0 +1,1 @@
+This homework is highly unclear in several sub-questions. For example, problem 1 (c) is too wide to answer, I have to write a lot to make sure I expressed my ideas clearly; problem 2 (d) did not mention the O notation in the textbook at all. So as I have mentioned in the questionaire in thursday's course, questions in quizzes and homeworks are too opaque.

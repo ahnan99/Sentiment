@@ -1,0 +1,1 @@
+For this homework, I thought that the commands were pretty easy to understand, but hard to figure out the right syntax for the command that you want. I ran into a few errors, but nothing was unfixable during office hours. ItÅfs a little complicated because I had to learn scala while doing the homework as the same time.

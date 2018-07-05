@@ -1,0 +1,1 @@
+Even though I thought this assignment was going to be hard, it was actually better than I expected. Because I was not familiar with the Spark language, I wasbit hesitant. However, after reading through the slides and going to TA hours, the TA was able to clear up any confusion I had and so I understood the concepts alot more clearly. 

@@ -1,0 +1,1 @@
+Doing this homework was pretty funny because we were doing a sentiment analysis, which is the reason we are doing these feedback responses in the first place. I'm curious now how we will actually implement that. About the actual homework thoug, this one was pretty fun and not too hard which I like.

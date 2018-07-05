@@ -1,0 +1,3 @@
+This homework was really silly because for whatever reason eclipse change our java build path to bin while we were working with our code for the first problem so the first problem 
+took us about two to three hours. It was rought. Curse the words hello false. However the second problem was actually pretty easy and fun
+despite the really ambiguous wording of half the questions. 

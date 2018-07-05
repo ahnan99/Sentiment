@@ -1,0 +1,1 @@
+Since I am not familiar with how to read txt and use it in Java, I spent a ton of time on learning how to code to load the positive-words.txt and nagetive-words.txt. I really should learn java well before then. But I feel happy that I learned more on this homework. Generally, homework five is not bad.

@@ -1,0 +1,1 @@
+I actually enjoyed this homework. I liked the questions that dealt with MapReduce the most, because it applied concepts of what we learned in a simple manner without involving too much work. The questions involving hadoop commands were good too! It reinforced what we covered in lab, and even took it a step further.

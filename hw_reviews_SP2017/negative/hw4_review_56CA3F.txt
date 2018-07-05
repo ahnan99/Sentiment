@@ -1,0 +1,1 @@
+In homework4, there is many coding. Because I am not good at java, it takes me a while to think of it. For the Question one, it confuses me the length of a character. Secondly, I learn how to complete a tool runner and how to determine the type of map and reduce. 

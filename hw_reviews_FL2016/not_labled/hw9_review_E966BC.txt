@@ -1,0 +1,1 @@
+This hw was time consuming. I needed to finish the lab before I was able to begin the HW. I had trouble running my script on the real dataset due to some naming conventions in HDFS. Also my second script was not working to remove commas until I realized that I needed to delimit by commas. 

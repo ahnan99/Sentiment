@@ -1,0 +1,1 @@
+This homework was really frustrating because the STUB file wasn't exactly working and was a bit misleading.  The actual content of this homework was interesting but I ran into a bunch of problems with ToolRunner and a bunch of other unrelated things.  This homework also took a bit longer than usual but that's whatever.

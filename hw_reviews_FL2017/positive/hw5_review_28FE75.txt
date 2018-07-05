@@ -1,0 +1,2 @@
+This homework was a late submission because of midterms. I was able to complete all of it since it was pretty straightforward. I did get confused with computing the communication cost and am still not sure that I did it correctly. The word co-occurrence one was fun and seems like we're headed towards more fun implementation stuff. Had to do a lot of local testing on eclipse - this is becoming a habit now. :)
+

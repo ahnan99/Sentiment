@@ -1,0 +1,7 @@
+As always, this homework helps me a lot on understanding the application 
+of MapReduce on recommendation, especially the first problem. I tried the 
+chained driver implementation, and encountered several bugs. This experience
+increases my learning interest in pig or hive. The second problem provided a
+good practice of similarity measuring by comparing different approaches of 
+measuring similarity. Overall, it is a good homework. It would be better if
+we could have more coding.

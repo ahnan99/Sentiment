@@ -1,0 +1,1 @@
+This assignment was a bit difficult to complete because there were some aspects that were included in the book that differed from instructions in the slides. Many of the parts were a bit tedious too, but I enjoyed being able to build a mapreduce job from scratch without the usual stubs files.

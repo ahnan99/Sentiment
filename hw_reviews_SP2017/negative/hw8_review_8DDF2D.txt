@@ -1,0 +1,1 @@
+I had a lot of trouble with this assignment. I was mainly in charge of problem 3, but even that problem was confusing. It was hard to keep track of all the stats that the mapper and reducers will output or combine. This will be the first time I worked with a partner for this assignment. Hopefully, by having a partner this assignment will be easier to do.

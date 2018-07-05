@@ -1,0 +1,1 @@
+I had a lot of trouble with problem 2, it was quite confusing to figure out the inputs and outputs of part b. The 1st problem was quite simple to implement. I had no idea how to answer part c of problem 2. I assumed we were to talk about how we would perform the preprocessing step.

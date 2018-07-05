@@ -1,0 +1,1 @@
+I thought that this was very long. It is very tedious to have to create jar files repeatedly, and this added a lot of frustration to the lab. It definitley forced us to learn more about the tool runner and map reducing as a whole, and was a good way to put evrything we have learned together. Overall, i enjoyed it, though should start earlier next time.

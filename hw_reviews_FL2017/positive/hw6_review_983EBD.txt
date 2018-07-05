@@ -1,0 +1,1 @@
+This homework is exactly a useful and simple homework, from the code example professor gives in lab 5; we can simply produce the top-N list by running two specified jobs. And in problem 2 we can implement combiner to make it efficient for us to run. So I think this homework is a good one. 

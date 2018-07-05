@@ -1,0 +1,1 @@
+The application of vector-maxtrix multiplication in this example really helped with understanding PageRank and in general how vector matrix multiplication works using spark. The PIG questions are also interesting because they represent real world data cleaning and applications of big data tools. Only one more make up homework assignment to go!

@@ -1,0 +1,1 @@
+lt like parts of homework 3 were challenging while others were not. Executing MRUnit job was fair as we had done very similar work in class. I found that testing locally by changing the driver was not working as I thought it should and still am unsure if I am doing this correctly. The question on skew was vague.

@@ -1,0 +1,1 @@
+I like pig. It makes analyzing data with MR quite easy. Debugging is the hardest part with MR, and there is signifciantly less debugging in this case. I think it will be quite useful in the future for data analsyis and data science uses. I look forward to leanring more about it in the future. 

@@ -1,0 +1,1 @@
+This homework is very important because it teaches me a lesson that always test Hadoop projects locally first. The command line is quite tricky since sometimes we have to run through command line. So I prefer run in Eclipse. I also have some problems when I run Jar files, especially when adding main method and its arguments. 

@@ -1,0 +1,3 @@
+This homework is a challenge for me since I met a huge difficulty in coding in java to populate hashmap and read lines one 
+by one. This is not that related to the mapreduce function but it tests the foundation of my java programming. I learn a lot
+from this homework even though it costs me a lot of time, however, I learn more and enjoy during the process.

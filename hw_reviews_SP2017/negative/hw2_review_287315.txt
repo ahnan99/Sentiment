@@ -1,0 +1,8 @@
+This homework is clear, straightforward and easy to understand. All the
+materials we need have been covered in lab2. After I looked through all
+the slides and followed the instructions, I can solve all these problems
+using correct answer. My partner and I have discussed on sentimental 
+analysis and we got different ideas, so we worked out two suggestions 
+successfully. It is very important to understand how MapReduce works 
+and I hope this homework will give me a fundamental basis for the 
+following assignments.

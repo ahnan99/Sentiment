@@ -1,0 +1,6 @@
+Top N list is something very cool. I feel like I’m touching the 
+nature of those mysterious and magic applications I saw in the 
+daily life. Although implementations like top N list can be done 
+much, much more easily in other statistics languages, such as R 
+and SAS, than Hadoop, but it’s more than excited to me when I 
+noticed that I could handle enormous size of data. 

@@ -1,0 +1,1 @@
+I think homework2 is kind of helping me understand the basic concept of hdfs. After finishing the first question, I do feel I understand hdfs better but some hint is not pointing to the right place. Question2 and question3 help me familar with mapreduce process which is very important process of the hdfs. And I'm getting the idea of how this is coming to work.

@@ -1,0 +1,1 @@
+An interesting homework assignment. I rather enjoyed it. I had never used Python or Scala before so it was a little challenging but it was worthwhile. However, I could not seem to find the stages or tasks in the Application UI. localhost:4040 was innaccessible though. That might explain the troubles.

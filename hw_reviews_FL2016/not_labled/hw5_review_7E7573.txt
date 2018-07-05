@@ -1,0 +1,1 @@
+This time we write the MapReduce program to implement the Combiner and Partitioner to optimize the WordCount Program. I also implement the MapReduce program to read data from cache data and analyze the positive and negative word in shakespeare’s poem. What’s more, I also implement the custom Writable Comparable program to analyze the name file to make the name string comparable.

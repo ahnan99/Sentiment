@@ -1,0 +1,1 @@
+Personally, I enjoy doing homework 2. All the questions are pretty simple and straightforward. Question 1 requires a bit of reading (which I don’t really like) but it helps me to understand more about Hadoop file system as well as storage. Meanwhile, question 2 and 3 help me to practice and understand more about the MapReduce process. 

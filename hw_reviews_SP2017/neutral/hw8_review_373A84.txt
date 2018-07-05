@@ -1,0 +1,1 @@
+The first problem of this homework need to implement at least two MapReduce jobs, which is time consuming for us, since we spend a lot of time on thinking the format of input and output to the mapper and reducer separately. The second half require us to do a lot readings on the relevant bullet of knowledge. In general, this homework is huge!

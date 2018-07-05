@@ -1,0 +1,1 @@
+Homework 3 still require quire a lot of reading, but it is helpful for understanding the overall excution of a job in the mapreduce in terms of yarn. Q1 makes me further look at the content of lab2 on how the hadoop excuting the jobs. I think next homework will need to write some code according to what we have done this time.

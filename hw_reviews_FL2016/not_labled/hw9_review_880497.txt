@@ -1,0 +1,6 @@
+This home work was interesting. Doing the lab was very helpful.
+There were times when we couldn't figure things out, it might be
+very helpful if we can get more information like sample code to
+do stuff in pig, it took a long time because the slides didn't
+have the code needed and on the internet also, there was a little
+different way to do the same thing.

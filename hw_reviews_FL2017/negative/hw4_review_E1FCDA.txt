@@ -1,0 +1,6 @@
+This homework is significantly more time consuming and challenging than previus.
+We spent several days to understand how toolrunner and partitioner work and get 
+familiar to the environment of Hadoop. The bad thing is, from the bery beginnig,
+We suffer a lot to figure put the construction of Partitiioner. But once we had 
+a fundamental realization, everything gets easier and easier. Besides, I appreciate 
+all the valuable helps from Dr. Neumann, TAs and classmates.

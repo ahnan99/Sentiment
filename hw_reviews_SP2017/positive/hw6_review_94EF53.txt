@@ -1,0 +1,1 @@
+This homework is generally good, though it is a little bit confusing in terms of instructions and wording. It contains contents about mapreduce/JAVA file compression using Snappy codec, custom writablecomparable, and inverted index. To me, the inverted index seems to be the most useful part and the instructions are stated the most clearly.

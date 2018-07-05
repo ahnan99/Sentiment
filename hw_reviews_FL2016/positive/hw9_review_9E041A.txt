@@ -1,0 +1,1 @@
+I thought this homework was fun! I had a good time doing it! Pig is much better than map reduce. Map reduce was tedious to write. Pig is very fun and very fast. However, it is annoying not having a nice IDE to detect syntax errors and the error messages are not helpful

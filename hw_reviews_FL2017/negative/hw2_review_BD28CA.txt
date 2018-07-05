@@ -1,0 +1,6 @@
+Homework 2 requires us have a detailed realization of Hadoop Distributed Filesystem(HDFS): how are the data files 
+stored in data nodes, how to extract required information and more importantly, how does MapReduce tasks work.
+All above are essential to followed studies. But there is a thing:  most of questions in problem are based on the 
+lecture materials which, I think, should be answered base on the insights of lecture slides and textbook. So it would 
+be better if there are more open questions where we can share our thoughts.
+

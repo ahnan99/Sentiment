@@ -1,0 +1,6 @@
+The homework was pretty good. It takes a lot of online lookups though because the slides and book tend to eschew any specific functions that may be of use in the particular problems.
+But again, the homework instructions feature the same unclear writing style like before. If it were not for Piazza clarifications, I may have risked wasting more hours than necessary on this assignment.
+
+I would recommend that you design homeworks more in this manner than the previous four - the primary differentiator being the increased hands-on nature of the problems. But please, please put more comments on the
+compareto() method for the StringPairWritable. A working implementation is very easy to implement, but people can get very easily confused about the expected return value.
+

@@ -1,0 +1,1 @@
+I like spark more than mapreduce, but less than pig.  It was more confusing to use than pig, the documentation could have been better.  I spent a while trying to find a spark function that automatically parsed XML files, which was confusing until I realized that there was a prewritten function telling us how to do so.

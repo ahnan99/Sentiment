@@ -1,0 +1,1 @@
+This homework was worded fairly vaguely. I wish we had better clarification on parts of the homework instructions, such as in part c of problem 1, where I wasn't sure whether the new relation that counts for the total number of clicks on the site was to be created from the original data or the filtered_data we created earlier in part c.

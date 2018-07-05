@@ -1,0 +1,1 @@
+Homework four was helpful because it allowed me to see a different implementation of Hadoop and MapReduce as well as go over the concepts we had previously learned in all the other labs. It also let me get a better feel of using Linux command line and showed me the difference between running Hadoop locally vs on a cluster.

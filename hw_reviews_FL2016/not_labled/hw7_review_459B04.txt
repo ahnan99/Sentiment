@@ -1,0 +1,1 @@
+I found this homework to be fairly interesting, since we are finally seeing MapReduce as it relates to "real life" applications such as PageRank. At times I found the homework to be kind of vague and difficult to understand, but eventually the powerpoint slides and the textbook helped me get through some of the tougher questions in the homework.

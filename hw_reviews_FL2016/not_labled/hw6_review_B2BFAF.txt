@@ -1,0 +1,1 @@
+I feel like I am starting to see what MapReduce can offer in terms of Big Data calculations. The first part of this homework was very difficult, however, since we did not cover much of htis in class. But the text did help in creating the correct format for the output and Sequence Files. Very informative. 

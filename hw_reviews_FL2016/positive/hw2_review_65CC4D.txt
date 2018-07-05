@@ -1,0 +1,2 @@
+This homework was a lot more interesting because I felt like I was actually using Hadoop.  We coded a simple program and also talked a good amount about the process of the Hadoop system.
+Actually having to use terminal and the Linux VM also seemed to be more relevant to my education.

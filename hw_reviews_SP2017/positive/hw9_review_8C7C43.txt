@@ -1,0 +1,1 @@
+This homework helps me review the lecture contents about Spark and Pig which are important data analysis tool. I learn a lot about the operations of pig and Spark through this homework. Also, I get a deeper understanding about how the Pig and Spark works. Homework 9 is a good combination of practice and class knowledge.

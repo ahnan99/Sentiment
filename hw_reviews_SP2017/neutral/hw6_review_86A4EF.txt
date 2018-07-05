@@ -1,0 +1,1 @@
+This homework felt very disjointed. I don't feel that I got a good understanding of any of the particular concepts covered in this homework, but more just touched on th very basics of 3 different topics. It was also strange how some of the parts required output from the Hadoop jobs, while others did not.

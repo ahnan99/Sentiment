@@ -1,0 +1,1 @@
+This homework was one of the faster ones if not the fastest in the last 5 homeworks.  I really enjoyed pig, it was much simpler than I had thought it would be.  It was easy to use and even easier to test with.  It seems less specific as of right now since I don't know how to implement more specific functions.

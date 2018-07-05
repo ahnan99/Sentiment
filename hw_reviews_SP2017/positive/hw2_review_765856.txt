@@ -1,0 +1,1 @@
+This homework is a good review for the labs and the contents in the lectures. It reminds me again how HDFS stores data and how data are achieved by clients. Also, it gives me more practices about command operations in Linux environment and brings me a deeper understanding about how MapReduce works. 

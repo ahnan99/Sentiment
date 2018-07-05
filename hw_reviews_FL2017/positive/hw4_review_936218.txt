@@ -1,0 +1,1 @@
+This homework is a little frustrating for me, since I have to figure out how to use distributed cach. I spent a lot of time debugging the problem, trying different options. So it is challenging and interesting for me. Also, this work needs a lot of group discussion. During the process, I have found out many misunderstanding of the mapreduce job. 

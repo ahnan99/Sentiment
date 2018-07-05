@@ -1,0 +1,1 @@
+All the problems are easy and fundamental. They all tend to help to consolidate the knowledge of the HDFS map-reduce structure. Problem 2 is easy but seems with no realistic meaning, Problem 4 only takes some easy manipulation if you have followed Lab 2 instruction. The whole homework is easy and straightforward and needs not much time to review. 

@@ -1,0 +1,1 @@
+I had mixed reviews for this assignment.  The first two problems were very easy and straightforward. Neither took me much time to complete.  The final two problems were a bit more challenging though.  The programming itself was not too difficult, but working my way around the JVM led to some difficulties, particularly as I was looking to test my code locally.

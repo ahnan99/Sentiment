@@ -1,0 +1,2 @@
+The hw was fairly straightforward when I understood the directions. I had a lot of trouble with the initial implementation of ToolRunner because of a simple error where I used "Job job = new Job();" rather than the correct line of "Job jo = new Job(getConf());"
+The second one was interesting as well.

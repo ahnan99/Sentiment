@@ -1,0 +1,2 @@
+At first I didn't understand how to manage the data using PIG, which is an important part
+in this homework. After reading the tutorial about PIG I can use it. About the Mapreduce program of TOP N list, I don't know how to combine the aggregatereducer and aggregatemapper together with the original mapper and reducer class. After discussing with my partner, we define two path and solve the problem. 

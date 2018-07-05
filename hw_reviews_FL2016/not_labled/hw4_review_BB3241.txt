@@ -1,0 +1,1 @@
+This homework assignment was a good summary and review of the last couple of home works.  It was good to practice map reduce from start to finish. It was also nice to go over running both locally and in HDFS. Overall not a terrible assignment and good practice for our future in cloud computing.

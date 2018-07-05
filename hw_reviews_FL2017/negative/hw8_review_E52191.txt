@@ -1,0 +1,1 @@
+Spark is pretty neat once you get the hang of it. But I still don't understand how to run pyspark files - shouldn't I just save them as normal python files with an "import pyspark" on it? and while the activation models worked, i'm still confused how it actually did. Wording on this problem was weiird!

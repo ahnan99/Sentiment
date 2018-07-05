@@ -1,0 +1,2 @@
+Overall, I found homework two to be very useful in understanding MapReduce. I did not enjoy part C of question one, as I could not find a great resource on what metadata would actually look like, only what kind of information it stored (but not the format, etc.). I had a lot of fun actually creating a MapReduce program and seeing it work on a few test directories as well as on our Shakespeare directory. I hope our future homeworks will be more similar to question number four, since it was the most interesting.
+

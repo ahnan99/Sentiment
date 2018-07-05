@@ -1,0 +1,2 @@
+This homework provided good coverage of the material that has been covered so far in the course. Second question was a tricky one and made me think harder to understand more about skew problem. The third question was also a good one where it asked about YARN scheduler in detail and forced me to research it in depth to understand the concepts. Overall I am quite satisfied with the homework.
+

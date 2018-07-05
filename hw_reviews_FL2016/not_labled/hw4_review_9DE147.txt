@@ -1,0 +1,1 @@
+This homework was a little frustrating because we kept missing small details that were keeping our ToolRunner driver from being able to properly recognize our command line arguments. We ended up figuring it out though. Oh well. Maybe next week we can finish the homework in a more reasonable amount of time.

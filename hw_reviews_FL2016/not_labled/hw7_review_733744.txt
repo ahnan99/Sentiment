@@ -1,0 +1,3 @@
+This time's homework seems not so difficult,but I still get stuck in the part of 
+communication cost. At first I don't understand what the symbol stand for, after 
+read about the MMDS and PPT I understand partly. 

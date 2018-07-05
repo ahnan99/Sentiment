@@ -1,0 +1,2 @@
+I am very struggle with this homework, first, my vm instance crashed during this week, and I spent much time on repairing it, and after that I still lost some process I've done.
+I didn't know how to pass the parameter into the files, I hope we can have a lab before the due, so I may get some helps from the TAs, nevertheless, finally I made it by myself.

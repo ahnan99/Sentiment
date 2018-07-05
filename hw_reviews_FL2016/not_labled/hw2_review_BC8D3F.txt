@@ -1,0 +1,3 @@
+Basically, hw2 focuses on MapReduce. From conceptional questions all the way to implementation of MapReduce in Java. It is very helpful as a entry level guidance to HDFS & MapReduce. After finishing hw2, I do believe I can do some basic MapReduce task using Java. Also, I am now very aware of the whole MapReduce progress, including but not limited to inputs & outputs of all phases, consistency of Mapper's output & Reducer's input, and potential improvement.
+
+Overall, hw2 is a fair difficulty homework, and useful to build a solid MapReduce basis.

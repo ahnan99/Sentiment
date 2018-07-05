@@ -1,0 +1,4 @@
+Compared to previous homework, this focus more on testing our understanding and implement ability. It is not an easy homework.
+I need to review all slides and labs before I can write the answers. Some concepts is quite confusing and I omitted them on class.
+This homework gives me a good chance to learn more knowledge which I thought is less important. And this is the first programming 
+assignment. My partner and I finished it successfully. I hope the following programming will not be too hard.

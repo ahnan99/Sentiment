@@ -1,0 +1,1 @@
+I enjoyed this homework a lot. Learning how to run MR jobs on my local machine was a really cool thing, and learning how to unit test those instances of MR jobs is a really good tool to know. I thought that some of the assignment was poorly worded, but it happens.

@@ -1,0 +1,1 @@
+This homework was fun but frustrating, mainly because it is currently 5 am and I'm tired. Otherwise, I think it was helpful to implement the top-n recommender and I was able to learn the lecture material much better in this way. This homework seemed shorter than previous homeworks, which was nice. 

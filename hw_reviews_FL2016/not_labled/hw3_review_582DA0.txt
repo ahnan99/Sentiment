@@ -1,0 +1,1 @@
+This homework was alright. It was really just following instructions closely. I still would rather run the code locally in python or just not java but it is nice to be able to run locally either way. The unit test are important but maybe should be taught elsewhere. Overall not to bad

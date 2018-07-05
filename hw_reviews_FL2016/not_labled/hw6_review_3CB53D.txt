@@ -1,0 +1,1 @@
+This homework went much smoother for me than previous homeworks.  On previous homeworks I would get caught up on 1 error that would take me hours to fix.  This homework there was no such error, and everything made sense.  Local testing using eclipse proved incredibly helpful on the inverted index and cooccurence problems.

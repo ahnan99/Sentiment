@@ -1,0 +1,1 @@
+This homework is very helpful for us to understand and remember the context that we learnt in the last lecture better. I got more familiar to the use of PIG and Spark. This homework give us a good chance to use the big data tools learnt in class by ourselves to deal with some real problems, help us learn the techniques in particular.  

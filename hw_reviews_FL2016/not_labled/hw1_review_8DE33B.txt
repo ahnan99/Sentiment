@@ -1,0 +1,1 @@
+The first problem is helpful to understand the properties of big data. While the third data sets is not very clear what the entire database looks like. The second question is a good practical problem of Bonferroni’s Principle. The paper in the third question is about natural language processing and related fields. It is really good to read. 

@@ -1,0 +1,1 @@
+'This homework assignment was not as difficult as the previous one because it expanded on our knowledge of Hadoop, which we became more familiar with last time. Writing the code was pretty straightforward, as we had a basis in the slides to reference from. Because this time was just learning how to test and run our existing code locally, I don't think I learned that much.

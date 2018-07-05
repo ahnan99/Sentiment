@@ -1,0 +1,1 @@
+Overall this homework went pretty well. It took me a while to figure out that I needed a regular expression to get the script to access both files at once, but after I figured it out, it went pretty fast. I think that I learned a lot from the homeworks, but I also think that the homeworks are getting pretty tedious, and I dont think we should have one every week

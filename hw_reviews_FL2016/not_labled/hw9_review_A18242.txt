@@ -1,0 +1,1 @@
+I really like this homework.  I have always enjoyed scripting languages such as bash and python.  Writing pig scripts came more naturally to me than writing mapreduce functions.  It reminded me a lot of working with SQL databases.

@@ -1,0 +1,1 @@
+This homework is a good combination of theoretical knowledge and practice. The first two questions are nice reviews for the lecture content, which gives me a better understanding about the work procedure of MapReduce Tasks and the data storage in the processing. The last question gives a good chance to practice how to build a MapReduce model.   

@@ -1,0 +1,1 @@
+This homework is very helpful for us to understand and remember the context that we learnt in the last lecture better. I got a better understanding about how the map reduce algorithm works in java, and I wrote the program of it on my own, which is very helpful for me to learn the program better. 

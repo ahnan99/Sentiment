@@ -1,0 +1,1 @@
+This homework is a good homework, it help us to review the basic command of Spark, and leading us to handle the log data and the XML file by using Spark. By doing this, we can extract and load the desired information from certain files. So I think this homework is really good.

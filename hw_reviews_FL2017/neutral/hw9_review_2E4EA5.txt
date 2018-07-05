@@ -1,0 +1,1 @@
+Homework 9 contains plenty problems. Though it dues longer than others, I must first review the materials for the exam. When I start looking at it, I have to look up to the slides two weeks ago to get everything clear. It took me almost a whole day to finish it. But it is a great help for understanding the usage of pig and the algorithm of Pagerank.

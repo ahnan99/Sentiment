@@ -1,0 +1,5 @@
+I thought this homework assignment was less challenging for problems 1 and 2. 
+The assignment also got me more familiar with using Hadoop. 
+However, for problem 3a I was stuck trying to figure out where exactly the information I needed was to answer the question. Also, I did not know how specific you wanted us to be in answering where we find the locations for the input output and intermediate data.
+I even went through the log files in YARN to see where the input and output data were being copied to in temporary directories and files in YARN.
+Although I did find this assignment quite straightforward, I did find some questions needed more clarification.

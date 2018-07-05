@@ -1,0 +1,1 @@
+This homework assignment required reading the HDTG book which was very interesting and useful to learn about the reasoning behind some of the data choices. Problem 2 and 3 were pretty straightforward and a natural extension of the wordcount example (but with a dimensionality increase).

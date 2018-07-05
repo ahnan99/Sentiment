@@ -1,0 +1,1 @@
+I thought this homework was fine. It was cool to deal with real data from netflix and manipulate it. I also had fun writing a short script to plot out the points using matplot lib ly. To be honest, it was a little tedious to do because of the weekly recurrence of these homeworks

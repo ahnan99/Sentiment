@@ -1,0 +1,1 @@
+This assignment was a marked improvement, in terms of engagement, over the previous assignments. Implementing Writables, Partitioners, and Combiners felt useful, even though the tasks we were using them for still felt trivial. The challenges here have not been intellectual; rather, it's a matter of finding the right library call and passing it the arguments it requires.

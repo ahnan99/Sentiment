@@ -1,0 +1,1 @@
+This homework is a good one. Firstly, we use java to apply MapReduce jobs in HDFS, and analyse the whole process and result file in our homework. Then, we use the YARN RM to detect the process of job execution. Finally, by the provided reading, we learn something about the skew of MapRedece jobs. So it is a good homework for us to complete.

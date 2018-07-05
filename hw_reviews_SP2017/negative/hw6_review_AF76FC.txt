@@ -1,0 +1,1 @@
+I had a lot of trouble with problem 2. Most of my errors were from typos in my coding. For example, I would have code that is value.get() but the for loop was String line: lines. These types of errors made me waste alot of time figuring out what went wrong. For problem 1, I had some confusion on which direction < or > I should have for my compareTo method.

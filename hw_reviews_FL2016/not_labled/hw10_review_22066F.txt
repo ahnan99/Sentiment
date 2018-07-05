@@ -1,0 +1,1 @@
+The in class lecture slides for Spark were not very detailed, so this homework was more difficult to do. The lab helped prepare us somewhat for problems 1 and 2, but problem 3 was pretty confusing to me. This homework seemed shorter than some previous assignments, which was nice. I liked that Spark has a Python API, which made the coding part more fun.

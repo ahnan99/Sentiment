@@ -1,0 +1,5 @@
+Homework was useful for reinforcing undersatnding of the different matrix multiplication algorithms. Throughout, I consulted the book in order to refresh the key steps and operation efficiency of each variation.
+
+This is not so much a comment about the homework as opposed to a comment about the lecture content related to it: I think the past couple lectures on these application topics were not clear or strong enough. I found the book
+to be so much more helpful as I went through the problem set, and so I am not sure if lectures are worth attending in the first place. Perhaps it's because this sort of content is not worth lecturing about in an auditorium-like setting. I would much rather
+go over this on my own.

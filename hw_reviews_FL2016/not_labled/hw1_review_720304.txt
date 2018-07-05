@@ -1,0 +1,3 @@
+Personally, I thought the majority of this homework assignment was fair and a good assessment of the my fundamental knowledge of Big Data dimensions as well as Bonferroni's Principle.
+However, I didn't particularly enjoy the article because I thought it was a little bland and pedantic. I'm not ashamed to say that the language may be a little beyond my personal understanding
+of Big Data at the moment. I both liked and disliked formatting the pdf in LaTeX in that I do like making things pretty, but typesetting can be a pain. 

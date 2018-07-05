@@ -1,0 +1,1 @@
+At first I thought this assignment was pretty confusing. I had to reread the article several times to try and answer the third question and I still don’t think I entirely understood it.  The article was rather dense at times.  I also struggled with problem 2 my solution was very close but still off for some cases and I couldn’t figure it out.

@@ -1,0 +1,2 @@
+HW 10 is not hard. I think the major reason for that is because Spark is mainly based on Python which is the programming language that I am very familiar with. 
+However, I still have some problem in the begining of the HW10. I had some trouble in Lab6. It took me whole afternoon to solve it.

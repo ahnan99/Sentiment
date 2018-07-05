@@ -1,0 +1,1 @@
+This assignment was at least moderately more interesting than the previous ones. It is nice to be exploring the various abstractions upon MapReduce that exist, and, though Pig is not my favorite computer programming language to write in, it is a welcome change of pace, and I appreciate that fact greatly. 

@@ -1,0 +1,1 @@
+Homework 9 is very good and helpful in helping us practice with the various analysis tools such as Pig, Hive and Spark. It is a little long but very rewarding once you get it done. By doing homework 9 I also got to understand more the different advantages and disadvantages of using each tool.

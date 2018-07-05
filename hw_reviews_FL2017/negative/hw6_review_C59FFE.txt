@@ -1,0 +1,1 @@
+This time I took many time to debug. At the beginning, the code can run on local but cannot work on cluster. Finally, due to a small implement error. Although I took a long time to debug error, but it is value to me to be careful to code in future. And this assignment is interesting as well. 

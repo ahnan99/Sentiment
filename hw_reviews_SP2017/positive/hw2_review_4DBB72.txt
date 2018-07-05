@@ -1,0 +1,2 @@
+Homework done in 1hour!
+That was the second homework for us. I was not a difficult one. It was about the HDFS and the mapReduce.These 2 concepts are important, I learned what the hdfs is, how the data stored and processed in hdfs, how the mapReduce works, what will be produced after mapReduce, and so on.

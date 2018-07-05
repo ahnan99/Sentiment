@@ -1,0 +1,7 @@
+The problem 1 (a) was easy; it was just following the instructions. (b) was also easy; had an error though. (c) was easy but interesting.
+
+Problem 2 was also a nice one. It didn't took much time.
+
+Problem 3 (a) was also nice; it was good to see how map reduce works in real time. (b) was a little difficult to figure out. It was a bit of trial and error. (c) was probably the toughest one in this homework, it took a lot of thinking. (d) This was a bit confusing as the meaning was not so clear, we were able to figure it out in the end, though.
+
+Problem 4 (a) was interesting. (b) was a little tough, this took the most amount of time. After we were done with (b), (c) was quite easy.

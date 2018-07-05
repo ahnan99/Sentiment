@@ -1,0 +1,1 @@
+As usual, this homework helped me practiced some on Spark. During the process of completing the homework, some concepts discussed brifely in class become more clearer. Those concepts include stage, task, rdd and so on. While onething bothered me a lot was I could not access the spark UI. This consumed me a lot time. 

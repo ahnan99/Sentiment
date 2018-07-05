@@ -1,0 +1,10 @@
+For this time, I think the job is challenging because I want to add the two
+jobs into one Driver. Firstly, I got stucked and then I searched github for help
+and find instructions. Then I defined a new Path 'outputpath' and used it as the
+outputpath of the first job and the inputpath for the second job. Hence, I completed
+it. Woo! And then I write a pig program to count the average numbers and then plot
+the figure by using MATLAB.
+For the problem2, I think it is not very hard. I used the statistics method 
+to explain the relationship between Pearson correlation and cosine similarity.
+Though, it took us a long time to complete the homework, I had a better understanding
+of pig.

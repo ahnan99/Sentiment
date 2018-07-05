@@ -1,0 +1,1 @@
+This assignment was not terrible.  The amount of coding was minimal and relatively easy.  However, the difficulty of this assignment resided in how much you had to understand regarding the actual way the MapReduce program runs.  You have to really think through exactly what happens as the program interprets the job configuration and execution processes.

@@ -1,0 +1,1 @@
+This homework has equal work to the last one I think. First spark homework, seems interesting. However, there were some problems about data generation in the lab. Moreover, I had one issue about resources in name node. I think the yarn cluster command takes many resources, so I name node enters safe mode. I have tried to allocate more resources to it by deleting old files in HDFS

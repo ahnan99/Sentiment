@@ -1,0 +1,4 @@
+I think hw7 helps me a lot in learning algorithms of matrix mutiplication and pagerank. I think it is interesting to work out
+the problems given, however, as to the problems themselves, it is a little confusing for me to understand it and grasp the right
+thing wanted here. In a work, it is a helpful assignment which let me have a deeper understanding of what we learn in class and 
+difficulty is proper in total.

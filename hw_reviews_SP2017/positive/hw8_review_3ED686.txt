@@ -1,0 +1,1 @@
+This homework assignment took a lot longer than expected. I appreciated the fact that we were allowed to create out own MAPREDUCE project from scratch and test if it is correct. This assignment was one of the most interesting so far because it proves that we have actually have the skills to analyze a real data set. Overall this assignment was good but it did cause some stress. 

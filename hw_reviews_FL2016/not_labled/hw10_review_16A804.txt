@@ -1,0 +1,1 @@
+This homework was not that bad either. I had some issues getting the hang of using spark at the beginning but the next two problems were much easier to write and implement the programs required. It still took a decent amount of time however. Hopefully I’ll be able to be quicker next time. 

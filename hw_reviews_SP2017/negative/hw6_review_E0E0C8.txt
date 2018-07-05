@@ -1,0 +1,1 @@
+In homework6,I think it is easier to understanding following the code in the slide. But there is still one thing hard to learn is how to decide what kind of type of value. At the same time,in question 2, I have confuse about the type of data type in the first line of compress file. And there are many unknown mark inside the file.

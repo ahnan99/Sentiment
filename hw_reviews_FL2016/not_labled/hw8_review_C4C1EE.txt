@@ -1,0 +1,1 @@
+this homework i thought was pretty difficult. but also it was very interesting that i got to use actual data from netflix to be able to make the top 15 suggestions like netflix itself would. hopefully i can understand everything that is happening in the background better in the future rather than going off of the slides every time. 

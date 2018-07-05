@@ -1,0 +1,5 @@
+This homework is easier compared to the last one and some answers are directly from slides. I feel good about this homework 8.
+I spent too much time on the TopN mapreduce. The reason is first I have some new ideas about sorting the list but after trying several times I realize that it will add too much 
+communication cost. So eventually I decided to give it up. Another reason is that I get a crash on VBox and fail to restart it. It took me too long a time to retrieve the data and 
+rewrite my previous codes. That is quite annoying. But for the homework itself, it is quite easy and direct. I like this style and have a very positve attitude towards it. I learn a lot
+from it and it strengthens my understanding towards top N list, even from pain. I hope we could hold this style in the future.

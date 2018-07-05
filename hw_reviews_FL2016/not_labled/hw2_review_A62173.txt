@@ -1,0 +1,3 @@
+For this homework, I thought that parts of it were very easy, while others were pretty difficult.
+The difficulty came from problems in my notes as well as problems comprehending the slides. The questions were quite confusing sometimes, especially for part 1c, some of the questions were not specific enough.
+Otherwise, I thought the work was not that difficult and was happy when my map reduce task actually worked. Another question was about lab0 saying that it will help with command line instructions, but I did not find anything in lab0 or the helper links; instead, I had to search Google for a while to find the correct answer.

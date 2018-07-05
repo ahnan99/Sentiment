@@ -1,0 +1,1 @@
+This homework was a helpful review of the Spark application. It allowed us to both write small scripts which did simple things to the data, and to run an actual Spark application on the pseudo cluster. It was, as usual, way too long, but the extra few days took care of that too. One of the better homeworks we've had.

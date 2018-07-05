@@ -1,0 +1,1 @@
+Spent one day on this homework. For problem one, once had problem with getting the file name. The reason is the wrong version of the FileSplit is imported. The main part of the code is not very difficult. I was able to figure out it easily. But always make mistakes on details. Need more practice.

@@ -1,0 +1,2 @@
+To tell the truth, I don't like this one.  However, I know it is very important to go over the procedure and run the MR by hand (paper and pencil). I just seem that's lame.
+The first implementation question rasies some interesting questings.  As always, all those questions are repeating asking one question: "What's the Mapper's Key value of a Raw text input?".  The answer is: Type = Longwritable, Key = offset.  I always try to ignore those facts. But after this time, nope.

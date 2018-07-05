@@ -1,0 +1,4 @@
+This homework went ok. I felt like the first question was a bit confusing because some Big Data properties were not well defined in lecture like Complexity and Labels.
+ Question number 2 was also a bit confusing and I wish there was a bit more guidance on this problem. I did not like that this was given on homework but not talked about in lecture.
+ I liked the article that we read about Unreasonable Effectiveness of Data. I thought the different approaches to analyzing data was interesting and I hope we can discuss each of them in class.
+ Overall I rate this first homework as 3 out of 5 stars.

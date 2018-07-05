@@ -1,0 +1,1 @@
+Homework three was really helpful for me personally to understand MapReduce more because it allowed me to implement it hands on instead of just read and review Hadoop implementation properties. I think in the future more labs like this would be helpful to understand the things taught in lecture better.

@@ -1,0 +1,1 @@
+The first problem is writing map reduce program to calculate the top n items. It is very practical and helpful. The second question is more theoretical. We can understand cosine similarity measure and Pearson correlation better. The third question is about calculating the collaborative filtering in MapReduce, like before we calculate the input and output of mapper and reducer. 

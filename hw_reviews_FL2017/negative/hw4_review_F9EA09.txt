@@ -1,0 +1,16 @@
+This was another cool assignment marred by unclear instructions.
+
+Take, for example, two questions in problem 1 ask the question "are there any differences in job execution?" This could refer to:
+
+1. differences in commands that the user executes to run the job
+2. differences in job performance/statistics (e.g. number of bytes written, time to run)
+3. differences in theoretical job execution (e.g. what task runs on what machine)
+4. differences in the results the job produces
+
+Or any combination of the above. I ended up opting for a combination of 1 and 2 because it seemed the most likely. In my opinion, these kinds of ambiguities may seem trivial but ultimately ends up consuming a disproportional amount of time without actually furthering any understanding of the course material.
+
+Furthmore, the instructions in Problem 2 never mention adapting WordCount to run with ToolRunner, but this seems to be a necessary step to use the command line "-file" option to supply the required side data. There are, of course, other ways of supplying side data to the distributed cache, but both the textbook and the in-class slides seem to be using a different version of Hadoop where Job has a method called addCacheFile.
+
+The provided stubs had a bunch of errors.  Nothing to difficult to correct, but it was pretty offputting to import two course-provided stubs and see Java syntax errors, typos in variable names.
+
+On the positive side, once you figure out what the instructions are asking, the intended procedure is pretty neat and I feel like I have a better understanding of both ToolRunner and partitioners.  It just took about twice as long as necessary and I think this could have been avoided by being a little more explicit about what's expected.

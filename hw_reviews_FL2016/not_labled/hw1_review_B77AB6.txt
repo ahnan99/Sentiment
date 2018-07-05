@@ -1,0 +1,7 @@
+The first question of hw1 is quite straightforward, for the requirement is clear and we can find the possible solutions in the course slides, although in some cases it is a bit hard to classify some properties of data.
+
+Before I start to finish the second question, I read the related content in MMDS to learn the background of the question. It really works. It is easy to conclude the final formula when I have read the content. It requires some knowledge of probabilities, which I have learned in my undergraduate.
+
+I think the third question is the most difficult one, since the paper is quite long and some part is a bit difficult to understand.First of all I try to use the key words in the question, trying to locate the most related part of paper to find the information, but I failed. So the only way I solved this problem is reading the paper line by line, trying to summary what I think is the most adequate answer which fits the question, hope it is correct.
+
+The first homework is great.

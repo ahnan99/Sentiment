@@ -1,0 +1,1 @@
+This homework is not very difficult, but I meet some problem when run my program in Problem 2, and I still cannot figure it out, so I upload my code, I edit them according to the WordCount program, but my code failed even in mapper part, that’s frustrate me. But I just have a try and see what’s going on.

@@ -1,0 +1,1 @@
+This homework is hard. It took me and my partner a lot of energy and time to figure out everything. However, it is really excited and a good sport. I feel that I understand the structure of MapReduce, and how the driver, mapper, and reducer work much better. Also, the command line starts to become my new best friend. I start to in love with Linux.

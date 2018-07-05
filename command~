@@ -1,0 +1,10 @@
+cd FP
+
+hadoop fs -put ~/FP/testout/part-r-00000 /dualcore/reviews.txt
+
+hive -e "ADD JAR stop.jar;"
+
+
+
+hive -e "CREATE TEMPORARY FUNCTION STOP AS 'stop.StopWords';"
+hive -e "SELECT hw_id, hw_number, label, STOP(lower(review)) FROM reviews;" > ~/FPout/pre_review.txt

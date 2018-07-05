@@ -1,0 +1,1 @@
+This homework was not particularly challenging, as compared to other assignments.  This is likely due to the fact that there was no programming required, and thus no debugging challenges.  There were still a number of difficult concepts that we had to figure out, like quantifying communication costs and multiplying matrices, but in the end, it was not particularly difficult.

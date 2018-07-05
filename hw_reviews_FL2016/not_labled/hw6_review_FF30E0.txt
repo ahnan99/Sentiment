@@ -1,0 +1,5 @@
+THe homework is not easy for me and we had to submit the most files since we begin this course.
+The second problem took me a lot of time. At first I don't know how to upload .tgz file into 
+HDFS. When I solve this question the program always have problems like "Array out of bound". 
+I think I would take more time to see the course material. It may help me solve the homework
+easily. 

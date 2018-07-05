@@ -1,0 +1,1 @@
+At the begining of this homework, I think it's not that difficult to complete. But when I turn to the last problem, I got stuck. It's the first time for me to run a mapreduce problem so at first I don't even know how to get start. After going through the internet and discuss with my partner, I finally dig it out. I feel so happy since I work out my first mapreduce program!

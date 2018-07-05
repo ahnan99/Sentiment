@@ -1,0 +1,1 @@
+This homework was not difficukt in terms of problem sloving, but I had trouble mainly because I was confused about how to use distributed cache and that I could not find any examples of custom partitioners. I felt like I was going into the problems slightly blind, and understadning how everything worked together was a big part of the time that the homework took up. 

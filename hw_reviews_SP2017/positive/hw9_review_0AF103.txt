@@ -1,0 +1,22 @@
+# Homework9 Review
+
+ - Zheng Yuan 452091
+
+Program1:
+(1) Its a great opportunity to know how to use pig to load data and how to use pig to process the dataset.
+(2) Help us understand the difference between running pig on local disk and running pig on HDFS.
+
+Program2: 
+(1) Help us know how to sorted the dataset in the order we want.
+
+Program3:
+(1) Help us understand how to use group and aggregation function count to do the statistic job
+
+Program4:
+(1) Help us know how to use pyspark to load the data.
+(2) Help us know how to create the rdd pair in the format we want.
+
+Program5:
+(1) Help us understand how to design the simple algorithm by using the transformation and action in spark.
+(2) Help us understand the concept of stages and task, and help us know how to check the tasks and stages state in our job.
+(3) Help us understand the concept of pipelining and the situation we can use pipelining.

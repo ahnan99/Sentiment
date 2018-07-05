@@ -1,0 +1,2 @@
+I think the lab part of this assignment is quite confusing, it's very hard for me the adjust the code. and I don't know how to test the code in the eclipse.
+and because right now I can't download the slide from the website, so I nearly lost in this homework, fortunately, I asked my classmate about how to set the output to double type and finally I did the implement. 

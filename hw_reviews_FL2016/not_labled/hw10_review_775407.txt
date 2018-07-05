@@ -1,0 +1,1 @@
+This hw was rather challenging since it was new to me and the TAs. I usually am able to ask the TA’s questions and they answer right away but since spark was not covered last year the TAs had some difficulty with this HW as well. I had some difficulty using python for importing the XMLs and I am still not sure what went wrong with that step but using scala it went fine. 

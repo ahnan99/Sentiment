@@ -1,0 +1,1 @@
+For this assignment, I thought that number one was the most difficult part and had a lot of trouble trying to get the coding and mapreduce to work out correctly. Otherwise, the other two problems were pretty straightforward and almost came directly from the slides and the readings. I need to do a lot more reading.

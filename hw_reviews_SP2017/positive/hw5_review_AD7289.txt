@@ -1,0 +1,1 @@
+It is good to understand the importance of combiner and how to use it by problem 1. And it will be a nice to practice an example when the use of combiner is inevitable. The problem 2 is an exercise for partitioner, which makes the process of MapReduce more practical for the real life situations.

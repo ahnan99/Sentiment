@@ -1,0 +1,6 @@
+This homework's workload is more representation of what I would like to see in 427 homeworks generally. It has well defined steps in the prompt, and each
+section is related but isolated from the others in the sense that getting one part wrong will not directly affect your performance in the other parts.
+
+Additionally, it serves as a good fresher course in Pig Latin syntax, especially since a lot of people may not have experience in data flow languages like it.
+My main criticism is that the set up for this homework (e.g. lab 5) was not carried out very effectively last week, so laying the groundwork to do this homework
+was a little too tedious and sometimes confusing.

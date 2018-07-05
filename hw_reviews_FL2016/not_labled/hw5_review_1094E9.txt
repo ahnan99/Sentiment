@@ -1,0 +1,1 @@
+This homework assignment was particularly challenging due to the vague instructions on how to implement the partitioner. It took quite a while to figure out, as well as a lot of Google searching. I feel like this could be improved in the future, as there were too many ways that the implementation could have gone wrong.

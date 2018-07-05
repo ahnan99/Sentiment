@@ -1,0 +1,1 @@
+I'm starting to feel pretty lost in the class, but this homework was okay considering. I get co-occurrence, matrix-vector multiplication, and PageRank a lot better now, but I'm not sure I could implement the last two. Starting to worry about the exam coming up and unsure where to turn for help, when the issue is really that I struggle to focus in class.

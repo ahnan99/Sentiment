@@ -1,0 +1,5 @@
+Homework1_Review
+
+Zheng Yuan 452091
+
+	For this homework, I think the first two problems are very helpful for us to understand some basic concepts. For example, in Problem 1, we can have a more clearly understanding on the properties of big data. And in problem 2, by computing the formula, we can get a more concluded idea of Bonferroni’s Principle and the factor that effects the false accusations. As for the third problem, I think it is a good way for us to know a little about the differences between unlabeled and labeled data, data-based approach.

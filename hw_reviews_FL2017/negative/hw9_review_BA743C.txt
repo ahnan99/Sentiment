@@ -1,0 +1,1 @@
+This homework truly requires much effort, since we need not only to use pagerank in spark, but also pig scripts. It is really a challenge. However, some of the questions are based on slides, so they are not difficult. In all this homework is a little too difficult for me, since I got stuck at the pig scripts, which frustrates me a lot.

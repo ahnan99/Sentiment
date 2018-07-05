@@ -1,0 +1,4 @@
+This homework was a lot of work since it was with a lot of material I am unfamiliar with. In particular,
+I was quited confused by what the homework was asking for for a lot of question 3. I was not sure what
+display the count meant since later it asks where the result is stored. Anyways, thankfully I had a lot
+of time to work on this since the late extended over break.

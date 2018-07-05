@@ -1,0 +1,1 @@
+This homework had vague questions, like for Problem 1 and Problem 2g. I wasn’t sure how to answer these because I didn’t know what component I should consider. I wish these questions were more straightforward. I did enjoy doing more runs with Hadoop and writing MapReduce code. Overall, I wasn’t as satisfied with this homework as I was with the others.

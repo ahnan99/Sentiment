@@ -1,0 +1,1 @@
+I thought this assignment was extremely good for helping me understand what the HDFS commands are doing and how to actually create and execute my own MapReduce programs. It is exciting to think about the possibilities I can apply this with if I can get my hands on data. I think I am definitely a lot more comfortable with hadoop now and I know what I am doing.

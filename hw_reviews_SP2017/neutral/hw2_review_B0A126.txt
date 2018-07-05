@@ -1,0 +1,2 @@
+Cloud computing is widely used in daily life, which makes this course so important for people even have different background. Actually I think this assignment is not that hard but interesting. The problems mainly includes all aspects of knowledge related to cloud computing. Like Hadoop, HDFS, map/reduce and so on. I finished
+reviewing the information in the book, slides and lab. 

@@ -1,0 +1,8 @@
+As always this homework provided some good practice of lecture materials.
+Of course it shot for PIG. We played with PIG on the Dualcore's advertisemen
+-t data. We practiced LOAD, COUNT, FILTER, GROUP FOREACH, LIMIT, DESCRIB, 
+DUMP, FLATTEN and Arithmetic operation (multiplication). We did learn a lot.
+However, we noticed that different implementation of same functionality 
+have different running time. Yes, it seems to be univeral true. But how to 
+improve the efficiency of running a PIG file was not covered in class. Hope
+those kind of materials could be presented in future lectures

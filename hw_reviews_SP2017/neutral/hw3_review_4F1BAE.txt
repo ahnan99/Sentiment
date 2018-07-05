@@ -1,0 +1,1 @@
+This was a tough homework because I didn't fully understand how to implement a mapreduce project since we haven't done one in class yet. After some research, I figured it out, which was rewarding to be fair. I learned about the practical implementation of mapreduce projects, but I don't think I fully understand the program and it's capabilities with massive datasets.

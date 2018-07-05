@@ -1,0 +1,1 @@
+My task is to do problem 3 to problem 5 and I think after doing the lab, it is quite easy to do with problem 3. Actually I did not attend the course that introduce the Spark, but I searched through google and carefully study the course slides I quickly figured out how to deal with the problem and got the result. It is quite easy for me.

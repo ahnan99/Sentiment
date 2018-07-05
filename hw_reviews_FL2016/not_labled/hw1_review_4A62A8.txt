@@ -1,0 +1,3 @@
+I believe this homework 1 is a good one. It has fair difficulty, neither too hard so we get frustrated, nor too simple to finish. I learned the six big data properties which are amount, size, structure, infinity, complexity and label. Also used them to examine the example data sets. Plus, I gained a concept of miss-classification which basically our data analyse model can make wrong judgement. There was also a Bonferroni's Principle, illustrating the exact problem. Finally, we had some extension reading to learn more about data and data-based approach.
+
+After all, I would give this homework a positive review.

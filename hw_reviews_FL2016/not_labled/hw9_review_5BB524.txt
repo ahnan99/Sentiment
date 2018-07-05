@@ -1,0 +1,1 @@
+This homework was confusing and even though it covered things we learned in class, I still don't really understand how Pig works. The logic puzzles were fun and helped me gain an idea of the underlying structure of Pig, but I still need to review and look over the slides and book material to make sure I fully understand.

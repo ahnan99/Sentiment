@@ -1,0 +1,1 @@
+The first homework corresponds to the basic concepts of big data. These questions are related to the properties of different data set and the methods of processing them in the real world. The hidden concepts are fundamental but useful. Understanding their different properties leads to the motivation of data mining methods we should learn in the later classes. 

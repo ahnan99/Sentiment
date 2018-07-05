@@ -1,0 +1,2 @@
+This homework had a good balance of implementation and theory. It was also very closely related to the stuff we've talked about in class.
+I think the similarity measrure stuff from class was important and I'm glad this homework covered all of that and some. Not entirely sure that i did it correctly. Also, I got stuck with the inverted index using KeyValueTextInputFormat class, I used an all text signature which solved it. Let's see how it goes!

@@ -1,0 +1,1 @@
+This assignment was, admittedly, a bit more interesting than previous assignments. It was not perfect, as some of the instructions were vague, and I remain unsure if my answers were precisely what was requested. Nonetheless, I appreciated the opportunity to write code without being spoon-fed, and I am happy about the emphasis on testing.

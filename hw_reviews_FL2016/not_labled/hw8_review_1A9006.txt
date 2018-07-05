@@ -1,0 +1,1 @@
+The slides and the book complemented eachother very well for this homework.  In problem 2 and 3, the book did a very good job explaning the concept of the problem and how to solve it, as well as some of the strengths and weaknesses.  The slides did a very good job at explaning what the actual map reduce jobs and tasks do.

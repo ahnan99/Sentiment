@@ -1,0 +1,1 @@
+I had some other things to do last week, so I began to start this homework really late. It took me some time to figure out what's going on in the slides, and I had to revised my lab1 submission. The homework itself was not really hard, but it took more time than I expected to finish the homework. And I did play around with hadoop fs and learned some new comments as well.

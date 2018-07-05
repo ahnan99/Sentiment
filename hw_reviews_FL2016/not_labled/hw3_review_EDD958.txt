@@ -1,0 +1,1 @@
+I thought that this homework took a lot less time than the last few. It was mostly based on the labs that were done previously so the problems were not as challenging. The only problem was with command line implementation, which is prone to having errors.

@@ -1,0 +1,7 @@
+hw2_review
+
+Zheng Yuan
+
+452091
+
+I think hw2 is a good oportunity for us to get familiar with not only the structure of the HDFS, but also the process of MapReduce. And we can also get some ideas about how to analysis the result of the output of MapReduce. But there are some questions confused me, in problem1 part d, I have no idea about what the concise answer of the data transferring, I find few things about it in the lecture pdf and textbook, and I don't know what the question really means, does it refers to the protocol or something else we need to answer?

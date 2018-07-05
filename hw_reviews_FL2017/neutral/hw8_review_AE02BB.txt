@@ -1,0 +1,1 @@
+I thought this homework was on the easier side. I really enjoy working with spark so much more than with Hadoop map reduce. It is easy to explore the data and developer time is reduced so much. I though the wording in some parts of the second question could be improved because it was a bit vague

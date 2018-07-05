@@ -1,0 +1,9 @@
+This homework was okay, it took quite a long time.
+Problem 1 (a) was a little tricky, we dont know if what we wrote is correct.
+Part (b) was a little tough, took a really long time to figure it out.
+Part (c) was also easy. How many key-value pairs could be combined using the
+Combiner was not so easy to figure out.
+Part (d) was nice, it was quite interesting to analyze.
+
+Problem 2 was quite interesting.
+Problem 3 was also good.

@@ -1,0 +1,4 @@
+It causes troubles for distributed cache implementation, which is really annoying. 
+Also, I don't think we have enough materials for distributed cache on slides, and it's really frustrating. 
+Worsely, the link on the slides has certain formats and can't be copied directly. 
+Hope we could have a more flexible schedule and deadline for the course. 

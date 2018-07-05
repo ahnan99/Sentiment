@@ -1,0 +1,1 @@
+This homework is very helpful for us to understand and remember the context that we learnt in the last lecture better. I got a better understanding about the map reduce, and learned more about the using and techniques of it. And I also got more familiar to the using of the Hadoop, got used to the basic commend of it. 

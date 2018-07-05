@@ -1,0 +1,1 @@
+This was an average homework. It was not fun. I thought question two / the sentiment analysis stuff was interesting though. Like the previous homework, we encountered small issues that were difficult to debug. Here are some words that come to mind when thinking about the homework: repetitive, average,   difficult.

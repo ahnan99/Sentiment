@@ -1,0 +1,1 @@
+I feel hw4 is much harder than hw3, but the thing I like about this homework is that it pushed me to really dig into building MapReduce for different tasks. I find the problem #2 e(1) a bit vague as to what "job management" means here. But the whole assignment is actually very interesting.

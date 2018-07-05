@@ -1,0 +1,5 @@
+HW5 is mainly about optimization of a MAPREDUCE job. We use a Combiner and a customized Partitioner to make our word count MAPREDUCE job optimal. Obviously, by using Combiners and Partitioners, our MAPREDUCE jobs' performance is improved a lot. Also, by using a Partitioner, it is easier for us to do analysis work based on the output.
+
+We also have a problem to customize a WritableComparable interface, which makes our MAPREDUCE job much more flexible, by re-forming output structure.
+
+Overall, hw5 is still a fair homework.

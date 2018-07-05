@@ -1,0 +1,5 @@
+cd ~/workspace/FPfilter/src
+
+hadoop jar fp.jar stubs.FPPreprocess /user/training/SP2017/*/* FPout/SP2017
+
+

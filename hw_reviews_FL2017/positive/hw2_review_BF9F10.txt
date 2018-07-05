@@ -1,0 +1,1 @@
+I thought the homework was good overall. It was very good to work through map reduce by myself. It really solidified my understanding of map reduce. I wish we were required to also to the group and combine step so that I could have a more thorough understanding. I also like doing the cluster state diagram.

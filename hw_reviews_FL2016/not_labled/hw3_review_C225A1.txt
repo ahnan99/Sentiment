@@ -1,0 +1,1 @@
+This homework was a great learning experience in terms of being able to test to see if MapReduce worked locally. I was overjoyed to see that we could write our own jUnitTests and run MapReduce without having to put the files on HDFS. I did not like using the console to do so, however.

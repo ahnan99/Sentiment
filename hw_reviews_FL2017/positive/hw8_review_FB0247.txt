@@ -1,0 +1,4 @@
+This homework provided good overview of transformation and actions in Spark.
+I got to play around with multiple xml and logfiles to extract the required information.
+Initially the values transformation was bit tricky. I was not able to find out how to get only value out of a  map type RDD.
+Once I figured that out things went smooth. Overall I am quite satisfied with this homework.

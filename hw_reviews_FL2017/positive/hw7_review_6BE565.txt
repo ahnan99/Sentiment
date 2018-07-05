@@ -1,0 +1,1 @@
+I thought this was a practical way of learning and reviewing what we did for the lab quiz. However, I do think that that doing this as our lab quiz would have been much more helpful than doing the lab quiz first. Furthermore, computing the components of cosine similarity are not explained in detail in the lecture slides. Such as computing dot product and normalization.

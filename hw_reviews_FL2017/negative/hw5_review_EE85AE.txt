@@ -1,0 +1,9 @@
+It seems that this homework is far easier than previous one and we assumed we
+ could finish it in couples of hours. But when we implemented our thoughts to 
+fulfil assignment requirements, many practical problems arise. For example, in
+ problem 1, we originally planned to split IP address with other words using 
+non-character sign “ - - “, but the output is not exactly what it’s supposed 
+to be. Because log records is a huge file and contains semi-structured data, 
+so format of all the records is not totally consistent with each other. Some 
+of them are split by “ – “. Therefore, our strategy failed to get the right 
+information. This is, big data is harder to handle than we expected.  

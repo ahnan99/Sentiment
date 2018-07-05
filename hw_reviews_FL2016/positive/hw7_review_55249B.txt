@@ -1,0 +1,1 @@
+Test I think there were quite a few tricky concepts in this homework, which was good that we got to practice them and see how the matrix multiplication applied in an actual problem with actual values. This was different because there were also problems from the book. It was different from the other homeworks, which were mainly implementation.

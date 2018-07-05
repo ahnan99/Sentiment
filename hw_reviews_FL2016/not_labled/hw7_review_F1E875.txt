@@ -1,0 +1,1 @@
+This homework was a nice change from the usual coding and Java homeworks we have. It was shorter but also provided insight into MapReduce and communication costs which we did not cover that much in lecture. Additionally, it was very nice to do work outside the VM environment for a change. I liked this homework overall.

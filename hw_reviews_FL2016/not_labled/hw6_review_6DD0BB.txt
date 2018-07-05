@@ -1,0 +1,5 @@
+The cloud computing homeworks are very fair I think. They help
+walk me through the material we learned and implement it. Implementing it
+helps my understanding of the material so I did ok on my midterm.
+This homework in particular, I had fun implementing all the 
+algorithms we saw and went over in class.

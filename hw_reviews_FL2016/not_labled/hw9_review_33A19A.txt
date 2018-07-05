@@ -1,0 +1,1 @@
+For this homework, I thought that the pig scripting part was quite simple. This was probably because I have experience with SQL and the scripting is about the same in difficulty. The hardest part was completing the lab, as I thought that the lab was quite difficult to follow, even if you attended class. It was very helpful though and had to be completed to finish the homework.

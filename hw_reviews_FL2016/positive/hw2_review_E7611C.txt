@@ -1,0 +1,1 @@
+This assignment was very interesting! I found that I was able to apply a lot of the command line knowledge I have acquired from years while doing it. Piping HDFS output into standard Unix shell commands was pretty cool. I look forward to seeing what the skills from this homework can be applied to in the future.

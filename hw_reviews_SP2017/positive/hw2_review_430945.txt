@@ -1,0 +1,1 @@
+This homework worked better than previous one. Since most of the stuff were discussed in class or during lab time, I didn't have much difficulties in getting the correct command. I did spend some time reviewing the defination of Mapper and Reducer, together with what input and output they have. But overall speaking it worked well.

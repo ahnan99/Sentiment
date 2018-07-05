@@ -1,0 +1,1 @@
+After finishing the homework2, I have a deeper understanding how HDFS separate the file and make sure each file have replication file in case that one rack doesn’t work. In the same time, I have a fully awareness how to map and reduce the data and meanings of keys and values. 

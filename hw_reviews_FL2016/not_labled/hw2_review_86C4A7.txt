@@ -1,0 +1,1 @@
+I enjoyed this homework assignment significantly more than the previous assignment. I liked getting the opportunity to write and run a MapReduce job. The other questions seemed fair and made me think about the background of the Hadoop system.

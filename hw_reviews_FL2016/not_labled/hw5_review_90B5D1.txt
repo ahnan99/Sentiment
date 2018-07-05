@@ -1,0 +1,11 @@
+For this time, I think the job is challenging thought the problem 1 is 
+not difficult. While for the problem 2, I think it is a bit harder for
+me, especially how to read the text files to the HashSet. It confused me
+for a long time as I tried more than 6 times. Firstly, I can not read 
+the posititive-words.txt and negative-words.txt. And after I solved this
+problem, I found it confusing for me to use the Distributed cache. And 
+then I read some files on the internet including the github. And then I 
+get some inspiration and modified the SentimentPartition.java and succeed.
+Though, it took me a long time to complete the homework, I grasped the basic
+knowledge of combiner, partitioner, distributed cache and file streams.
+And I learnt how to corporate with my partner.

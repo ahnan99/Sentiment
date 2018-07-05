@@ -1,0 +1,2 @@
+This homework was confusing at times with the wording. Problem 1 and 2 were fairly simple once we became used to writing and running code in SparkContext. Dealing with XML was confusing at times because I had never worked on XML before.
+Problem 3 was confusing at times since we often ran into errors in our very first time writing a spark program.

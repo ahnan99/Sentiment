@@ -1,0 +1,5 @@
+I thought that the homework was too open ended and asked broad questions, especially on number 3 when it asks about 
+the article. I found problem 2 to be very difficult; I spent a lot of time on it but when I finally got it I 
+realized it was pretty intuitive. And number 1 helped with understanding the big data dimensions but the slides 
+from class and the piazza answer to what complexity and labels were gave varying answers so I was not all too sure
+ about what to put. 

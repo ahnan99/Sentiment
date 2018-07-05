@@ -1,0 +1,1 @@
+HW 9 is very helpful for PIG and SPARK. But I am trapped by some application of running spark on YARN and viewing stages and tasks and it takes too long a time. Other part seems not too hard but still requires lots of understanding and codes writing. In total I feel positive for this homework, and it is a little bit too easy for this PIG and SPARK part of course.

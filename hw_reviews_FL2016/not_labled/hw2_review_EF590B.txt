@@ -1,0 +1,1 @@
+I found hw2 to explore a good variety of topics that we learned in the past week. For example, problem 4 was a good introduction to coding simple mappers and reducer functions in eclipse and seeing the workflow of how to compile and run the functions. Problem 2 on the other hand, while the concept was clear, it was a little unclear what exactly the reducer function was doing. 

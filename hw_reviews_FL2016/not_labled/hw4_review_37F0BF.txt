@@ -1,0 +1,1 @@
+The first problem is a good practical problem about ToolRunner. By using ToolRunner, we can pass parameters to MapReduce job in command line. In the second problem, we implemented MapReduce program, we wrote unit test and test the code locally. It is a good combination of all the previous knowledge.

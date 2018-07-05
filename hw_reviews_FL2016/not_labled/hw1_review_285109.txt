@@ -1,0 +1,74 @@
+---
+title: "Linear Statistical Models HW1"
+author: "Willie deButts"
+date: "September 7, 2016"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+1)
+a,b
+```{r}
+divusa = read.csv("R/divusa.csv")
+summary(divusa)
+``` 
+all variales seem okay at first glance, running sample correction to comply then generating the hist 
+c,d,e,f,g,h
+```{r}
+hist(divusa$divorce)
+divusa$divorce[divusa$divorce == 0]<-NA
+hist(divusa$divorce)
+plot(density(divusa$divorce,na.rm=TRUE))
+plot(sort(divusa$divorce),pch='.')
+plot(divorce~unemployed,divusa)
+pairs(divusa)
+```
+
+2) --
+
+```{r}
+beer<-c(4.2,3,1.6,.3,5.2,.7,3.2)
+BAC<-c(8.2,6.5,2.4,.5,9.6,1.6,5.5)
+df2=data.frame(beer,BAC)
+fit <- lm(BAC ~ beer, data=df2)
+fit
+
+```
+Now time to plot 
+```{r}
+plot(beer, BAC, main="Beer vs BAC", xlab="Beer", ylab="BAC",pch=19)
+co <- coef(fit)
+abline(fit, col="navy", lwd=2)
+```
+
+3)  -- 
+  a) yhat=8+3x | x=8 | yhat = 8+3*8 = 32
+  b) x=5 |yhat=8+3*5=23 | residual = |38-23| = 15
+  c) if x increases by 5 yhat will increase by 5*3 or 15
+  
+  
+4)
+  handwritten see pages at end 
+
+
+5)
+  a-c
+  
+```{r}
+tableb4 = read.csv("R/tableb4.csv")
+fit <- lm(y ~ x1+x2+x3+x4+x5+x6+x7+x8+x9, data=tableb4)
+summary(fit)
+
+```
+  B) As the p-value is much less than 0.05, we reject the null hypothesis that all variables are equal to 0. Hence          there    is a significant relationship between the variables in the linear regression model of the data set.
+  C) we can see the two R-squared numbers in the summary to explain this | R-squared:  0.8531,	Adjusted R-squared:         0.7587
+
+
+6)
+  handwritten see pages at end
+7) 
+  handwritten see pages at end 
+
+

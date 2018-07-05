@@ -1,0 +1,2 @@
+Homework 1 is not hard. Basicly we need to read the book and paper very carefully and understand what is big data and the important property of big data.
+The reading for problem 3 took me a lot of time since we need to read the whole paper. This is my first time to read whole paper in order to solve one single problem so it is harder to me than other problems.

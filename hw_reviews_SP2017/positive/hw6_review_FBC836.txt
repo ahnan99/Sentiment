@@ -1,0 +1,1 @@
+This homework introduces a further function of MapReduce process and how to make the process more efficient. The homework is a good review of the lecture and offers valuable coding experience to me, which gives me a deeper understanding about both the concepts of the class and how to realize it by myself.

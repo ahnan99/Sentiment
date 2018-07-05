@@ -1,0 +1,34 @@
+cd FP
+
+hadoop fs -put ~/FP/sp2017out/part-r-00000 /dualcore/sp2017reviews.txt
+hadoop fs -put ~/FP/fl2017out/part-r-00000 /dualcore/fl2017reviews.txt
+hadoop fs -put ~/FP/fl2016out/part-r-00000 /dualcore/fl2016reviews.txt
+
+hadoop fs -put ~/FP/neg-words.txt /dualcore/neg-words.txt
+
+hadoop fs -put ~/FP/pos-words.txt /dualcore/pos-words.txt
+
+
+
+
+
+
+hive -e "ADD JAR stop.jar;CREATE TEMPORARY FUNCTION STOP AS 'stop.StopWords';SELECT hw_id, hw_number, label, STOP(lower(review)) FROM reviews;" > ~/FPout/presp2017.txt
+
+
+
+
+
+
+hive -e "SELECT * FROM swlist;" > ~/FP/english.stop
+
+
+
+
+
+
+hadoop fs -put ~/FP/presp2017.txt /dualcore/presp2017.txt
+
+hive -e "ADD JAR score.jar;CREATE TEMPORARY FUNCTION SCORE AS 'sentimentscore.Score';SELECT hw_id, hw_number, label, SCORE(review) FROM presp2017;" > ~/FPout/sp2017score.txt
+
+hadoop fs -put ~/FP/sp2017score.txt /dualcore/sp2017score.txt

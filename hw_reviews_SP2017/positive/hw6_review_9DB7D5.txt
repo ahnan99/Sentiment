@@ -1,0 +1,1 @@
+Homework 6 is slightly longer and more challenging than the previous ones but that also makes it more exciting and rewarding when you figure out how to do it. It is a good exercise in writing custom writables and comparables, reading and writing compressed and uncompressed sequence file and implementing an inverted indexer. Overall it was a very helpful exercise.

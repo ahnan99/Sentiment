@@ -1,0 +1,6 @@
+This homework was kind of confusing, as I missed the lab this week.
+I managed to finish the lab pretty easily, but I struggled with the harder homework.
+I found the commands in pyspark to be very confusing, and it was hard to debug line by line
+If I knew python or Scala, it would have probably been easier
+But I don't and so it was not.
+The questions did not take too much time to answer, but they were difficult to debug

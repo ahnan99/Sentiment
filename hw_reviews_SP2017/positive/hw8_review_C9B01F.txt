@@ -1,0 +1,1 @@
+Overall I think the homework is very helpful in terms of practicing the very foundamentals of the algorithm of building recommendation systems. I do feel implementing mapreduce job in java is kind of a hassle especially for simple tasks like sorting. My teammate and I struggled as to how to run the two jobs without getting error in the terminal. Fortunately, we figured it out. 

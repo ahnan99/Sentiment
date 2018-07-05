@@ -1,0 +1,1 @@
+This homework reminds me of many common commands used in Linux and gives many chances to me to do MapReduce testing locally and on the clustering, which is valuable. However, some questions are a little difficult to understand. I am always wondering what the questions are exactly asking. I think it is better to give some hints.

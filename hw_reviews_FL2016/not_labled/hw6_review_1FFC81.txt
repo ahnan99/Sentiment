@@ -1,0 +1,1 @@
+As always, I think the homework helps me well in learning the materials of the lecture. And there is no exception with this one. We practiced SequenceFiles and Compression. Also, we practiced two algorithms that we learnt from the lecture, InvertIndex and Co-occurrence. I wish we could in the furture we could have more labs and real problem to practice with.Thanks

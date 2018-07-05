@@ -1,0 +1,5 @@
+1. This problem tests some basic knowledge od command line. I like this style, but it is painful to gather the command line and results to Latex. Also, I feel confused about (c), it seems obvious but still hard to express;
+2.This problem test some MapReduce concepts as we did in lab2. I think it is good, not too hard;
+3.This is quite similar to problem 2, still testing some basic concepts of MapReduce. I feel comfortable and relaxed when I am doing both problems;
+4.The first is good, copying contents from terminal.Still it is extremely hard to maintain the format when i am using a windows latex. Nevertheless it is not a hard one. So is the second one as well. I don't like c and d. I am lost about that.
+In sum, I think hw2 is quite easy, apart from a few point. I feel good about it.

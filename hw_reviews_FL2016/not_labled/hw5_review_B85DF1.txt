@@ -1,0 +1,2 @@
+ I'm so struggle with this assignment as my previous assignment, now I really with  I could have a partner. I spent 2 hours to figure out how to sent the files into the distributed cache in the unit test which doesn't exist in the unit test!
+ after all, I think it is useful, to reinforce my learning in the class. I just wish the instruction could be more clear.

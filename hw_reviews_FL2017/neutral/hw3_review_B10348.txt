@@ -1,0 +1,4 @@
+I enjoyed this homework mostly due to the focus on implementation. I think
+this was the first homework where we implemented all the classes from scratch.
+I spent more time than I would have liked on part 3 since I wasn't really
+sure how to make the mapper class check for the set parameter.

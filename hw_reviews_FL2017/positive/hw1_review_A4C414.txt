@@ -1,0 +1,9 @@
+1.As a non-engineering school student without strong computer science 
+background, I appreciate your really, really detailed intrudction to 
+environment setting and Linux command line. It made things much simpler 
+than I expected.
+
+2.From my perspective, this homework aims to help us understand a big picture
+of what data will we use and what questions we will answer using Cloud 
+Computing technique, especially the third question. I like that part and it's 
+quite helpful.

@@ -1,0 +1,1 @@
+This homework helps me review the lecture contents about combiner and partitioner which can improve the efficiency of MapReduce process. I learn that when and where combiner and partitioner are necessary. Through this homework, I know how to build combiner and partitioner in MapReduce work in code. Homework 5 is a good combination of practice and class knowledge.

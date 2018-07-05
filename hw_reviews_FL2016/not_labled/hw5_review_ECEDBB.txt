@@ -1,0 +1,1 @@
+This was a better assignment than previous ones. Writing the combiner, partitioner and custom Writable Comparables were good exercises. The Combiner was pretty easy and so was the writable comparable. I still  feel that the VM is not very useful, as running locally and on Hadoop is not much different. 

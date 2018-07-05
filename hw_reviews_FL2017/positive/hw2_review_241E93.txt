@@ -1,0 +1,1 @@
+This homework leads us to read the book related to hadoop, and let us review the concepts and commands of Distributed Storage and MapReduce of hadoop. Based on the plentiful reading material of hadoop and some mathematic models of MapReduce method, I think it is a great homework for us to complete.

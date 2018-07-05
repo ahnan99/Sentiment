@@ -1,0 +1,1 @@
+Hw4 contains quite a lot of coding. It is not that hard to complete the requirement, but I think the vitual machine is working weirdly. I means, inconsistent. Sometimes when I run my project using the toolrunner, it fail but the other time I run it, it succeed. I don't know the reason for that, but it is not really friendly indeed.

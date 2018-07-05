@@ -1,0 +1,3 @@
+I felt like the homework was well paced. It led to the implementation of a MapReduce job which can seem like a daunting task. It was really helpful to work through and run a previously existing MapReduce job so that we could see how it worked internally, code wise. Then, implementing our own modified version is easier. I felt like I came out of the homework with a better understanding of how MapReduce works. 
+
+The homework was a mix of practical and theoretical applications of HDFS.

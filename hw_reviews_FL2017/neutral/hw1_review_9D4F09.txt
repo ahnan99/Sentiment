@@ -1,0 +1,1 @@
+Homework 1 is relatively easier than the later ones I suppose. I think it is a good way for starting chewing on the materials of big data. The first question is really great exercise to get a deep understanding of the properties of the data. But it is tough for me to do so many probability calculation and read a very long paper. 

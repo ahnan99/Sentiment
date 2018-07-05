@@ -1,0 +1,4 @@
+Zheng Yuan
+452091
+
+Considering problem3, I think this homework is very helpful for us to get familiar with how to write your own MapReduce task instead of understanding the concept of the MapReduce only. As for the first problem 1 and 2, it gives us a chance to recognize the challenge and the bottleneck of the Hadoop MapReduce job execution, which are also good questions.

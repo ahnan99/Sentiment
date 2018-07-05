@@ -1,0 +1,1 @@
+I enjoy using Pig, so this homework was pretty fun for me. I liked the opportunity to explore more of the commands and relation manipulation methods in Pig. I have used SQL before, so it was nice to have that previous knowledge when approaching this assignment. It was still a decently time-consuming homework, because I had to continuously look up certain keywords and commands.

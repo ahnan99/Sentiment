@@ -1,0 +1,2 @@
+Homework three is not so hard. I just need to read the textbook to get the knowledge of the HDFS. But I’m a little disappointed since homework three is still just requires writing. I’m looking forward to more practical problems, like programming a real mapper or 
+reducer. Fortunately it will come next time.

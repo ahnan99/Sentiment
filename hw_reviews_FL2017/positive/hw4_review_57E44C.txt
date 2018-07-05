@@ -1,0 +1,1 @@
+In general, I really enjoy doing homework 4. Both questions contain implementation part which I really like. It helps me to do actually hadoop map reduce examples. Both examples are very useful. The sentiment analysis question is really interesting. It give me one way to analyze sentiment in a text. Also, they help me to understand ToolRunner better.

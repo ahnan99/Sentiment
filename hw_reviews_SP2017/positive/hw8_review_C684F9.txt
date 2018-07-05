@@ -1,0 +1,17 @@
+# Homework8 Review
+
+ - Zheng Yuan 452091
+
+Program1:
+(1) Its a great opportunity to write a whole mapreduce program by ourself.
+(2) Help us understand the how to analyse the distribution and cope with the enthusiastic and overly pessimistic raters.
+
+Program2: 
+(1) Help us get a clear concept of difference between cosine similarity and Pearson correlation, connection between normalized cosine similarity and thePearson correlation.
+(2) Help us know the strong point and weakness of cosine similarity measure.
+(3) Help us know the disadvantage of Jaccard similarity measure and the way to cope with it.
+
+Program3:
+(1) Help us understand the advantage of item-item similarites measure.
+(2) Help us understand the procedure of the mapreduce job of the item-item similarites measure.
+

@@ -1,0 +1,1 @@
+This homework was bit hard to implement. However the link to the github website made it relatively easier once I went through the code there. I am quite happy with this home work. It game me chance to play around with netflix data which is great. The second part was also good exercise to compare the run with and without combiner to show the rate in input output.

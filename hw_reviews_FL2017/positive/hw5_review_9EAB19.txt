@@ -1,0 +1,1 @@
+This homework is an interesting one, however, it is not so difficult for us to complete. It allows us to analyze the log data from a log file, and help us to deal with a word co-occurrence problem in our Shakespeare poems. We write a lot of code in order to execute the MapReduce job, so I think it is a good one.

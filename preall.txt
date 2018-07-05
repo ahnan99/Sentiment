@@ -1,0 +1,707 @@
+0513A4	5	positive	 great opportunity hands work system beginning create without hand holding may try own large amounts 
+0C0D7E	7	neutral	 past few ve matrices aren usally enjoy expected multiplications calculating efficient  nice conceptual great grasp materials until finished 
+0C3247	1	neutral	 alright enjoyed gave worked further reinforcement always good likely occur exam straightforwrad understood derivation d p frustrating none values computed inputs worked according table probably caused bang head wall stare long interesting difficult vocabulary specialized least regular  computer science jargon addition section semantic web incredibly random sense context rest poorly  liked wish like who kidding 
+10F867	5	neutral	 typos difficult  addition wording confusing weren driving inevitable wish partitioners d nice everything exams extra 
+1B4001	9	negative	 wacky ages filled sorts hijinks reality pretty average enjoyed decipher pages errors painful fun 
+1BA5C6	4	positive	 actual difficult difficult exact prompt difficult majority relatively straight almost like trick easy 
+1F0ABC	7	negative	 taxing rest amount difficult like mostly copy pasting  worst best d say around worst 
+254A0C	10	positive	 favorite yet enjoyed apply preferred language framework processing best ve highly recommend retain semesters 
+3630AA	7	negative	 home work long tedious everything normal amount freaking long multiple thank god right basically copy paste glad those operations shit 
+3829F6	8	neutral	 concerning collaborative filtering fairly confusing struggled algorithm correctly derive pearson cosine   wording particularly confusing gone based comparing users change mindset compare movies 
+3894F5	1	neutral	 straightforward reason difficult challenging easier based somewhat complex 
+3C33F6	7	positive	 challenging rewarding wonder receive solutions point studying easier difficult rewarding well enjoyed despite difficulty completing like 
+459EBD	2	positive	 assignmnet fair unambiguous level  fine struggle often annoyingly long amount glad solve maybe length tedious solve faster happy work happy sad often well maybe enjoy happy thinking work 
+4DBE00	5	negative	 enjoy hard arduous tired tough hard like happening every point here enough hand holding certainly hand holding best those applications classes step step processes better therefore please implore directions step step rules follow manner satisfactory manner thrive well tests exams 
+4E15C1	4	neutral	 interesting relatively neutral terms difficulty easy rather long probably useless your sentiment neutral completing additional work skills 
+55249B	7	positive	 few tricky good applied actual actual values mainly 
+582149	5	neutral	 average fun sentiment stuff interesting like encountered small issues difficult debug here words come mind thinking repetitive average difficult 
+5F9D7D	3	positive	 enjoyed mr local machine cool unit those instances mr good tool poorly worded happens 
+608B84	10	neutral	 honestly bad actual fine split work instead together usually focused thanksgiving yay turkey 
+65CC4D	2	positive	 interesting like coded talked good amount system  having terminal linux vm relevant education 
+65F9D8	6	negative	 went well usual basically sense asked noticed differences like involved otherwise well 
+695F12	10	neutral	 submission finished eating food family thanksgiving fifty words words sentiment needs adjectives here adjectives bodacious radical awesome neat pythonic final project maybe 
+6A1F98	10	negative	 annoying like every homeowork  wonder why annoying access ui unless finished firefox access server 
+6AAF0E	4	negative	 long enough consuming mostly specific steps needed why work fun nor productive execute work study indeed useful wonderful helpful productive well create well steps finished quickly work spending long long work due monday guidance aid steps walkthroughs tutorials quickly quicker productively summary helpful consuming reiterate enough online tools refer speed love work work fast 
+6DCDF8	3	neutral	 confusing hard recalling mentioned nice focus instead relying fill gaps oh well probably fail exams wish hws exams oh well 
+71697F	4	positive	 liked like solid hands experience cool seeing alter settings change results conceivably option case sensitive insensitive values extra useful natural language processing pursuits 
+717387	5	neutral	 several typos difficult completing  great typos like fixed avoid small errors cause headache  otherwise terribly difficult reviewing expected 
+747330	5	positive	 went well work couple bugs rest went smoothly like 1d like asking whether bad space wasnt talked figured everything else good 
+7894B0	6	positive	 enjoyed lots co occurrence well inverted index stuff terribly ecstatic completing grown terribly miserably glad finished everything stress frighteningly happy work usually takes grudgingly long period finished terribly quickly terribly excited happy thankful assigned terribly lovely taught completed terribly reasonable amount 
+7AC0D2	1	negative	 hw1 relatively underlying terms understood initially complicated confusing ex semantic web vs semantic interpretation say easy confusing well 
+7EC9CA	4	positive	 fairly straightforward understood directions trouble initial error rather correct jo getconf  interesting well 
+7FC1B8	6	positive	 wish decently fun unable went global hack weekend hackathon fun wish utilize project 
+80E078	10	neutral	 confusing wording fairly became sparkcontext dealing xml confusing never worked xml  confusing often ran errors 
+818434	8	negative	 went well graph probably biggest hurdle faced reccomendation systems better 
+850AF1	3	positive	 reallly enjoyed distributed system mainly fairly useful info later probably cluster oftentimes good sometimes errors ta capable helping themselves solve myproblems bad detracting positive aspects good bad good indeed mentioned saying certainly doubt mind put together better knowledgeable tas convenient like thank anyway teaching teaching rely tas complext often solve 
+89B222	1	positive	 good year reinforced mathematical elements back swing introduced showed application novel ways positive semester difficulty absurd either 
+8B414B	9	negative	 went pretty well needed regular expression script access figured went pretty fast pretty tedious dont every 
+8EB048	10	negative	 hardest semester ran bugs corrextly python bbut scala etc probably tripe normally 
+91C085	3	positive	 home work good experience easy straightforward wish 3rd specific needed 4th pretty straightforward supposed screen shot condusing numbber helped like others helped better 
+9315A6	8	negative	 another fun enjoyed lie enjoy pretty painful here words describe fun fun besides average 
+947D5F	1	negative	 overly tedious difficult explain rationale half like gut feeling  number difficult until started excel spreadsheet equations became easier tinker around specific equations easier identify incorrect knew equation increasing decreasing  number awkwardly structured somewhat frustrating present interesting showed necessity 
+9E041A	9	positive	 fun good better tedious fun fast annoying having nice ide detect syntax errors error messages helpful 
+A3207F	8	neutral	 fine cool deal netflix manipulate fun short script plot points matplot lib ly honest tedious weekly recurrence 
+A4AE3B	6	positive	 enjoyed others mostly answering  relatively wish shakespeare shakespeare 10 minutes  extra credit doesn sense ran errors unrelated 
+A61C1D	4	neutral	 somehow long tedious yet long tedious  hm point almost sounded like exact copy previos hw3 nice feedback quicker like tas busy busy weekly gonna lie wee stressful 
+A726AC	3	positive	 confusing certain direction certain asking  helped completion needed certain expected 
+A7505A	9	negative	 ambiguously worded prof neumann judgement calls supposed literally every single said shortest somewhat annoying 
+ACACD7	6	negative	 hello friends few adjectives few good bad words changed mind pretty awful continue words come mind vague danimals faced xylophone harsh 
+ADB496	8	negative	 hardest graph enjoy like knowing graph increase subject graph helpful visually unfair give without graph taken 
+B094AD	9	negative	 worded fairly vaguely wish better clarification c whether relation counts total number clicks site created original filtered created earlier c 
+B3C993	7	positive	 enjoyed work matrices math general matrices work tandem functions good hard certainly prove useful powerful execute conclusions indeed good worthwhile taught useful skills tools liked work conceptual abstract math major sort thinking like 
+B5A155	4	neutral	 complaint log couldnt path unzip want bad easier told another say notice along those lines knew looking sometimes dont notice anything sometimes notice multiple dont put 
+B95CA9	2	neutral	 fun maybe shorter easier expected enjoyed useful upcoming exams glad stubs off easy  almost matter copy paste wordcount  harder otherwise 
+C2F520	1	positive	 liked good went method  enjoyed lack consistency equation derived frustrating  abstract led discussion 
+C6AF5E	8	negative	 hard compared ones long hard kept making dumb mistakes life difficult hard like info rather  chapter ones assigned unit annoying stupidly annoying wording like talk item item why saying pairs movies ugh 
+C70FAB	3	negative	 difficult others ambigious unguided answering difficult hard expected  guess challenged ways forced good 
+C76447	7	neutral	 harder right vector came best solution helped conceptually easily normally does 
+CAC7B6	8	negative	 like say bad enough long consuming life tough unfortunately wonderful useful work indeed behind seem anything pick valuable skills work school work like 
+CC14C4	10	positive	 good useful well taught worth fifty percent points hand important maybe why worth points terribly wonderfully fine like enough work myself single person who wants every enjoy his her life 
+CFE3A6	3	neutral	 redundant others intersection suppose better helped reinforce practices weak study prepared yee 
+D23DB5	1	positive	 helped categories approach observe chance brush math probability skills derive generic formula evildoers based man principle decent tool helping solidify everything thus cse 427 taught professor neumann tell people well benefit hopefully benefited myself 
+D36358	7	negative	 fun idea accurately communication cost currently drinking water great adjectives terrible reach fifty non fun words reason include following adjective halloween hallowed 
+D4E133	2	positive	 extremely good helping create execute own exciting possibilities apply hands comfortable 
+D84A9A	NULL	neutral	 nuisance coming off thanksgiving break granted bad extra extension due wednesday rather monday 6 10 yeah neutral response 
+E7611C	2	positive	 interesting apply acquired years piping standard unix shell pretty cool seeing skills applied 
+EC6D5E	6	neutral	 deceptively easy harder right said takes few lines deal sequence reason brain fart everything every supposedly studied exam whelp 
+F1A4E4	9	positive	 faster ones fastest enjoyed simpler easy easier specific right specific functions 
+F2156D	2	positive	 long liked helped stuff fourth beccause couldn nice somewhere else said went well learend 
+F9B304	5	negative	 frustrating stub exactly misleading actual content interesting ran bunch bunch unrelated usual whatever 
+FA2727	9	positive	 enjoyable good piece work scripting general latin syntax became comfortable analyzing forms types language taught certainly terribly wonderful regardless spite difficulty hard good taught skills scripting productive extract specific ad companies specific useful wonderful teach skills valuable useful skills tools 
+0090F7	7	positive	 general like 7 interesting theoretical boring particularly prefer exercises rather keep looking theoretical besides collaborative filtering 
+025982	8	positive	 better ones pretty clear comfortable afterward alright well thankful xml parsing stubs written 2b confusing excerpt desired rdd clearer asking alright fine well unsure operation 3b refers general operations filter count etc specific instances operations called particular function may called operations 
+02B9A0	8	positive	 another interesting perform python pleasing work python format perform rather utilizing easier debug without overhead fun playing rdds perform transformations mapping features 
+02D8D9	6	neutral	 busy mid term exams around 10 including lectures transfer movie id number movie name difficult  always work 
+034CDF	2	neutral	 straightforward fairly easy ambiguity seem overly simplistic types mappers reducers implementing ones instructive perhaps come 
+0433AE	5	positive	 like bad several examples discussed give hints pipeline discussed needed implemented fairly short sumreducer wordcount liked good amount conceptual well under hood ve assigned 
+05B530	5	positive	 involved outside bunch earlier lectures good supposed another exam ll advantage late day policy  challenging good 
+06D018	8	negative	 particularly difficult mind range considering ve confused asking eventually figured research significantly harder 
+0818A0	9	negative	 long reduced scope usually classes exam double compensate fair pass off studying exam weighted double normal based 
+083D08	9	negative	 lengthy good terms exam preparation involved work wish shortened feeling others opinion 
+08F612	4	positive	 lots debugging small cause final result document gave good induction piazza met timetable right soon possible 
+09CE15	7	positive	 great chance invertedindex name value exercise collaborative filtering cosine jaccard useful method 
+0A301D	7	negative	 hard confused why cosine compute movies pairs movie5 user gave grade movie5 movie condition similarities 0 judge anything fromn means numberof users small item item good user user normalized cosine result change 
+0B2E6E	3	neutral	 somewhat easier sort covered execution talked easier work somewhat difficult trying skew works struggled trying difference reducers tasks functions referred inconsitencies textbook confusing besides rest moderate difficulty 
+0DD66A	6	positive	 comprehensively inspects ability scratch fairly challenging compared ones requires students every detail driver codes taught efficient terms debugging strengthens optimization techniques good combination nutshell 
+0FFDE2	7	positive	 good combination abstract physical enjoyed depth differences user user item item produce inverted index clearer stuck couple good covered well 
+10876C	6	negative	 somewhat complicated means mappers reducers drivers confusing trying match types key value outputs mappers reducers try correct debug whole whole dataset answering bad 
+10E9ED	1	positive	 enjoyed appreciated fact involved external materials slightly harder bonferroni principle probabiliy statistics excited sentiment like end semester 
+120A91	8	positive	 light loaded fully understood materials covered topic  comparing task handy efficient complex work  few minutes users limited backgroung constrution rdd  pretty creative 
+12A42D	5	positive	 enjoy handle comfortable saw result bar existing processed amazing improve like solve special characters poems 
+138511	9	negative	 terrible straight horrendous freakishly long freakishly hard looking glad almost makeup screwed terribly 
+138E1E	3	negative	 like relatively straightforward needed guess confident those somewhat relevant wish stuff instead talking works high level nice interact actual cluster content matters opposed memorizing 
+13B5F2	5	positive	 happy implementations hard seem straightforward versions quit move whole virtual machine external hard drive starting work gone pretty frustrating hoping elaborations literally idea splits means least covered discussed 
+14320F	6	positive	 helpful remember context learnt better orgnise result save memory call several reducers design their theory 
+14FDFF	4	neutral	 anticipated barely met deadline having couple extra days frustrating stressful stuck few rewarding everything properly recieved believe proper results try allot myself 
+15047C	8	positive	 8 requires work exploration functionality user friendly faster tricky python language great experience 
+1601FD	4	positive	 fun dancing codes instead helpful takes glad certainly important 
+1677DB	7	positive	 clear math envision cosine non zero vector zero vector thus understood point dual approach doesn tell already gives similarities items fail why fill missing values utility rest fine confused math maybe 
+185EE0	7	negative	 difficult clue helpful dont faced unusually tough least hopefully better 
+189B9D	2	positive	 bad started earlier info necessitated google searches bad 
+1B4145	6	positive	 thoroughly enjoyed completing freedom opportunity whole development own addition world application showed important work confident create complex past excited upcoming provides everything here opportunity confidently demonstrate skills opportunity build confidence 
+1B52AE	1	neutral	 somewhat easy basically those mentioned  complicated becasue careful checking formulas good simplified textbook saves life  dull said unreasonable granted like fact reveals tries hide notion model sucks seriously student background ml nlp may hard key idea 
+1D5C3E	2	positive	 similarly exercises like effective sense requires well well explained unlike usual extensive cse classes confident believe off good 
+1E12E4	5	positive	 alright good stuff pretty straightforward encourage co occurrence stuff pretty interesting sentiment clearly complicated quickly coming finance background sentiment driven trading interesting knowing accomplished gives pause potentially currently involved algos pair 
+1E7E6B	7	neutral	 inverted index life application large scale index basis additional text mining algorithms normalization important collaborative filtering difference cosine angle direction pearson effect positive vs negative accurate representation user ratings item item utility improves effectiveness collaborative filtering 
+1EAFF0	3	negative	 good home work like size clearly like combine theory fully theory node name node well relationship 
+22B1E0	9	positive	 helpful remember context learnt better give good chance tools learnt ourselves deal techniques particular 
+236573	1	positive	 great work let property its applications means calculating good interesting beginners 
+241E93	2	positive	 leads related let distributed storage based plentiful mathematic models method great 
+2594D3	5	negative	 usual like comfortable worded clearly assumptions clearer few couple 
+25E590	2	negative	 confused nodes whether correctly send namenode download namenode locate node wil check vaild chance download incorrect invaild download necessarily download node usually duplications namenode locate node confuse conception namenode node 
+2662FB	1	positive	 designed reasonably well good starting point exercise students looking various types points imperfection section d ambiguous terms asking difference implication nice probability skills extends students textbook insight students summary skills good encouraging students their own might effective terms enhancing students hand skills bonus great taking advantage produce resources coursework nutshell well organized 
+2731CC	4	negative	 harder compared debugging figuring wrong taken mistake 
+28FE75	5	positive	 late submission midterms pretty straightforward confused communication cost correctly co occurrence fun like re headed towards fun stuff local eclipse becoming habit 
+29C459	5	positive	 like repition introduced enjoyed co occurrence helped put perspective consider creating like including issues might arrise pairs approach good providing reinforcement introduction 
+2B20B3	2	positive	 like size clearly like combine theory fully theory node name node well relationship 
+2B8DC2	2	positive	 homework2 helping finishing better hint pointing right place question2 question3 familar important idea coming work 
+2C2014	7	negative	 interesting computation similarities items coming collaborative filtering vague lectures ended useful tool thoroughly during hte surprised fact algorithms associated collaborative filtering index inverting hard finished easy comprehend confidence implementing impressed thankful chance lectures deeply related contents useful solving thank 
+2C6982	7	positive	 difficult nor consuming compared past few cosine calculation confusing understood formula steps work easy conceptual thinking bad implemntation long bad 
+2D958F	8	positive	 difficult like matlab julia repl nice exploring experimenting transform efficiently pipeline large scale computation needed trick discover happy  difficult like matlab julia repl nice exploring experimenting transform efficiently pipeline large scale computation needed trick discover happy 
+2E4EA5	9	neutral	 9 contains plenty dues others must materials exam looking weeks ago everything clear almost whole day great usage algorithm pagerank 
+2E78CD	2	positive	 enjoyed helped further storage works asking specfic stored good addition figuring works step step favorite work pretty hopefull let solve complex taught excellent base storage 
+3018E6	7	negative	 helpful remember context learnt better orgnise result save memory call several reducers design their theory 
+31A0D6	3	positive	 easier ones like feet wet virtual machine environment vague specify assumptions long takes count mostly looking 
+31EBF9	7	positive	 difficult weeks portion short easy invert indices task quesiton purely conceptual difficult either probably difficult task via pen paper believe manageable 
+320BE1	3	positive	 experience hand useful observed whole works better strength possesses excited further implementations powerful method 
+32E8EC	3	positive	 concatenating contents together prefer global view treat conceptual terminology needs practices 
+33634C	6	positive	 idea mini compare result without work 
+34DC1D	2	positive	 number difficult conceptual capable interesting revolved around design space managed rack cluster meet requirements replication fault tolerance enjoyed involved hands approach processing flow happens stages pipeline 
+351AE1	4	positive	 wish went distributed cache particular documentation isn specific trouble tool runner parameter local distributed clarity nice additionally doesn ton sense people junit tests trouble bits conceptually 
+35C4C7	8	positive	 probably shortest looking fairly quickly basically needed thus fairly easy like enjoyed 
+35D7EE	1	positive	 straightforward enjoyed specific table trouble right p d enjoyed 
+35DAC5	9	negative	 disappointed those themselves fine won due strange bug pretty scripts correct disappointed those themselves fine won due strange bug pretty scripts correct 
+389C8F	9	negative	 thiw frustrating ended stuck sometimes obvious d stuck syntax obvious ended despite extra allotted probably frustrating 
+38B21C	6	positive	 like build whole project step step building whole framework starting fill perfect individual important strategy string parsing separate helpful complications whole system frustrating implementing distributed cache realize add special stuff driver distributed cache 
+3933FA	8	negative	 difficult confused c function extract activation xml return list rdd result item list another list getmodel getaccount function function work list flatmap extract activation generate list rdd item activation type index function instead flatmap convert item list activation item 
+39BA20	3	negative	 almost every dealt confused 1b says lab0 cheet sheet check total lines directly lab0 access check means wo download local client check lines 
+3B17A3	4	negative	 lots confused put path otherwise txt folder jar obtain lab3 always return roote illegal details fs distinguished want change name possible 
+3D3DEF	4	negative	 particular left feeling pretty frustrated trying fight back behind classes exception attempting late night fell asleep try today enjoyed subject matter ran end good note svn giving issues meet somebody engineering services another unneeded delay 
+3E7393	9	negative	 extremely challenging complex encompasses pagerank theory vector excution details usage scala added complexity python students examined across number processing techniques incredibly rewarding scala expected digging 
+3E8B9A	4	negative	 difficult trying configuration finding best setup function mappers accessing txt trouble executing hard days 
+3F787A	9	positive	 15 hour themselves difficult framework seem easy stuck details languages latin might few weeks 
+3FD84E	3	positive	 linux lists count values adding calls pull necessary inputs filesystem fairly straightforward improving wordcount algorithm several ways goes improvements become obvious skew components cluster becoming daemon specific role those components must work together 
+42432B	9	negative	 worked substantially normal extra midterm keeping exams normal normal guess particular say rather tedious saw value steps stages follow math pretty easily interesting compared v 
+4304AA	8	positive	 python useful put language earn professor mention important easy lots 
+435456	7	positive	 comprehensively inspects format collaborative filtering recommendation system well designed guide students specific non default format final allows students walk approach gives direct effective 
+439FE9	9	positive	 challenging others informative ones multiple components biggest helped deep subject properties benefit 
+44BE2F	8	negative	 interesting possibly due poor explanation vague questioning interesting becoming useful encouraged continued advancement materials continuing excited prospect own move low level examples 
+45341A	2	positive	 confident filesystem abstract blocks distributed across nodes fairly straightforward already unix linux equivalent fs interface starting hang work well functions operations organization those operations important 
+4651AC	1	negative	 theoritical theoritical expecting introductory disappointed hopefully better textbooks content unexpected 
+46EB38	9	negative	 particularly long considering extra work remaining studying exam ran trouble down pseudo vector probably particularly difficult like focused those good extension learnt 
+48EC50	1	neutral	 starting always stressful always expect judging feedback better judge perform rest semester gave frustration confidence statistical abilities restored confused sometimes asked always answering asking 
+495C73	3	negative	 hard textbook disappointed requires looking like  fortunately come 
+4971E1	1	neutral	 interesting slightly frustrating enjoyed having combination combined math slightly confused unsure long literary unclear level detail provide lastly odd bad weren topics involved math level difficulty decent enjoyed opportunity obtain extra credit 
+4B6412	6	negative	 interesting possibly due poor explanation vague questioning interesting becoming useful encouraged continued advancement materials continuing excited prospect own move low level examples 
+4BF4B2	9	positive	 compared good exam give opportunity asked detailed sides liked saw results 
+4BFD49	8	positive	 compute already without step step guide slow api guide gave function finished familier pipeline rdd within rdd value variable deal like normal python give tip 
+4DEFA7	4	negative	 hard wonder professor neumann uses analyze challenging 4d creatively  looking 
+4DFABE	1	neutral	 bad main gripes lie benefit comfortable six dimensions apply sets debating whether sets meet loosely defined criteria like needlessly semantic exercise pretty amibiguous places dealing ambiguity accounted good amount those never answering wanted making pretty uncomfortable work best virtue concrete like solid internalizing bonferonni principle okay like grasping straws say labeled vs unlabeled guess won until back whether said enough hoping concrete direct expect 
+4E671E	8	positive	 great chance conceptualize become dexterous utilizing intriguing syntaxes unfamiliar hard grasp deal those regarding stored system tangible easily visualized saved storages hard debug keep track finalized recognized hard expected satisfactory results implementations confidence implementing liked everything organized structure rigid legitimate insights thank appreciated 
+4EF4F2	9	neutral	 long compared point wise students expressed frustration fact ok everyone hold standard fine hard well versed math hopefully wont bad 
+52E895	7	neutral	 pretty alright major complaints worth mentioning totally unable table 8 7 htdg appendix haven couldn tables chapter 8 beyond table 8 8 pretty helpful better reference fine pain easy imagine someone solid might lose points copying errors checked like typos hard catch bad ll come down graded 
+539C2D	7	positive	 funny tried custom fileinput someone point built inputformat kept throwing myself tried customized students might struggle 
+56C496	1	negative	 e problem1 annoying e wikipedia clear specifically object whether wikipedia articals whole specific tried ways hopefully give good mark  compounds require chemical shallow good chemics causes trouble  problem2 clear definition said several sentences like meet hotel whether must meet hotel d days together whatever hotel tried justification below good meaning  problem3 like artical well artical talks translation uses several terminologies unfortunately order artical machine good requirement 
+57E44C	4	positive	 general enjoy contain like examples examples useful sentiment interesting give analyze sentiment text better 
+584707	4	positive	 difficult fairly easy confused b c prompt asked differences execution local similarly difficult well helpful optional available improve sentiment instructor recommend 
+5B9B9D	5	negative	 general like interesting theoretical boring particularly d prefer exercises rather keep looking theoretical boring 
+5BA47D	8	negative	 day python python pyspark outputs shown window sometimes annoying becomes hard codes written 
+5C5A12	7	negative	 tell truth like important procedure mr hand paper pencil seem lame  rasies interesting questings always those repeating asking key value raw text type longwritable key offset always try ignore those facts nope 
+5C74D6	9	negative	 long weeks long pretty boring basically question4 why here like virtual machine lose connet localhost 4040 cannot why want exam 
+5D01F9	4	neutral	 good helpful remember context learnt better better algorithm works wrote own helpful better 
+5F30C8	1	neutral	 good measurement work expected intensive open ended hard formula result formula consistent result table gave 
+60227E	7	negative	 inverted index straightforward successfully difficulty format enough examples creating tricky turned format correct save knew earlier 
+6086C9	5	positive	 intense right until minute tas dodged sticky svn situation managed encouraged slowly hang implementing solutions realizing useful positive experience 
+61FC35	2	negative	 description starts started indicating group work submission sections appeared anticipate included every sections evoke air disinterest particular positive nature exception within asking student sketch diagram solutions latex particular caused feeling frustration forced draw picture separate medium whether pen paper another computer application convert pdf submit rest 
+624F60	3	positive	 enjoyed good mix conceptual research text readings liked executable created ran execution complaint difficult yarn scheduler hadn covered detail n beyond saying resource manager scheduler 
+62AD83	7	positive	 compute item item method compute similarities merit normalization mesures simply text powerpoint search internet besides clear operation clearly 
+62DD21	4	positive	 helpful tool runner method due difficult challenge thanks clearly pdf method quickly unit asked professor haddoop cache confused long solved 
+6400C0	9	negative	 long midterm sick during weekend couldn devote study c midterm sad blame interesting experience sql enjoy useful tool arsenal pretty good hwm replace shitty grade 
+64DC04	2	negative	 important reveals procedure typical gernally like  boring work operation ok tried sketch diagram takes forever decent representation  indeed ruins night due its boredom 
+665520	9	negative	 huge fan pagerank tricky does like enough instruction needed changed people needed office tas told people exactly change stuff bad worded better 
+6814C3	3	neutral	 neutral fairly straightforward translated period work mostly satisfying rewarding negative sentiments came struggled come regarding skew slight feeling frustration followed wanted 
+68D73D	1	neutral	 confusing step step doable fairly easy determine justify challenging sense end slightly challenging obvious carefully finishing bad 
+691A2F	2	positive	 theoretical confusion work function clearer talk ideas ways 
+699954	2	neutral	 thoroughly examines distributed system does well reflect taught added good exercises examine flow framework satisfactory 
+69F25F	3	positive	 require quire helpful excution terms yarn q1 further content lab2 excuting according 
+6BE565	7	positive	 reviewing quiz quiz helpful quiz furthermore components cosine explained detail dot product normalization 
+6D77EC	3	positive	 good firstly apply analyse whole result yarn rm detect execution skew mapredece good 
+6DD32E	5	positive	 relatively easy managed fluently quickly fact easier pretty happy hink secondary sort complicated luckily case happy 6 fall break approaching midterms 
+6DD38F	5	negative	 problematic unclear 2c meant problematic problematic emailed teaching assistant he hinting along lines problematic constructing whole sentence 
+6E59DF	7	positive	 beginning saw hw7 q1 idea materials power point tough happyi conclusion whole framework 
+6F671F	2	positive	 lectures lab1 like easy remember like include lab1 smooth idea function maybe better give work biggest maybe work internet cost uncertainty 
+702F81	7	neutral	 ok stuck implementing reverse indexer trouble format search every corner separator directly key value failed detailed examples online work rest difficult proving normalized cosine distance equals pearson correlation trivial task worth proving 
+72855F	5	neutral	 challenging started particularly difficult understood everything better struggled slightly easier confused conceptual 
+72CB83	6	neutral	 frustrating rewarding stuck long trying why pseudo cluster failing movie titles tested accessible local directory forgetting add distributed cache figured trivial error smooth sailing everything smoothly like satisfying watch massive amounts parsed manipulated according 
+7312C3	9	negative	 extremely challenging believe unclear difficult explicit lax solution better explicit guideline solve confusing wording count individually total count entire directory 
+731B11	6	negative	 particularly hard ran several issues along particularly difficult send stage state prepared previousones may sign prepare leave 
+757FAC	1	positive	 highly relative documents lectures listen every during encouraged force editing skills tidy paper transferring formula paper electrical document spends worth 
+76BF3B	4	negative	 causes troubles distributed cache annoying  enough materials distributed cache frustrating  worsely link certain formats copied directly  flexible schedule deadline 
+775E30	9	negative	 major 20 minor  topics range pagerank       worth 100 pts total man abandon  honest graders usually deduct credit unperfect pts  attention credit deducted proportionally total credit minor  means lose 3pts 5pt congrats bro    100 pts 20 minor means 5pts average  unperfect lose great propotion creadits due unperfect    thus highly recommend instructor split individual ones reassign credits   tough refer rather focus aspects 
+78793D	3	positive	 difficult requires searching familiarize myself linux frustrating those combinations work wish hints e g key extract syntax linux work until later realized cat does copy local memory perform linux local copy good skew like terms anyone consider those 
+78F68D	8	neutral	 okay stuck managed hard initial work managed ran stub script figured 
+7A4B0C	3	neutral	 somewhat interesting reason theoretical application main reason liked 1a 1b order those youhad virtual machine mainly questons answered 
+7C07FC	6	negative	 somewhat challenging written clearly github repository confused cover supposed ignore delete 
+7D2924	7	positive	 good balance theory closely related stuff ve talked  measrure stuff important glad covered entirely correctly stuck inverted index keyvaluetextinputformat text signature solved let goes 
+7D9E54	3	negative	 absolutely low load  easy finished probably  turned wrong several  text building  detailed accurate processes terms  mentioned good  never truly clear  
+7E26B4	3	negative	 fact enjoy fun interesting further count copying textbook like 
+7E6876	1	positive	 number easy ended highly open ended good allowed several interpretations correct bad experience unsure expected pedantic grading might regarding justifications detailed enough minor modification discussed mmds difficult easy accomplish quick 
+7EDB93	9	negative	 long covered important topics including  convinience usinng difficult  complex single overloaded thus  plus latent readings 
+8117C1	5	positive	 helpful remember context learnt better orgnise result save memory call several reducers design their theory 
+81828C	1	positive	 properties mathematics pretty long easy idea author try say carefully several based approach pretty important point personally helpful better ifi already background 
+82D10C	6	positive	 mid term exams late due hw6 cost compare github method logger generte without method logger why github doesn matter integar txt let double change key double 
+83E2C5	6	positive	 hard its gives step step thursday results prepare midterms good midterm easier ones directly pretty good oeverall like style 
+8474C1	6	positive	 trouble structures later long debugging helpful re couple keep track allocated turns movie id string causing either wrong movie name null fun chance pen paper lol 
+848507	5	positive	 contains examine guides students debugging gradually via local pseudo cluster wisely designed its content might itself duplicate let students better communication cost pretty useful 
+850A3E	4	negative	 like having issues ta ta ta apparently cancelled left struggle pain computer doesn ton ram consistently without freezing vm close eclipse slow back 
+878D70	9	negative	 general durable well particularly long almost double amount work split 
+897BE4	5	positive	 like wordcount writting work deeply locations well reed textbook 
+8ACE99	8	negative	 loading functions defined pyspark actual transformation clarification significantly 
+8B2FAB	6	positive	 like lab5 takes due statistic needs collected happy offer final project challenging dont clue development strategy helped 
+8C97CB	1	positive	 pretty interesting enjoyed diverse ranging conceptual math challenging certain characterized ways examples constitute large amount versus small amount size considered large small either justified best abilities nice covered topics 
+8C9D24	6	negative	 late submission midterms needed ran type issues longwritables text pain troubleshoot end correct having issues uploading distributed cache analyzing sos 
+8CB259	4	positive	 exciting digging great re wish direction particularly enjoyed challenge needing re ciritically design 
+8DEBD0	1	neutral	 straightforward good introduction few left interpretation unusual cs enjoyed having provides perceptions processed organized analyzed key rapidly growing field tools change frequently approaches improve enhance solving abilities 
+8E75CC	3	positive	 pretty helpful like degree textbook regurgitation directions specific petty semantic arguments present helped solidify mr execution 
+8EB444	5	negative	 confused co occurence sepearte block space keep non character delete like form changed anti social mentioned like antisocial without pick co occurence words correctly keep 
+8F164E	1	positive	 difficulty modest among cost tomake calculations validate result paper conclusion hard takes 
+8F4174	8	positive	 hard better expected language wasbit hesitant ta ta clear confusion understood alot clearly 
+8F7566	5	positive	 few exercises structures functions hard yarn resource manager better statistics open ended harder involved back managable reasonable 
+90240E	1	negative	 helpful fully contents properties helped various properties infinity structure complexity confused during own gave intuition confusing regarding mathematical consuming personally interesting helpful based focused supplemental readings like broadened improved happiest coming readings supplemental sources format enjoyed 
+90BDE5	7	neutral	 bad stumbled glad office originally glad went 
+926B15	1	negative	 fan fact instead busy work appreciate deeper thinking frustrating somewhat hard 
+936218	4	positive	 frustrating distributed cach debugging trying options challenging interesting work needs group discussion during misunderstanding 
+93EAE6	3	negative	 hard analyze execution good opportunity types daemons processes master worker nodes mostly interested studying skew various functions difference numbers nodes tasks affect skew pretty hard greatly helpful skew functions describing yarn execution pretty hard helped thoroughly 
+951C52	5	positive	 easier work repetitive implementing tool runner driver wordcount conceptual hard calculating communication cost confusing becase struggled numbers 
+95C089	1	positive	  like fully important beginning semester mining etc assigned boring prefer like math model better design math formula myself like designing model 
+963CB2	6	positive	 liked alot reason greatly helped speed finished preliminary deadline alot hands reason happened glancing realized aleady almost 
+96EDFF	4	neutral	 interesting harder thus  nice procedural directions clear hard needed scattered across mutliple powerpoints built upon classwork lastly liked  hands conceptual 
+9779C4	3	positive	 hw3 generally satisfying encounter difficulty needs materials carefully enjoyable appreciate further style 
+983EBD	6	positive	 exactly useful professor gives simply produce top n list specified efficient good 
+989321	1	neutral	 introduced served basis mostly enjoyed bonferroni principle sometimes ambiguous looking due answering overwhelming considering started liked 
+993361	3	positive	 good coverage covered tricky harder skew good asked yarn scheduler detail forced research depth satisfied 
+9A1D3E	9	negative	 pretty long extra fairly straight probably difficult longest amount changing extension html jpg like easy having worked tasks needed accomplished 
+9AFCA0	2	positive	 comprehensive asked virtual work setting subquestions helped better stored managed advantages disadvantages storage system pretty like asked providing stages stage does 
+9B19DC	5	neutral	 building tools perform sentiment challenging instance own parsing ip addresses well iterator performing sliding window task interested pull together world application like sentiment 
+9D4F09	1	neutral	 relatively easier later ones suppose good starting chewing materials great exercise deep properties tough probability calculation long paper 
+9EAB19	5	positive	 interesting difficult allows analyze log log deal co occurrence shakespeare poems order execute good 
+9FE85A	1	negative	 ambiguous opinion clear fine fact definitions certain unclear ver unclear hard follow unclear therefore hard decipher exactly explicity stated 
+A0CF02	3	neutral	 weren terribly difficult consuming based off difficulty yarn alone difficult follow graphic further clarification needed long struggled necessarily why focused yarn under hood guess place value does rather 
+A10F74	2	positive	 gave good overview related fairly balanced theory download tricky tranfer distributed system happens 
+A1B29C	2	positive	 enjoyed fun involved readings slightly tedious enjoyed like scale 10 rate 12 
+A22974	7	neutral	 hard bid confusing order filesplit include header unfortunately eclipse gives clue worsely possible headers versions api takes good gives intuition definition cannot plugin formula meaning formula sense like straitforward prove 
+A29CE5	1	positive	 interesting discussed reached consensus attractive does clear outline like academic papers long 
+A49258	5	negative	 confused purpose repeat past applied context unless totally missed point recap earlier work satisfied 
+A4C414	1	positive	 non engineering school student without strong computer science  background appreciate your detailed intrudction  environment setting linux simpler  expected   perspective aims picture  technique like  helpful 
+A53BC3	8	negative	 frustrating activations relevant stub nowhere few days via piazza otherwise difficult ve examples during guess ended minor exercise searching api documentation fairly straight comparison 
+A57CFB	5	positive	 tasks interesting engaging went smoother thus making consuming originally straightforward asking backtrack thus enjoyed always keen 
+A60DAF	9	positive	 challenging problem2 ask vector method calculate normally divided stripes realized datastructure rdd complicated normal python moreover due unfamilier pyspark long answering deep pyspark execution algorithms pagerank 
+A627C9	4	negative	 difficult fail started late begining stuck almost day deal frustrated seem 
+A653F3	5	negative	 dude supposed walkthrough well customized combiners turns merely mrs key gradually scale aws ec2 repetition work honestly speaking  good formal design testcase reveals nothing abnormal cases model resource say ought list co occurance bunch document needs complexity o n instead list iterating whole text complexity o n 
+A65EEE	9	negative	 huge work takes long debug like may exam regretted exam sad 
+A82D1E	9	positive	 application vector maxtrix helped pagerank general vector works interesting represent world cleaning applications tools 
+A8775F	7	positive	 rather easy requires addtion requires work hashset former conclusion focus report relaxing debugging like like 
+AA83FF	5	positive	 favorite pushed extremely thoroughly its actual looking foward sophisticated require complex computations long informative thank 
+AAEA89	2	positive	 confident comfortable those engaged interest skeptical surprised ease difficulty short spending 
+AC86DC	8	positive	 good leading handle log xml extract load desired certain good 
+ACB0E9	1	positive	 gave properties give helpful solid technical involved calculating probabilities helped hint enabled check useful like comprehension 
+AD5432	1	neutral	 particularly difficult consuming issues acquainting myself turn gradescope altogether lectures mmd sufficient comment worded rather ambiguously meant referred based approach later clarified professor neumann piazza post worded better 
+AE02BB	8	neutral	 easier side enjoy easy explore developer reduced wording improved vague 
+AE563E	6	positive	 helpful efficiency seeing difference results case case conceputally thoroughly lectures technical meaningful beneficial further liked discussed worked great looking thankful 
+AE82CE	2	neutral	 hw2 reasonable based off textbook difficulty completing long satisfied covered section 
+AE9493	3	positive	 mostly focused examining flow execution resource manager node managers execution comprehensive wisely designed covers every important corners taught combines core allows students effectively contents particularly those students spot important content appearing textbook pretty well encourage students books depth like 
+AF2F82	4	positive	 easy understood piazza certain aspect answered easily referring back people dont prefer cookie cutter pathetic wished morre challenging easy takes 
+AFB368	8	positive	 coming exactly went formats itself rdd transformations actions desired like educational highly prooductive thanks 
+AFC689	3	positive	 easy infrastructure piece clearly important excited back answering easily googleable doesn happy homweorkds give opportunity boost score early 
+B005E4	2	positive	 easy finished books helpful exercises like system works amount work right confident 
+B07BFE	8	negative	 like boring uploading typying boring script lines like bad shorter homeword midterm boring maybe better put studio section pretty boring 
+B10348	3	neutral	 enjoyed mostly due focus implemented classes scratch  liked check parameter 
+B1B148	7	positive	 7 dues assigned requires work fortunately tasks instead includes conceptual math computation good collaborative filtering without implementing right 
+B1EFF6	8	positive	 fun like pyspark implementing framework speedier move around trouble figured end difference activations activation implemented correctly final saved 4mbs long correct 66 entries honest 
+B2C0A7	7	positive	 count work stuff confusion 
+B360C8	6	positive	 interesting build pipeline purely scratch significant resources proposed reference started previously written necessarily bad become comfortable few conceptual tricky good examples 
+B4113C	6	neutral	 relatively challenging annoying change howevever interesting determine potentially day day lives netflix hard rewarding 
+B44498	6	negative	 confused caching responses movie identifications movie titles teaching assistant super helpful lin instance wish worked closely 
+B52039	8	positive	 general like 8 interesting create rdd scala fluent transformations actions meanwhile pipelining reason fast etc 
+B664C9	3	positive	 mainly focus comprehension solution textbook easy solve materials easy deal workload enough pleasure 
+B67E09	6	negative	 6 tough almost virtual machine crushed several accidental exit virtual machine history lines disappear disappointing must snapshot case wrong 
+B73608	2	positive	 better specifically remind forces better tradeoffs block size several factors kinda main fine good better give good mark lol 
+B8521A	2	positive	 adequately difficult preffered weeks direct application built good interesting utelize shakespeare folder d couple classes ago better suited difficult 
+B8F5A7	3	positive	 fairly easy mostly understading easy either looking back easy already results rest conceptual easy lastly easy knew daemons charge 
+BA60C8	1	negative	 open ended left interpretation student hopeful explained interpretation sufficient detail challenging long applied statistics principal itself useful equation complex enjoyed believe shows volume variety powerfule having complex anlaytical algorithms 
+BA743C	9	negative	 truly requires effort pagerank scripts challenge based difficult difficult stuck scripts frustrates 
+BABF65	6	positive	 top n list cool like touching  nature those mysterious magic applications saw  daily life implementations like top n list  easily statistics languages r  sas excited  noticed handle enormous size 
+BB6720	9	positive	 latest interesting various ways interesting subject constant evolving noted quickly disappearing like hands approaches wrangling manipulation complicated consuming efforts 
+BC2C01	9	negative	 ridiculously long somewhat difficult probably least favorite separated multiple challenging long enjoy weeks exam hard work top studying exam 
+BD28CA	2	negative	 requires detailed realization distributed filesystem  stored nodes extract importantly does tasks work  above essential followed studies based  materials answered base insights textbook  better open share thoughts 
+BF9F10	2	positive	 good good work myself solidified wish group combine step thorough like cluster state diagram 
+C157DD	5	neutral	 straightforward trouble design conceptual bounced ideas group mates during talked graders doubt sake diversifying sentiment banana pear apple grapefruit kiwi papaya melon cantaloupe lychee pineapple strawberry blueberry blackberry raspberry orange watermelon tangerine mandarine tangelo penguin 
+C1903A	7	positive	 enjoyable applications applying skill towards comparing similarities fun useful fields helped world allowed come possible ideas projects skills liked 
+C25F59	9	negative	 large work whole weekland confused require describe generate sample dataset sample dataset toy final dealt consider final toy generate always occur error order group order xx another choice sort group 
+C39830	3	positive	 like continuing alright fine discussed disliked poorly worded open several interpretations addition skew covered enough blurb mmds isn detailed enough d like seen explicit examples discussed 
+C3A20F	6	negative	  challenging implementing simpler having topnlist prefer implemented driver rather drivers simplify multiple order 
+C4293D	8	neutral	 equally frustrating enjoyable enjoying operations transformations ve realized like sets manipulating transforming excited decided rather python withthe idea trying add another language arsenal frustrating scrambling everything partly fault virtual box svn gave issues old ve enjoyed 
+C4B8D8	1	negative	 challenging doable enjoyed mainly challenging encountered vague its directions confusing follow examples vague regurgitating informative great introduction analyzing 
+C4E3DB	6	neutral	 primarily copy quick combiners fairly straightforward github account helpful ways topn list clarified whether safe treemap easy sorting minheap want ready treemap probability popular titles exact ranking low   reviews pumpkin squash zucchini spinach butternut squash corn maize totoro 
+C4E785	6	positive	 6 introduced challenges regards topnlist complex structures hold top n items list great improve efficiency useful developing applications world 
+C52136	5	neutral	 bad believe slightly harder give myself enough best ability depth bad like contained theoretical liked 
+C59FFE	6	negative	 debug beginning local cannot work cluster due small error long debug error value careful interesting well 
+C616EF	4	positive	 good hands configuration handling good background areas configuration handling partition logic works haoop fairly balanced its hard say easy hard satisfied 
+C6F775	2	positive	 difficulty easy requires conception taught clearly professor furthermore requires textbook advantages disadvantages useful career development totally glad 
+C78FC8	5	positive	 hw5 easier compared fluently finishing definitions clear according grammar searching web 
+C79952	8	neutral	 bad like good introduction pretty vague ta ask looking annoying open ended vague graders expect specific like everything conceptually matter figuring exactly asking 
+C885F9	3	positive	 helpful structure pretty confident unlike giving looking fun enjoyable whenever asked perform unix 
+C9963B	4	negative	 involves lines connect together helpful better examples clearly expect clearly does 
+C9DE22	1	positive	 like helped better properties comparing types realize type pose its unique challenges processing started properties vital step warns cautious mining improper criteria easily lead false positive results like well written layman perspective re field specific terms jargons worst logical flow pretty bad hardly structure 
+CB6952	9	negative	 fan reason assignement alot usual whole bad absolutely brutal solutions comfortable communication cost derive equation 
+CDA010	1	positive	 personally hw1 meaningful bigdata properties international student difficulty may english long cost good developing english skill point x y quickly c x y 
+D14442	7	positive	 fun neat tackle recommendation systems another angle comparing user similarities better recommendation anticipated probably rewarding performed looking ways manipulate large amounts 
+D1C763	7	negative	 stressful procrastinated liked jaccard calculations straight math calculations change opposed conceptual functions enjoyed split directly key value pair easier 
+D2DCDD	3	positive	 remember context easy forget type progress remember clearly skew inpact give situation let skew situation likly skew 
+D3CD10	8	positive	 easy compared like does simplify train thoughts picture work powerful pipelining nothing dated back early linux days realize hand powerful fascinating 
+D43E51	9	positive	 hw9 consuming applicarion pagerank hard tools becareful asking requirement fine 
+D4EF0F	4	positive	 enjoyed hard distributed caches tool runner debugging cool sentiment looking regard context frequency hopefully ll stuff like later semester 
+D642E3	4	positive	 examines students capability implementing specific passing parameters debugging requires works loop add side via distributed cache satisfactory terms letting students another good common api tested well designed worth spending 
+D6C5B6	6	positive	 hw6 develop project scratch meaningful details scanner movieid well titles movie title txt put treemap during excution titles missing treemap replaced null affect result hopefully why 
+D9DE09	4	positive	 hw4 contains hard requirement vitual machine weirdly means inconsistent sometimes project fail succeed reason friendly indeed 
+DA07F1	3	neutral	 fairly short compared requires deep beyond tells like entire framework works guess ok deep enough work re 
+DAEB2F	1	positive	 four relevent articles ppt confuse difference structure complexity properties points mean structured points fixed relationship inside  complexity points  confused label easy why annoate unlabeled human 
+DAED68	7	neutral	 day name reason wrong version filesplit imported main difficult easily always mistakes details 
+DAEE64	2	positive	 fairly easy long straightforward easy solve several conceptual looking diagram easy draw easy quick nice easy 
+DB2519	8	negative	 practiced operations confusing differences flatmap helpful examples presented show transformations error messages terms their difinitions error fix good exercise 
+DE0027	2	positive	 helpful terms usage tried various order lab1 good exercises give good hands experience useful examples works better 
+DE33C4	6	positive	 hard link github website relatively easier went happy home work game chance play around netflix great good exercise compare without show rate 
+DE4FFB	7	positive	 better various implementations fully benefit normalizing biggest challenge retrieving current name textbook immense clearly outlined step step procedure needs happen thank 
+DEE057	7	negative	 hard  several confusions  step derivation cosine  pearson correlation idea does requirement   show formally ask except minor defect  like expects open ended  form prefer ease 
+DF5CE6	1	positive	 general enjoy affordable hard semester personally like properties pure math like math like interesting structure clear 
+E1FCDA	4	negative	 significantly consuming challenging previus  several days work  environment bad bery beginnig  suffer put construction partitiioner  fundamental realization everything gets easier easier besides appreciate  valuable dr neumann tas classmates 
+E23940	4	negative	 andy dohoon kim couldn enough schedule apologize meet deadline submit later semester thank 
+E302CA	9	negative	 long complex contains firstly pagerank paper pen secondly allows application count number jpg requests script analyze ad 
+E52191	8	negative	 pretty neat hang pyspark shouldn save normal python import pyspark activation models worked confused wording weiird 
+E613A9	2	positive	 hard textbook easier relief 
+E706C0	8	positive	 switching pyspark nice change pace creativity specifically defining functions pyspark standard paradigm certainly shortcummings faults features chaining pipelining lazy loading efficient easier work 
+E744D4	6	positive	 semester continues topics become interesting interesting create topn list actual netflix straighforward surprised completed work looking upcoming assignements further methods recommendation systems 
+E9B27D	7	negative	 interesting possibly due poor explanation vague questioning interesting becoming useful encouraged continued advancement materials continuing excited prospect own move low level exampleslines 
+EADE34	7	positive	 okay clear accessible present unlike completed fine worked collaboratively together particular nice 
+EBB60B	3	neutral	 challenging   3a stuck trying exactly needed specific wanted answering locations intermediate  went log yarn copied temporary directories yarn  straightforward needed clarification 
+ECA31B	5	positive	 fine hoped terrible liked having simplified co occurrence moving complicated vague difficult exactly looking hopefully doesn affect grade 
+EDEB90	8	positive	 consist balcanced combination reports difficult instead core needs hence rather easy report reviewing past courses rather good 
+EE85AE	5	negative	 easier assumed  couples implemented thoughts  fulfil requirements arise  originally planned split ip address words  non character sign exactly supposed  log records huge contains semi structured  format records totally consistent  split therefore strategy failed right  harder handle expected 
+EF48F8	3	positive	 better personal opinion clear resources certain pointing correct place skew reasonable length long 
+F1F61D	6	negative	 general like interesting theoretical boring particularly d prefer exercises rather keep looking theoretical boring 
+F4ACB4	7	negative	 like mostly weird seem particularly useful re creating gigantic end math focused like enough either directly glossed unintuitive hopefully better move away 
+F4FE63	8	positive	 thoroughly examines single pair rdd application shell lets students flexibility terms transforming rdds strengthens important feature transformations successful covering 
+F580A9	4	positive	 liked alot reason application based weren based theory instead refer myself silly errors delayed progress glad end 
+F96A4E	1	positive	 useful exercise group carefully textbook hard suiting property looking exercises extremely helpful solved unless readings 
+F9C4EA	2	positive	 personally enjoy pretty straightforward requires like system well storage meanwhile 
+F9EA09	4	negative	 another cool marred unclear   ask differences execution refer   differences user executes differences performance statistics e g number bytes written  differences theoretical execution e g task runs machine  differences results produces  combination above ended opting combination likely opinion kinds ambiguities may seem trivial ultimately ends consuming disproportional amount without furthering   furthmore never mention adapting wordcount necessary step option supply side ways supplying side distributed cache textbook seem version method called addcachefile   stubs bunch errors nothing difficult correct pretty offputting import stubs syntax errors typos variable names   positive side asking intended procedure pretty neat like better partitioners twice long necessary avoided explicit expected 
+FA8E7D	4	positive	 several classes existing classes extend features demonstrates power add parameters exciting taught extend beyond algorithms good opportunity worker closer group partners come solutions challenges 
+FB0247	8	positive	 good overview transformation actions  play around multiple xml logfiles extract  initially values transformation tricky value type rdd  figured went smooth satisfied 
+FBED05	5	neutral	 fair say easier former tasks build beginning important creating own starting worry closing exam 
+FD8660	2	positive	 relatively easy collaboration better reveal details distributed system works total around 8 normal 
+FF8EFD	7	neutral	 decent directions number clearer enjoyed gainer better intuition measure wording ambiguous tricky nonetheless 
+00708A	4	positive	 stressed another taking itself useful like catching mistakes earlier extension grateful thank having forgiving late policy good enjoy making miserable 
+00B4D5	7	neutral	 probably difficult yet enjoyed challenge co occurrence frustrated troubleshooting sentence correct results realized written sentence wrong tough hard knowing right pseudo 
+0114A4	5	negative	 enjoy nearly enough guidance almost half necessary materials task wish understood starting lost weekend 
+02B325	9	neutral	 good practicing their mechanism weak requires completed few lines either monitor broken view stages tasks idea whether due pseudo cluster defect 
+033EFB	4	negative	 trouble laptop black screen virtual machine broke linux image install referred setups redo lab0 lab1 like tasks based ones despite accident consists hand practicing better giving theoretical 
+03F397	3	positive	 better plus excited like therefore pretty interesting amazed fast processing useful 
+048B13	3	neutral	 combine leaned together means view sad ta helped appreciate  problem2 good yarn studying started demonstrate without improvement right 
+053B31	7	neutral	 difficult theoretical co occurrence its shortcomings difficult students pseudo vector multiplications vector does fit memory divide vector stripes illustration consuming worth thinking algorithm pre processing ambiguous might multiple possible approaches communication cost based pseudo written pseudo correct calculation wrong hard based mmds easily results vector consuming wrote r calculate results 
+055AAA	1	positive	 homeoword tricky fact correct good good amount like pointless necessary 
+058728	9	negative	 relatively frustrating attempts display yarn cluster opposed troubles virtual machine extremely slow making hard scripts local sample nice frameworks like dependencies 
+05AA72	3	neutral	 technologies widely daily life popularity important people background hard interesting mainly includes aspects related finished reviewing 
+06697F	4	positive	 four group member applied tool work nodes helpful adapting tools available module compared tools easier configure tools helpful good benefit generally helpful interesting 
+06ACC3	2	positive	 structure b c structure stored clusters name node master node difficult purpose step internet deeper 
+075DE7	5	negative	 morning woke tired cat heat wailing night long knew keep decided facilitate sleep sixteen living father stepmonster barrington housecleaner who her early thirties she monster let sleep late summers impede her vacuuming schedule she knock door pretend asleep 
+0889E1	2	positive	 applicable exciting  lots came extremely rewarding length perfect function better completing 
+09560D	6	negative	 difficult takes difficult compressed excited good sport structure writable starts become best friend love linux 
+0AF103	9	positive	  homework9   zheng yuan 452091  program1   its great opportunity load dataset   difference local disk   program2   sorted dataset order want   program3   group aggregation function count statistic  program4   pyspark load   create rdd pair format want   program5   design algorithm transformation action   stages task check tasks stages state   pipelining situation pipelining 
+0BAF08	4	positive	 reminds common linux gives chances clustering valuable difficult always wondering exactly asking better give hints 
+0DA480	1	positive	 helpful interesting examples differ helped intimidating sight like longest articles cs 
+0E1CE0	2	positive	 thoroughly enjoyed maybe worked allowed deeply inner workings structure well cool sentiment contributing right come nice ways improve quality efficiency 
+0F61E9	2	positive	 asks sketch storage describe meta better locality related clarify functions based hand experience believe valuable engineering students 
+0FB52A	8	positive	 technologies widely daily life popularity important people background hard interesting mainly includes aspects related finished reviewing 
+114073	8	negative	 number lengthy uselessly redundant  few conceptually based helpful  drawback 3b huge amount tedious work brackets extent like may unnessecary 
+125E26	6	positive	 teammate started work early went ta wednesday helpful finishing plus figured wrong 
+1294FD	8	negative	 admit better past includes scratch good effective work solving focusing recommendation systems work schemes evaluation similarities recommendation systems gives opportunity thourgh fun helpful 
+1322F3	2	negative	 say worked well solidate lab1 lab2 learnt system manipulation algorithm deepened system functions detailed limited left become another type 
+144497	7	neutral	 tried like sentimental webpage rank hard work area co occurrence counting acutually useful complex sentimental consider cost may blow huge 
+1507A3	7	negative	 hw7 hard does elaborate clearly implemented vector stripe figured besides communication cost confusing terms types emits count here 
+1548EC	3	negative	 feeling qualitative supposed descriptive leaving room typically like types easy miss few points here due vagueness prepare world tasks 
+15CAD7	8	positive	 great clearly calculate jaccard measure pearson correlation cosine advantage collaborative filtering approach modes analyze users items step step deal item item let connect calculation 
+199B0D	5	neutral	 defiinitely struggled ve stupid like debugging stupid detail ve noticed faster well certainly experience always carefully pay attention detail piazza came pretty clutch tas spur right direction fix detail 
+1A7B68	3	positive	 needed stressful starting expecting several least like cs classes turned tedious fun wrote analytics reviewing ve like ok 
+1A9648	7	positive	 7 special focused theories algorithms significantly challenging ones terms math helpful exercise solidify kinds applications mathematical basis 
+1B8C1A	8	negative	 enjoyed designing implementing own scratch reinforced recommendation systems wish walked few steps pretty overwhelming nothing pain having keep track whether movie id user id keys values switch around depending whether 
+1BBA43	3	positive	 tricky requirement updated several revise result speaking fine coming quickly driver tricky configuring playing fun playing around trying like playing around eclipse 
+1C24E5	8	positive	 deal recommendation system fun implementing cope become complex key value pairs accepted complex store key value procedure difficult 
+1CEBA7	1	negative	 slightly unsure dimensions labels unclear exactly might unexplained variable tried best reason deriving equation bonferroni principle eventually matched few examples frustrated unreasonable effectiveness verbose point hard answering easy 
+1D3BB2	6	neutral	 challenging worked difficult slow mr slow laptop frustrated easier 
+1D6029	9	positive	 written semester hive flume higher level language useful stuffs glad semester cutting edge technologies here happy 
+1DD981	9	positive	 cooperate perfectly end semester stuffs divided worked troubles during figured solution successfully pretty master content proud myself ready final project 
+1DFA73	3	positive	 concerned combination therefore solid memory contents hard indeed does difficulty challenging points division numbers datatypes 
+1FE6AF	4	neutral	 opinion challenging compare around 6 useful provide deepen 
+220F3A	5	positive	 hard solid learnt impossible indeed does difficulty challenging points distributed cache 
+229B9F	6	neutral	 hw6 hard takes mr index sequencefile etc consufing setup off execution sort figured handle debug compression ratio byte count uncompression rate divided compression rate 
+237698	5	positive	 teammate try hard harder expected interesting helpful enjoy 
+2409FD	6	neutral	 super long debugging codes googling proper instead answering started become oriented workload becoming heavier fine comitting compared ones manage properly taking places 
+26482A	2	positive	 better easy critical thinking terms making liked challenged ton like practicality 
+26EA9D	8	positive	 homwork deeper recommendition familar pearson correlation cosine proving their relationship pointing job1 job2 exercise finding users thank instuctor tas thank 
+2706A6	3	positive	 pretty enjoy design virtual machine exciting enjoy theoretical coming wish quizzes happy 
+2737CF	1	positive	 helpful properties properties may apply types addition exercise bonferonni principle interesting points danger randomness disguised meaningful mining 
+287315	2	negative	 clear straightforward easy materials covered lab2 looked followed solve correct discussed sentimental  ideas worked suggestions  successfully important works  give fundamental basis  following 
+28B696	5	negative	 hard struggling understood trouble implementing  codes discussed work materials better 
+29E6AD	3	positive	 skewness measured quantitatively believe professor elaborate skewness tasks solution pretty straight anyone who followed those easily strongly recommend professor explain skewness detail 
+29F782	1	positive	 reasonable hard content covered within those paper mentioned say somehow paper mentioned long may require non native speaker summery requies deep hard grading 
+2ADC24	8	positive	 interesting work long jason together marion assumes shitty math howevver managed online kinda helpful ended well 50 words extra credit here 50 words lol lol lol lol lol 
+2C0480	2	positive	 stressful several reasons helped trouble focusing alone group work productivity efficiency better latex actual writeup theoretical good covered lectures worried haven gotten feedback hw1 yet enjoyed 
+2D72E2	1	positive	 cse427s worked fun collaborate others opinions unique shared own ideas discussed addition like interesting 
+2E3401	4	positive	 useful includes aspects recently materials professor taught hard finished successfully written  terms never seen hard describe 
+2EC35A	1	positive	  like open minded directly stress correct strengthen attitude positive     extension evil doers textbook hard helpful appreciated provides hint possible outcome saves attitude towards positive    like paper hard connection struggled try lost eventually negative 
+300A6C	9	positive	 helpful remember context learnt better give good chance tools learnt ourselves deal techniques particular 
+310D53	3	positive	 homework3 skew assign task towards clear view source management its advancement easier work madclass function reduceclass function 
+3175CA	2	positive	 fair terms difficulty follow professor neumann procusdures well professor keeps asking like expect 
+31B28E	1	positive	 like pushed dig comcepts covered ambiguous asked paper slightly abstruse without guidance 
+31C1AD	8	positive	 like plan netflex nice scratch own exercises like like fact structure framework work like hopefully few lightweight helpful 
+31FED2	7	negative	 today having decent day alright finished pretty chill interviews coming hopefully ill worry well yea life ll stress security dream ill keep updated search hear hw8 peace love brussels sprouts myth man legend dr asparagus 
+3254F0	3	neutral	 fun chance ve nice junit wrote verify right junit ve faster confused 
+333FD7	1	positive	 hard solve useful contained sildes materials e annoying talk parterner additionally consuming 
+35DDDC	6	positive	 customer writablecomparable sequencefiles well compression sequencefiles useful compare uncompressed compressed compression performs well sense storing 
+36052C	4	positive	 log hits count mrtest respectivly local system pseudo distributed cluster check results well thinking whether ready cluster procedure building debug expecting tomorrow 
+36BB67	3	positive	 enjoyed executing albeit good amountof guidance results pretty satisfying dry looking complex tasks imagine fun stuff hopefully transferable summer 
+373A84	8	neutral	 least consuming thinking format separately half require readings relevant bullet general huge 
+3788AA	2	positive	 enjoyed liked dealt applied manner without involving work involving good reinforced covered step further 
+381B2E	6	positive	 signatures confused want stands want type fuzzy debugging fine means challenging guess difficult via 
+39C8BB	1	positive	 student who literally background under great pressure requires thinking hard almost days answering interesting math major college like 
+3C01B4	6	positive	 mainly implementing custom writablecomparable type rest sequencefiles compression sequencefiles format keyvaluetextinputformat useful convenient 
+3D014B	2	positive	 hw2  zheng yuan  452091  hw2 good oportunity structure ideas result confused problem1 d idea concise transferring few pdf textbook means does refers protocol else 
+3ED686	8	positive	 expected appreciated fact allowed create own project scratch correct interesting proves skills analyze good cause stress 
+3F2032	3	positive	 good ones related procedures execution encountered type mismatch error back solution like recent chapters 
+403A2F	3	negative	 began implemented average length task fell excited finished good starting fell uncomfortable eclipse vm speed slow like font vm considering local machine hard debug upset 
+40572D	8	negative	 difficult aspects included differed tedious enjoyed build scratch without usual stubs 
+407575	2	negative	 premise sentiment asking improve count sentiment another entirely helped examples others improved their sentiment their algorithms rather straightforward confusing mean compute finding info key value pairs form above 
+411DFC	3	positive	 another well designed distributed system integrates materials single satisfied knowing solve learnt 
+41BE5B	5	positive	 contents improve efficiency necessary build work good combination 
+4258C3	9	positive	 past debugging provides extremely helpful error messages enjoyed execute pretty cool tools greatly speed development nice obvious reasons pretty cool 
+430945	2	positive	 worked better stuff discussed during difficulties correct reviewing defination together speaking worked well 
+443186	6	positive	 its rough lets honest its started life better ever feeling throw never happens hows coup de gras tips weeks easier super terrible end spending signing off captain crunch 
+445D36	2	positive	 tests od like style painful gather results latex confused c obvious hard express  lab2 good hard  comfortable relaxed  good copying contents terminal extremely hard maintain format windows latex nevertheless hard well like c d lost  sum hw2 easy apart few point good 
+449894	8	negative	 paper another due therefore busy courses whole teammate sick until friday hard expected long 
+44E8F6	5	negative	 difficult ones confusing package eclipse package contained related log count ve late days happy policy 
+459008	7	negative	 starting pretty lost okay considering co occurrence vector pagerank better starting worry exam coming unsure turn issue struggle focus 
+45D4F1	8	neutral	 average difficulty level n list enjoy 1a discussed gain hand experience easier conclusion helpful interesting interesting 
+473B93	6	neutral	 liked introduced aspect sequence compression investigating interesting hlped better checking compression ratio tedious long nice interesting inverse indexing 
+477770	1	positive	  worked analyze properties  discussing exchanging thoughts good solve thoughts aspects may confused understood property  thoroughly followed textbook mistake  days confused couple disappointed mistake correct try solve following own train rather refer textbook  hard summarize long paper carefully clues difficult extract paper progress   difficult asks independent thinking 
+477A25	1	neutral	 long typing entire latex therefore setting document syntax well solving always justified well enough trouble deriving formula ended reverse engineering numerical solutions totally approach result correct tricky hard expect 
+484EF8	3	positive	 fair includes covered chapter totally come nodes cost solving ok mistake improved knoweldge 
+48A099	4	negative	 vague like 2g component consider wish straightforward enjoy runs satisfied others 
+48C7F8	6	positive	 helpful remember context learnt better serialization including transform writable writablecomparable sequencefile compression including create sequencefile compress decompress creating iverted index 
+48C91F	5	positive	 good related lead students advantages statistics comprehensive ask students skills students develop effective words store determine partitions clear comprehensive 
+48FDC3	3	positive	 fun involved acutally exciting pre gave better whole system work bottom fairly boring straight off 
+49E0B7	5	neutral	 challenge small errors caused debugging like gave world large simulated good cause stress 
+49F0D2	7	positive	 page rank treat including dividing hard dose confirm whether down confuse 
+4CB72D	2	neutral	 satisfied relationship talk challenging couple like tested challenging area forced conduct research own conclude great 
+4D4BC7	2	neutral	 comprehensive student important better practices discussion nice students sets limited count sum good comprehensive answered 
+4D7946	7	neutral	 spring break feeling lazy comes luckily operations rather easy itself stretch long submitted late 
+4DBB72	2	positive	 1hour  difficult important stored processed works produced 
+4E0DE1	7	neutral	 co occurrence useful counting words co occurrence directly cannot receive result desire document investigate maxtrix vector marreduce unlike normal operations consider vector 
+4E8367	2	positive	  headed homework2 realized finished lab1 lab2 listened carefully instructor hard easy homework2 decided myself confused googled finishing following easy 
+4E8D42	9	negative	 complicated easy does pretty straight good luck another 100 
+4F126B	4	positive	 hard energy everything excited good sport structure driver work better starts become best friend love linux 
+4F1BAE	3	neutral	 tough fully project haven yet research figured rewarding fair projects fully capabilities massive datasets 
+4F71D7	1	positive	 saw easy started came   does exactly correct discussed half hour came result step   difficult finished realized good 
+4F8637	1	positive	 cse 427 speaking completion okay split days completion primarily extension completed smoothly quickly tricky like piece needed every try deeper meaning reference term completing annoying yet end wednesday better 
+5006EA	5	positive	 technologies widely daily life popularity important people background hard interesting mainly includes aspects related finished reviewing 
+500D51	9	positive	  rtf1 ansi ansicpg1252 cocoartf1504 cocoasubrtf820  fonttbl f0 fswiss fcharset0 helvetica   colortbl red255 green255 blue255   expandedcolortbl   margl1440 margr1440 vieww10800 viewh8400 viewkind0  pard tx720 tx1440 tx2160 tx2880 tx3600 tx4320 tx5040 tx5760 tx6480 tx7200 tx7920 tx8640 pardirnatural partightenfactor0   f0 fs24 cf0 hw9  good combination coming result having experiences enlarge clustered processing differences methods dealing 
+503AA8	5	negative	 like takes pieces follow pretty trial error ta session well piazza posts 
+50C20E	4	negative	 busy turn frustrating realize couldn fast expected work until sunday morning finalize results plan ahead started earlier 
+51253F	3	positive	 helpful fundemental strengthen materials painful consuming useful interesting good fiven already included package making easier focus algorithm sum postive attitude toward 
+5198A3	5	positive	 requires lots easy struggled helpful admit takes effort vm cracks down restoring meanwhile bugs easy fix hides deeply gain yet suffered say positive negative home work rather say net positive 
+523E00	4	positive	 fun having allows tests easier trouble came trying local mode mode remebered switch split regex w split spaces noncharacters 
+52D9C9	1	positive	 widely daily life important people background task ve hard interesting like ones enhancing techniques generally speaking happy 
+542CE7	5	positive	 mainly implementing function directly show tarn resource manager web ui monitor task indicate works distributed cache works 
+5461F8	2	neutral	 better built off annoying cleaned thinking wouldn results luckily relatively deal rerun relatively easy annoying draw figures export pdf intensive recommend making text based screenshots terminal 
+56CA3F	4	negative	 homework4 good takes confuses length character secondly tool runner determine type 
+574AE6	9	positive	 good mainly focuses good practices students based manipulation latin language sql complicated good enough students functionality focus powerful comprehensive five valuable practices 
+5893A5	1	positive	 bad somewhat ambiguous asking put assumptions solution addition confusing good bonferronis principle possible cases seen 
+5AC43E	5	neutral	 fairly easy solve easily somewhat ambiguous struggle specifying cache referring home directory recognize path guess conflicts naming rule linux system 
+5B8F87	2	positive	 struggled during pleasant work words appear vague went office hour seeking assistence luckily teacher assistent taught helped 50 words great  wilson fifty words 
+5C7959	3	negative	 compared focus ability easy  confusing omitted  gives good chance important  finished successfully following hard 
+5F24FA	8	positive	 asked scratch requires tons works following easier personally enjoyed like helped good idea include theoretic 
+617AFA	3	positive	 mean let execution works personally confusing significance skewness ambiguous cases good introduction hand experience 
+61C5FE	6	positive	 algorithms custom writablecomparable inverted index deep does work debug efficiently during bugs paied effort finding bugs slove thank instructor tas thank 
+641165	4	negative	 hard requires skills hard debug hard requires skills hard debug hard requires skills hard debug hard requires skills hard debug 
+652EAD	5	positive	 helpful remember context learnt better orgnise result save memory call several reducers design their theory 
+665F25	2	positive	 easy fundamental tend consolidate structure easy realistic meaning takes easy manipulation followed instruction whole easy straightforward needs 
+68DA6C	6	positive	 work comsuming studied writable project exactly like writable object define looks like people work studied sequence compressed least inverted mappers 
+6A468A	3	positive	 worthy digging functions assigned processed yarn locality thrilling hard connected 
+6AB792	4	positive	 mainly modify mappper work parameters csesensitive basiclly mainly mapreducer project via eclipse 
+6C08DB	6	positive	 technologies widely daily life popularity important people background hard interesting mainly includes aspects related finished reviewing 
+6C5EAC	2	positive	 finishing homework2 deeper separate replication case rack doesn work fully awareness meanings keys values 
+6CDC1A	3	positive	 extremely useful ensuring works requires concisely summarize great own 
+6CEF0F	3	negative	 say harder ask related skew excution system service called yarn trying difference yarn clearer illustrating 
+6D00D6	6	negative	 toughest ever requires participation fully demands ability solving taught c hard considered wrong debuged supposed like frustrated 
+6D6084	5	positive	 hard finished half day taken easy like hour finished submit good result 
+6DAF06	3	negative	 reviewed related professor pointed vague studied methods modified wordcount order own feels great actual 
+6DF2E5	5	positive	 good implementing liked general intuitive came errors chenge small bits amount imports add unsure completing correctly 
+6E6AB0	7	positive	 like math calculations happens behind scene throwing actual pretty satisfied terms difficulty workload glad weeks 
+6F549B	8	positive	 fun challenging exciting actual netflix order applications difficult mr entirely scratch haven pretty format liked average rating per user whichever language choose exciting usual hard conceptual compute cosine mr inputs outputs collaborative filtering approach 
+6F9FFA	4	positive	 interesting confusing 100 asked points full well implementing excited comes apply 
+6FB461	2	positive	 enjoyed extremely relevant worked towards useful skills hiccup finding clusters check work area 
+6FBF5C	4	positive	 helpful remember context learnt better configruation adjust parmater commend commendline applying eclipse design mapreducer its theory 
+718BD6	9	negative	 complicated past instance correctly improved following gives right right right dataset unsafe may wrong pretty straightforward 
+72C56F	3	positive	 went whole progress function function meanwhile clear insight towards structure stored processes phases thank instructor tas 
+739DDF	8	negative	 okay except 3b extrememly confused compute cosine fairly stressfull almost long beginning excited almost cause stress 
+7452E0	3	positive	 helpful remember context learnt better better algorithm works wrote own helpful better 
+745493	7	positive	 challenging fair apply thats does require portion allowed freedom development long solved long compared past stress level pretty low 
+747DDD	9	positive	 hi thank yo equain guy who happens blackboard washu building distracted pingpong tables genereally yep pretty useful yea useful yea extremely useful like good soo good learnt here bullshit bullshit bad work type good here good 
+75C4FB	7	positive	 compution gives deeper inner product outter product difference representation transition developed logic trading off memory efficiency thank instructor tas thank 
+75D295	1	positive	  q1 reminds uncertainty every choice q2 reasonable probability calculation amount combination probability choose situation whether meaning correctly 
+765856	2	positive	 good contents lectures reminds stores achieved clients gives practices operations linux environment brings deeper works 
+766D5F	1	negative	 easy trouble came deciding whether dataset complexity struggled come equation probability weak point pretty vague probably overthinking 
+770D3A	6	positive	 challenge tested everything went like gained better compression noncompression works enjoyed comfortable hfds debugging errors may come 
+775722	4	positive	 liked yet allowed actual reflected reasonable flow starting eventually submitting actual otherwise enjoyed regarding undersatanding methods easier well why records sorted 
+77DEA5	8	positive	 implementing top n list recommend system multiply single driver lots like distributed cache b result r gets hint dealing sql better efficient preprocess theoretic let difference measurements compares item item approach user user approach 
+7816CE	9	positive	 great relieved hard completed fun makeup final project leave regret 
+78D8A6	9	positive	 9 provides hands practices hive well python scala finished obtained extract want raw dataset uses rdd manipulate helpful opportunities finding 
+79F9F0	7	negative	 difficult mid term reviewing exam sad tired busy short depressed fortunately spring break comes happy spring break 
+7AA72D	9	positive	 9 helpful trapped application yarn viewing stages tasks takes long hard requires lots codes total positive easy 
+7ADD2D	5	negative	 mistake forget turn capital character lower case divide shakespeare poems anything build tool runner local place anyway helpful extent 
+7C01B3	5	positive	 important largely decreases processing busy reviewing learnt weeks happy successful finished due due 
+7D011A	7	negative	 weired easy dont lots relative skills requirement clear whether appears counted cop count like computation taken work easily hand sedo work codinng work usualy skill better 
+7D2934	9	negative	 mostly busy work clear compile scala better examples scala rather easy confused driver works 
+7D7DF3	1	positive	 homework1 gained properties excited started clould meanwhile paper gave perspective towards useful form approach deal thank 
+7FFC5D	2	positive	 hw2 ok covers technique lectures theoretical requires linux system quetions open hard response highlighted lectures easy ignored requires back notes 
+82423C	2	positive	 tried vm sample results quiet happy already began cluster detail procedure cannot wait own 
+825284	7	positive	 hard energy everything excited good sport structure driver work better starts become best friend love linux 
+82EA56	8	neutral	  good confusing requires students build whole beginning nice related comparisons requires deeper methods collaborative filtering mainly based inputs outputs comprehensive equation cosine slightly equation textbook mmds wikipedia lead confusion further explanation clarification might needed cosine order prevent misunderstanding students 
+83A2AA	3	positive	 good exercise functions helpful better daemons processes involved resource management workflow 
+83ED13	2	neutral	 hw2 harder hw1 like pushed dig conceptual structure difficult relationship nodes blocks 
+847854	7	positive	 helpful remember context learnt better pairs stripes during keys combined calculation pagerank 
+853098	8	negative	 difficult open ended wish worked analyze average user rating visualize nice starter almost easier own solution instead debugging broke 
+861BE1	7	positive	 applications vector interests relates research directly hopefully chance project helpful 
+868D1E	2	positive	 mainly  easy fully every unclear  seem easy long  vm  every complex 
+86A4EF	6	neutral	 disjointed good particular covered touched th basics topics strange others 
+87DFCA	2	positive	 work imporve speed efficency turn useful inforamtion brilliant idea deal tons gives machines ability faster 
+882769	1	negative	 trouble never row hint table nice better explanation h ow nice explanation dimensions helped enough maybe sets certain dimension 
+88607D	8	positive	 easier compared directly good 8  topn reason ideas sorting list trying several realize add  communication cost eventually decided give another reason crash vbox fail restart long retrieve  rewrite codes annoying itself easy direct like style positve attitude towards strengthens towards top n list pain hold style 
+887980	5	negative	 incredibly poorly written extraordinarily difficult  receive guidance necessary deprecated work case expect classes date angry stressed 
+896D17	8	positive	 complicated during trip chicago requires thorough top bottom 0 100 interesting anyway good final exam 
+8A07D3	8	negative	 extremely frustrating unsure approach dumb debugging stuff pretty unsure item item honest ve pretty frustrated fact he turn asked him turn pretty unfortunate honest grade doesn suck him kinda stupid cuz reads tho 
+8A9763	2	positive	 happy relevant homeowrk lectures helped specific interpret results well relationship nodes racks clear solution intuitive matches diagrams described vague adequate well followed 
+8BB9E6	5	positive	 hard requires skills hard debug hard requires skills hard debug hard requires skills hard debug hard requires skills hard debug 
+8C7C43	9	positive	 contents important tool operations deeper works 9 good combination 
+8CA73C	1	neutral	 say enjoyed often difficult describe words challenging helpful fun figuring thinking model probability false accusation love analyzing articles difficult hence why engineer useful exercise 
+8DDF2D	8	negative	 trouble mainly charge confusing hard keep track stats reducers combine worked hopefully having easier 
+8E099F	4	negative	 setup involved looking back looking back pain remember exactly helpful info directly reminders hints d say length biggest detriment 
+906C77	1	positive	 everything positive believe great introduction taught basics needed successful fair related covered average difficulty outside fully grasp great impression assisnments 
+945100	1	negative	 introductive rather work project addition subjective means specifically correct difficult total say hard 
+945D23	7	negative	 highly unclear several sub c wide expressed ideas clearly d mention o notation textbook mentioned questionaire thursday quizzes opaque 
+94EF53	6	positive	 generally good confusing terms wording contains contents compression snappy codec custom writablecomparable inverted index inverted index useful stated clearly 
+978018	8	negative	 hard translate ids titles costed besides work hive tutorials computation compared ppt hard correct without 
+97C9FF	9	neutral	 split love like come pretty naturally liked useful tool works local processing smaller datasets hand cumbersome hard maybe functional yet frustrated 
+97F531	9	negative	 say mess cuz totally spread content skils spread folder tough requires folder tougher midterm came back work thsoe thigs folder 
+98640E	7	positive	 pair key needs small change old version work vector difference strips pairs space complexity pagerank 
+9BB028	2	positive	 opinion pretty straightforward close studying long easily system long attend easily conclusion helpful straightforward 
+9BF133	2	positive	 straight partly open ended partly specific details give examples illustrate asking happy turned like 
+9C2304	4	negative	 today finished pretty good enjoyed creating project entire development pretty chill like progress student scholar 
+9CA661	5	positive	 good comprehensive debug methods fully utilization completing integrated system difficulty task right level covers ve learnt ambiguousness prefer ones 
+9CC279	2	negative	  certainly difficult mainly familiarizing ourselves couple exercises harder comprehend constantly refer notes 
+9DB7D5	6	positive	 6 slightly challenging ones exciting rewarding good exercise custom writables comparables compressed uncompressed sequence implementing inverted indexer helpful exercise 
+9EFB15	9	positive	 analyze tools higher level interactive shell well higher abstraction convenient analyzing python study worth useful powerful tool 
+9F5293	3	positive	 function implemented driver tested result whether corrected  corrected hahaha 
+9FBCC5	7	positive	 ways challenging conceptually model stripes nice waste debugging understood nice solidify several touch pretty nice 
+A087A2	2	positive	 well structured tests understood lab1 lab2 lab1 distributed storage system lab2 assigns c like turned doesn answering 
+A27FEA	6	negative	 relatively hard compared sub coverd ourselves fine couple easily treated wrongly ever solve debug easier straightforward semi system 
+A414EF	4	negative	 hw4 totally destroying good implemention ambiguity codes deal tryingn several consuming bad drives mad numerous tiny hardly every small several cannot imagine print statements local mode ever covered point bear mind well literally standard hw4 annoyed frustrated depressed attitude towrds strongly negtive 
+A41C55	1	neutral	 introduction its application assigned materials consuming itself hard imagine favorite provides interesting background behind math feeling close life 
+A453B2	1	positive	 well interesting experiment  written semester may difficult easy expected glad  goes believe difficulty become higher already ready come   hanming li 451802 
+A4FDF3	4	neutral	 good related passing parameter control behavior challenging comprehensive practices student whole intermediate well difference cluster order ambiguous meaning answered detailed explanations 
+A5D7BF	7	negative	 heavy like helped reinforce pagerank appreciated breezed mmds 
+A604A9	4	positive	 like past supposed solutions proficient dooing like immitation supposed good hands experience helped 
+A6744A	7	positive	  easier clearer teammate ten extremely hard application mining great sense 
+A811BC	4	neutral	 began late revised lab1 submission itself hard expected play around fs comments well 
+A87095	7	positive	 number seven helpful stuff moreover explains proper techniques utilize includes taxation stuff like may may benefit easy like conceptual 
+A89319	1	positive	 homework1  zheng yuan 452091   helpful clearly properties formula concluded idea bonferroni principle factor effects false accusations good differences unlabeled labeled based approach 
+A9CEC2	4	positive	 thank assigning toolbar unit writtren right deeper appreciated 
+AAE709	7	neutral	 challenging 6 difficult slow mr slow laptop frustrated straightforward helpful better 
+AD7289	5	positive	 good importance nice inevitable  exercise life situations 
+ADAAA4	1	positive	 rather easy term negative positive positive properties datasets useful like amount size infinity etc written clear large volume give wrong outcomes huge number random events taught valuable lesson mining trusting may fooled itself 
+ADBCEF	9	positive	 whole semester semster went fast yet exepcted terms googled almost every either python painful debugging painful worked end 
+AE1A8E	9	neutral	 technologies widely daily life popularity important people background hard interesting mainly includes aspects related finished reviewing 
+AF2949	9	positive	 9 good helpful helping various tools hive long rewarding 9 advantages disadvantages tool 
+AF76FC	6	negative	 trouble errors typos value loop string lines types errors waste alot figuring went wrong confusion direction compareto method 
+AF8F47	7	neutral	 technologies widely daily life popularity important people background hard interesting mainly includes aspects related finished reviewing 
+AF8F4E	3	positive	 zheng yuan 452091  considering problem3 helpful your own task instead gives chance recognize challenge bottleneck execution good 
+AFAF7F	3	positive	 good combination theoretical nice reviews content gives better work procedure tasks storage processing gives good chance build model 
+B0A126	2	neutral	 widely daily life important people background hard interesting mainly includes aspects related like finished reviewing 
+B1BA1F	4	positive	 challenging consuming satisfying interesting aggravating debugging moments good helped better grasp content tasks awesome fast 
+B302EA	1	positive	 generally good approximately helped properties discussed interesting trying tell worthnoting unrelated itself happy verified formula table connection 
+B32CEF	2	positive	 basically let materials lab1 lab2 helpful clear idea distributed system works better complex covered good introduction following 
+B5121C	5	neutral	 studied confused distributed cache checking relative slide remember works finished work become difficult compared difficulties mean 
+B5DAC7	1	neutral	 mainly focuses reasonable student better introduced classes exercises apart quizzes presented related explanations may harm enthusiasm students sum good personally practices 
+B69A4D	6	positive	 6th easy looked website referred books confident every handful exam hard turned early 7th already hard 
+B6D6C9	3	positive	 fairly satisfying skew like helpful execution works perhaps confused details fun apply actual sorted confusion navigating local system vs terminal helpful feels like building blocks needed accomplish 
+B78272	6	negative	 nice extremely difficult prepared expect lost majority points questii good idea like 
+B7EDC5	2	neutral	 harder expected interesting okay hard recap quiz2 hard may indicated therefore clear might struggle good check myself motivate myself catch 
+B89669	2	positive	 pretty helpful consolidating large stored their inputs outputs minor complaint worded better context 1d 
+B9F0B6	7	positive	 flaws co method confused want stands want type fuzzy debugging fine means challenging theoretical fun 
+BA6FA2	5	positive	 hw5 partationer faster save memory comparing outputs without save memory wan procsee tons important save memory processing faster 
+BB24BD	9	positive	 unix script modify small let mistake loading specify alternate delimiter argument pigstorage helpful 
+BB956E	4	positive	 enjoyable prefer implementing classes answering textbook chapter favorite involved following directions welcomed challenge passing parameter avgwordlength wrote mr weblog love few confused asking 
+BBB7F2	6	negative	 fairly easy related contents covered content fully covered description ambiguous whether combine expect problem2a sequence container emphasis general 
+BCC57E	4	positive	  hw4 zheng yuan 452091   helpful pass parameter   besides chance whether procedure correct 
+BD0482	1	positive	 corresponds related properties methods processing world hidden fundamental useful their properties leads motivation mining methods later classes 
+BD81A3	7	negative	 mathematical long right computation complex difficult compute without reference maybe 
+BD8D50	8	neutral	 like incorporated formal proof qualitative instead frustrating formula cosine formula wiki page collaborative filtering latter sense great professor tas helped resolve confusing issue piazza 
+BDAFE5	8	positive	 responsible talk respond finishing straight instructor talked measurement asks normalized taken courses mentioned normalized cosine pearson correlation easy moreover mentioned considered difference users considers movies easy 
+BEF119	1	negative	 own opinion good paper good description somehow ambiguous led unneccessary consuming perfect description revised 
+BF1A0F	1	positive	 good overview extra materials good synopsis te well decent regarding probability irrelevant lectures relatively easy grasp summary open ended liked allowed provide broader response 
+C03C93	3	positive	 opinion pretty straightforward around like among deepen 
+C07361	3	positive	 cse427s confident long carefully works exactly totally easy fir well google search own revise wordcount fit hard  good score 
+C14926	6	positive	 good related custom writablecomparable lead better create handle user defined writable types complicated valuable sequencefiles without compression students kinds storage inverted index fairly comprehensive designing satisfactorily comprehensive 
+C18F5E	1	positive	 difficult easy already p quiz seen talk becomes straightforward text doesn style normal compsci style doesn math involved 
+C19BE4	8	negative	 tricky like five six analyzing codes github trying setup enviroment generate codes like five trying plot distribution average rating per user horrible tried excel r plot meaning great calculation raw fine easy compared anyway left probably 
+C1D819	9	negative	 fucking terrible annoying gave3 terrible terrible terrible feeling stomach words todays lunch bauer bad barbecue chicken green leafy broccoli delicious guy fierier deb pleased service peace love j 
+C402CC	4	positive	 teammate extremely busy therefore grateful auto extension enjoy rest 
+C44937	6	negative	 incredibly unfair extraordinarily frustrating needed solve stuff vaguely covered incredibly poorly written vague unsure unsure solved asked become clear making hard expected 
+C45709	7	negative	 trouble confusing inputs outputs b 1st idea c assumed talk perform preprocessing step 
+C5A259	9	positive	 task easy attend introduce searched google carefully study quickly figured deal result easy 
+C684F9	8	positive	  homework8   zheng yuan 452091  program1   its great opportunity whole ourself   analyse distribution cope enthusiastic overly pessimistic raters   program2   clear difference cosine pearson correlation connection normalized cosine thepearson correlation   strong point weakness cosine measure   disadvantage jaccard measure cope   program3   advantage item item similarites measure   procedure item item similarites measure 
+C6EF58	6	negative	 certainly difficult mainly familiarizing ourselves couple exercises harder comprehend ve never dealt constantly refer notes 
+C72CEF	4	negative	 portions irritating implementing difficult numerous issues recognizing options capturing arguments arguments actual aspects enjoyable re supposed recognize html logs without prior exposure 
+C75361	8	negative	 currently pretty stressed everything upcoming life currently looking interviews coming feels like amount work prepare overwhelming hoping ckm advisors icredible achievement myself please let chill otherwis ei like rest semester suck eggs like already lets best pce 
+C80A11	7	positive	  homework6   zheng yuan 452091  program1   co occurrence pairs approach   limit   program2   clear  stripes communication cost  program3   pagerank  ways represent graph strong point weakness 
+C83E61	5	neutral	 difficult apis order idea partitioning distributedcache idea why tf idf useful completing bayesin statistics basics well interesting subjects interacting tough fun play around 
+C87660	6	positive	 great aspects beginning discussed searched internet good references pleasure successfully great happy work own 
+C8A9F0	4	negative	 good remind ve learnt past lectures mr parameters mr mr unit log deepened mr  senario web log lead ve learnt like say confusing related closely learnt amount point behind points detailed may covered 
+C9881B	3	positive	 good refine excution algorithm average length right difficulty based count ve deepened executed realized importance effective debugging methods statement ambiguous extra guess point 
+C9B01F	8	positive	 helpful terms practicing foundamentals algorithm building recommendation systems implementing hassle tasks like sorting teammate struggled without error terminal fortunately figured 
+CA04CF	4	neutral	 lengthier complicated  unsure alot directions vague enough unsure task supposed  without ta 
+CAE971	1	negative	 tedious frustrating particularly frustrating small mistake formula gave correct results clear wrong issues mostly having explain dimension unnecessary lack examples notes nuanced dimension 
+CAF0BF	6	positive	 busy busy midterm interesting useful later mining 
+CC1CCB	7	negative	 terrible fighting ambiguity ii b based text calculate size description tells count pairs emitted pseudo without consuming lots methods online pseudo workload elegancy differs urgent pseudo nice ta strictly grade according description wants odd number 
+CC3F87	2	positive	 difficult sort research proper shortcuts cheatsheet search certain pattern text pressed h view helper inside terminal knew search pattern pressing n n search directions lead searching results progressing 
+CCEC38	1	positive	 marion bonus points contains expected like probability quiz dislike long essay hey ve written 50 words thanks 
+CE8DC4	8	positive	 8 good exercise implementing recommendation systems algorithm specifically top n list helped items determined helped feet wet hive powerful platforms yet intuitive programmers 
+CE9D6F	7	neutral	 intereseting allowed operations solve pagerank world application cool work confusing requested taxation graph without taps resulted probabilities 0 dont right unable confirmation correct appraoch intention otherwise wasrelatively straightforward good conceptual exercises 
+D02D0C	5	positive	 txt ton load positive words txt nagetive words txt well happy generally five bad 
+D17E3F	7	positive	 better ones vague least solvable liked fact stuff pulled textbook teamwork helpful combination brought alot table together 
+D210BD	4	positive	 love serves excellent kinda like step step instruction clearly lays method e eclipse commandline pseudo cluster clear thumb 
+D27FF8	3	neutral	 hw3 challenging deeply relationship driver well confused yarn scheduler another skew q1 q2 seem cover topics professor 
+D299C8	2	neutral	 rather enjoyable occaisonally frustrating supposed frequency certain list words search specific words thus consuming scroll enjoy examples supposed work step pleasantly invoking fourth mostly frustrating prefer instead explaining words 
+D36D38	3	positive	 easy deal needs deep comprehension system conception skew important fundamental conception work finished their work runs sequentially itself parallel reducers easy fundamental conception 
+D6BC72	3	neutral	 hands enjoyed aspect actual functions gave better work troubles like gave troubles gave desired appreciated 
+D79DC1	5	positive	 difficult past homeword efforts examples enough guide step step partitionertest comes bugs fix ourselves homeword requires thourgh past inspired requires assert equals build jar almost stuffs lines 
+D8ADCC	8	positive	 requires skill right diffculty ambiguity useful improved implementing skills tops among 
+D92B32	5	negative	 trouble making partitioning knew worked forgot paths reason results count count having lower amount task d asks why total mapppers higher evidence ran idea why results 
+D9BA1E	5	positive	 good experience world applications nice materials went google probably favority terms length 
+DB1003	8	neutral	 particularly nice stressful without stubs figured eventually ready graduate starting worry exam necessarily retained well 
+DD18B5	3	positive	 hard energy everything excited good sport structure driver work better starts become best friend love linux 
+DD59CF	4	negative	 tricky couple naive resolutions directly notes useless those c d like unclear submit like whole redundant 
+DDC2A0	4	negative	 consuming days focusing home work takes moreover thinking conceptual easy anyway tired 
+DDFED9	1	positive	 pretty good busy semester courses societies hunting enjoy plus like believe away useful 
+DE3E92	5	negative	 involved figuring own enjoy weren examples unit tests partitioners struggled eclipse supply arguments distributedcache eclipse never went 
+DE7395	5	positive	 good exercise combiners partitioners work insights sentiment particular approach its limitations ways improve approach 
+DFF2A5	1	negative	 expected tedious back notes readings extract summarize probability ultimately necessary worst assigned enjoy 
+E0E0C8	6	negative	 homework6 easier following slide hard decide type value confuse type type compress unknown mark inside 
+E27B65	8	positive	 fair create project fresh begining professor give tutorial couple turns import external lib hard people like who ecilipse couple instructive deeper recommend system works helpful project 
+E3CF37	6	positive	 6 long main reason few examples give enough hints good contents methods several hard admit good choice gain difficult positive feeling want improve efficiency 
+E55AD1	6	negative	 keep taking frustrated debugging errors unclear directions honestly like wish involved annoying debugging tasks heard re outdated tragic true 
+E5C419	5	negative	 hw5 difficult consufing setup off execution sort figured handle debug number bytes count counters reported 
+E66573	1	positive	 interesting enjoyed vague opinion needed fully covered like based apply home 
+E6F2A9	8	positive	 easier asked clearer understandable good content brings valuable experience happy pretty good coming like 
+E6F7DF	8	positive	 busy busy midterm interesting useful later mining 
+E7AFD5	7	negative	 7 totally disaster good pay attention details making depressed hand meaning bang result why calculate value math fill like human computer bad confused 7 driving mad tha feelings 
+E7C83E	3	positive	 caused stress longs like confusing amount outside research come like gave opportunity apply skills helped further applying simulated good 
+E90080	6	negative	 lost others having trouble focusing fuzzier schedule full hard work hopefully spring break study better grasp 
+E99335	4	negative	 hw4 another combination tough hard fully point sort latter specific 
+E9F884	6	negative	 home work wasting implemented good idea looking related google 
+EA352A	4	positive	 hw4 harder hw3 like pushed dig building tasks e vague management means here whole interesting 
+EA7AEC	1	positive	 opinion helpful learnt urges materials carefully useful remember theory well say paper section long cost well good developing english skill 
+EB5B7A	4	positive	 forth received contained learnt pretty easy easy several went ta asked solved afternoon relieved 
+EBC20E	9	negative	 hw9 sense consuming workload heavy cost wait result error check mechanism good led fail lots wasted meanwhile proved importance shall discrete small sample possbile 
+EC7104	5	negative	 pretty frustrating difficult coming cannot somewhat interesting compare counters vs without mostly annoying right numbers calculating correct residuals like mostly involved written conceptual instead actual solving enjoyable figuring sentimentpartitiontest tricky enjoyed challege figuring 
+ECA39C	4	positive	 helpful specifying configuration options appreciate chance parameters configuration basically lets try ways convenient efficient debugging great try cluster 
+ECD333	2	positive	 helpful remember context learnt better better techniques commend 
+F02EDF	6	positive	 6 pretty fun despite fact busy debilitating migraine majority thus ended having rush hw6 minute interesting challenge appreciated task implementing types enjoyed inverted index sequence boring involve solving 
+F19801	7	negative	 tougher reason studying textbook midterms classes hard back contexts page rank carefully delived simply studying notes google thanks god completed during day spring break canada like feeling break 
+F23AE2	7	negative	 homework7 following easy mmds section easy solve debugged debugged several well relative programing co occurrence except google 
+F2EF83	4	negative	 takes significantly ones weekly having wish distribution throughout semesters better expectations begining particularly helpful world applicaitons considering specific wish broken long 
+F35943	3	positive	 enjoyed own challenge looked wordcount modifications helped reinforce sequence events yarn sped 
+F55CF7	1	positive	 textbook work good prctice enjoy partership classmate works well discussion 
+F56E9F	9	positive	 9 pretty enjoyable prefer python nice least pyspark otherwise repetitive seem tedious useful happy adding repetoire cs skills liked project dualcore tied relevant life applications 9 might favorite yet ll left 
+F59CB5	1	positive	 properties difference structured semi structured un structured mainly calculating probability making mistakes right text interesting idea processing human language always interesting topic 
+F66563	6	positive	 during work 6 endeavored customizing writable manipulation sequence snappy along inverted indexing words content correspondingly right difficulty workload enough long completed necessary teach works doesn require submit helpful early warning consumption 
+F6F2F0	3	positive	 comprehensive practices explanations related statistics students efficiency explanation related yarn student execution nice practices nice students sets limited count sum good comprehensive answered 
+F7F6DB	5	negative	 busy turn frustrating realize couldn fast expected work until sunday morning finalize results wanted improve turned late plan ahead started earlier 
+F80DF7	6	negative	 frustrating like ourselves supposed experience guidance seek stackoverflow like sequencefilewriter demo outdated modifications adapt its intended purpose 
+F83D07	3	positive	 difficult ones due vague previously  nothing lots frustrating end 
+F89970	2	positive	 homeword consists schematic numerical subjective order lab1 lab2 well introduction better homework1 closed excited 
+F8A944	4	positive	 technologies widely daily life popularity important people background hard interesting mainly includes aspects related finished reviewing 
+FB030E	2	positive	 enjoyed challenging enough work doable own good amount weekly opinion fair great experience 
+FBC836	6	positive	 introduces further function efficient good offers valuable experience gives deeper realize myself 
+FC2DD4	4	positive	 interesting somewhat challenging solidify configurations work well difference cluster good exercise worded better cause confusion context certain terms mean 
+FD3448	7	negative	 confusing he meaning takes long relatively good give nice 
+FDBED9	5	negative	 intersting professor newman teaches hand combiners reduction efficient pre keys key pairs sending actual hand distributing blocks 

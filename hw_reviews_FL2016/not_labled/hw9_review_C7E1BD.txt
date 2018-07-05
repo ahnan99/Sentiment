@@ -1,0 +1,5 @@
+This homework was by far the best homework we have had. It wasn't too hard, it didn't take too long to complete, and it really expanded
+my knowledge of the subject of Pig. At the end of this homework, plus the lab, I feel like I could write an actual piece of code in Pig by
+myself and have it run successfully, which is something the previous homeworks have failed to do. The only problem with this homework and the lab
+is that a few of the pieces of code do not work and need to be edited so they run correctly. This should not be the case, and the homeworks should be 
+checked for that. Other than that, great homework,

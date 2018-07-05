@@ -1,0 +1,1 @@
+I enjoyed this homework because it seemed much more applicable than previous homeworks. I am very much interested in word co-occurence, because it relates to machine translation, which is a field I am very interested in. This homework also seemed simpler and easier to code than previous ones. I found that I had less errors in my code and the ones I found were easy to troubeshoot.

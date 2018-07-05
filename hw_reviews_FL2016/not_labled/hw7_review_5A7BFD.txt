@@ -1,0 +1,7 @@
+For this time, I think the job is not that difficult but 
+still need me to concentrate on every aspect of knowledge
+about matrix-vector multiplication, pagerank analysis and
+matrix-matrix multiplcation. Problem 2 requires a lots of 
+computing and I have spent some time on it. All in all, I
+think this homework is very useful for me to understand all
+the things about pagerank.

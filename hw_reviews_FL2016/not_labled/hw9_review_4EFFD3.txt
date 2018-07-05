@@ -1,0 +1,1 @@
+This homework assignment was one of my favorites. I really enjoy the versatilitiy and ease of use of Pig. Pig allows for rapid, SQL-style scripts which is significantly more enjoyable to use than full Java MapReduce programs. Additionally, the application of the problems in regards to advertisement data was interesting and motivated the work.

@@ -1,0 +1,1 @@
+This homework was really great. It helped me understand exactly the differences between testing locally and testing on the cluster. The concepts learnt in class were reinforced in this homework. Some of the qualitative questions at the beginning were nice because they clarified a lot of assumptions I made.It gave me a good sense of what to expect on an exam too.

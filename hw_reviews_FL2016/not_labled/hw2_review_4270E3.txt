@@ -1,0 +1,1 @@
+Part 1(3) was frustrating, because there didn't seem to be sufficient explanation of the required output format. Part 4, though, was rather easy - the implementation was just a few simple lines of code, which made it a breeze to complete. Annoyingly, some of the instructions were incorrect, miswriting the file names, among other things, which proved a minor inconvenience.

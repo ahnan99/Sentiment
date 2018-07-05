@@ -1,0 +1,4 @@
+A really long homework actually. it covered many important topics including spark, pig.
+BUt from it, I can see some convinience by usinng spark and pig which will get difficult and 
+complex in MapReduce. But as one single homework, it's overloaded and thus I spent much time 
+on it plus there are many latent readings.

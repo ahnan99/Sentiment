@@ -1,0 +1,3 @@
+As always, hw3 is a fair game. This time, we focus on running MAPREDUCE application locally, also called standalone mode. In Hadoop system, there are three different mode, the other two are pseudo distributed mode and fully distributed mode. Standalone mode is very useful for testing our MAPREDUCE application. Afterall, we don't want an bug-existed application running on the real hadoop environment.
+
+Besides, this homework makes the foundation even stronger with problem 1 which confused me a lot.

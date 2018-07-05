@@ -1,0 +1,1 @@
+This homework was especially problematic. It was very unclear for example, problem 2c what it meant by being problematic. Is it problematic when running the MapReduce, or the Combiner, or I emailed the teaching assistant and it seemed that he was hinting along the lines of it being problematic in constructing information about the whole sentence.

@@ -1,0 +1,1 @@
+This homework was not as hard as the others. Pig is very intuitive to use, and we were not required to implement any algorithms to go along with our database analysis. I’ve also had experience using mysql so using pig latin was not very hard to learn. Even the syntax is pretty similar. 

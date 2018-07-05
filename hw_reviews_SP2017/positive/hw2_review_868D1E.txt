@@ -1,0 +1,5 @@
+The second homework is mainly about the map reduce.
+The first problem is easy, but it took some time to fully understand every question, since some of them are unclear to me.
+The second and third problem are about the concept of map reduce, which seem to be quite easy for us as long as we know about it.
+The last problem is about running a MapReduce job on VM, and it did take some time to be done.
+Every question for this homework is not complex to me.

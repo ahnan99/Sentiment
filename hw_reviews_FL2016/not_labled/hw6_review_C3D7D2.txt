@@ -1,0 +1,1 @@
+I really liked this homework. I thought that it was short, and hit concepts really well. Problem 3 was pretty easy and redundant, but I thought that Problem 2 hit the concept of indexes very well and Problem 2 hit SequenceFiles very well. I thought the conceptual question about word co-occurences in problem 3 was good as well.

@@ -1,0 +1,4 @@
+It take me a lot of time to finish this homework. Problem 1 seems easy and I finish it quickly. 
+But when I turned to Problem 2 I have no thought about it. I don't know how to complete distributed
+cache. After look up the piazza and discuss with my friends I finally work it out. Problem 3 is not hard 
+and it seems like the hadoop job we did previously. 

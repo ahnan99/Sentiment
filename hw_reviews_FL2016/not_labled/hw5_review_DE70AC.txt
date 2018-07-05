@@ -1,0 +1,3 @@
+Doing the sentiment analysis home work was pretty cool because now I know how to cheat the system.
+I can add positive words like happy but use them in a context where they are negative like using the words not happy instead of the single word unhappy
+Its unclear that you will be able to get the sentiment of the class at the end of the semester, especially if you have home work reviews like these.

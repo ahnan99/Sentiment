@@ -1,0 +1,1 @@
+I like the question 2&3 of this homework, because they make me know how to use Map reduce the data size more clearly. I like to combine the knowledge and code, or I would use code or program to implement the theory. And question one makes me fully understand the theory of how to use data node and name node, as well as the relationship of them.

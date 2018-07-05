@@ -1,0 +1,3 @@
+hw5 is hard one. I think it is the hardest one I've met in this class.
+First problem we had is that, it turns out the original code we had had a lot of bugs, we need first fix these bugs. 
+Second, I am not familiar with JAVA and therefore I spend a lot of time in goole the basic JAVA stuff, especially the above bug fix problem.

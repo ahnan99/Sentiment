@@ -1,0 +1,5 @@
+This week's homework is a little disappointing, largely because of the types of questions asked. Although I realize that we as a class have not delved into cloud computing to much detail, the reading comprehension and "match-the-property-to-the-dataset" questions are laborious and do not stimulate.
+In tandem, the probability formula question was inconvenient to answer because I (and possibly others) am not familiar with LaTeX; I'm sure the grader would not be very delighted to read my equation 'format', either. If you have any resources for LaTeX, please link them to your page.
+
+The article itself was a decent read, but the questions that came along with it can be phrased in a clearer manner. There is no specific reference to a 'data-based' approach in this article; please be more granular than that, as students may spend more time than necessary only to misinterpret the question.
+

@@ -1,0 +1,1 @@
+I thought that this homework was applicable to what we did in lab, however I do not enjoy implementing unit tests because it is often tedious. Also the driver settings required in order to run the mapreduce program locally from teh command line were really finicky and difficult to get working. The nature of teh problems also made them difficult to troubleshoot.

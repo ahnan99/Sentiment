@@ -1,0 +1,1 @@
+This homework is a good exercise to get familiar with coding map and reduce functions in Java for use in Hadoop.It is helpful in that it helps us better understand the different kind of daemons and processes involved in resource management in Hadoop and also the basic workflow of each mapreduce job.

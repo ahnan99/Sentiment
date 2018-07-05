@@ -1,0 +1,3 @@
+Homework 6 had some unclear elements that made me feel genuinely confused. Problem 1, regarding SequenceFiles, was especially difficult for me.
+
+Some answers could not be found in the lecture slides, readings, or after extensive web searching. As you can imagine, this is somewhat frustrating and concerning for future classwork.

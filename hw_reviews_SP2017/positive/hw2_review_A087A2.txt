@@ -1,0 +1,1 @@
+This homework is well structured -- it tests if I understood what I was doing in Lab1 and Lab2, where Lab1 was about distributed file storage system and Lab2 was about MapReduce. Problem 4 again assigns some reading in part c, which I don't like that much and it turned out that it doesn't have much to do with what I need to know before answering that question.

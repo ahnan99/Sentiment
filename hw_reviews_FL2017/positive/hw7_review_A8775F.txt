@@ -1,0 +1,1 @@
+This homework is a rather easy one, since it only requires one mapreduce job. In addtion, it requires less work in hashset, which is required in the former homework. In conclusion, this one focus more on report than code, so it is a relaxing one, since we do not have to spend much time on debugging. I would like to see more homework like this. 

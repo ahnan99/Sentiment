@@ -1,0 +1,3 @@
+I thought this homework was a good refresher on the lab content from last week. The questions were well distributed among several different topics; the main criticism I might offer is on the choice of topics.
+The questions on 'skew', while an acceptable concept to test on, was not hashed out well enough in class. Finding resources on 'skew' definitions is also somewhat difficult.
+In addition, while the last two problems were good unit test reinforcements, the instructions for them (particularly ones on 'printing' results) could have been made more clear.

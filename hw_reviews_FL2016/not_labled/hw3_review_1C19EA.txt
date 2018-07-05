@@ -1,0 +1,7 @@
+Problem 1 was fun.
+At the beginning, it took a bit to understand the little things and it was really hard to find what skew is :D, but once we got a grasp of the concepts like differnce between a Reduce task and reduce() function, it was quite interesting.
+It took a bit of thinking but was nice to lastly be able to get satisfied with a good solution.
+
+In problem 2, finding the definition of Data Locality Optimization was hard. But the slides are always a help.
+
+Problem 3 was good overall. We were running into some problems, so would go to the TAs

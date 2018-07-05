@@ -1,0 +1,7 @@
+this lab is a little confused to me. 
+
+For problem 1 and 2, I found ppt is not such helpful, instead, I need to find answer in reading material. However, I find they are still a little confused.
+
+Problem 3 and 4, for the lab part, I can follow the instruction, but for the conception part, it’s quite difficult…
+
+Besides, I got some problem with my VM this time, so I reinstalled it. It takes me some time to reinstall VM and redo hw1 and hw2 to set up the environment and documents…

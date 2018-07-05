@@ -1,0 +1,1 @@
+This homework was fairly straightforward because it was just familiarizing with PIG commands, which we did in the lab. Because PIG was having problems with DUMP on the local filesystem though, it was a little frustrating to find out that our script had the right syntax all along, after struggling for hours to find out why our DUMP statement wasn't returning any results.

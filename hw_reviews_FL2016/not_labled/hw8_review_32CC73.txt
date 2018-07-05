@@ -1,0 +1,5 @@
+This homework was well-balanced between conceptual and practical problems. I think problem 2 was a good treatment of the similarity functions described in class, and made up for
+relatively vague concepts regarding them.
+
+Additionally, the homework takes a stab at a common machine learning problem (recommendation systems), which I am sure most people would appreciate as exposure to the machine learning practice.
+I hope the remaining homeworks in the future will be of a similar format.

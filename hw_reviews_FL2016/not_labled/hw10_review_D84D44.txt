@@ -1,0 +1,1 @@
+I liked the applicability of this homework. It seems like Apache Spark is really useful and easy to use in practicality, and it does a lot of the overhead for you. The lab was not really well set up, so we ran into a lot of issues as a class, but overall, I think this homework was good. It even was on the easier side I would say.

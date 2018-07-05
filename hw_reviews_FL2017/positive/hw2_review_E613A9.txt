@@ -1,0 +1,1 @@
+Homework two is not so hard. I just need to read the textbook to get the knowledge of the HDFS. And MapReduce is easier to understand by doing the last two questions. I took much more less time to finish homework two than homework one. It is a relief after doing such homework writing.

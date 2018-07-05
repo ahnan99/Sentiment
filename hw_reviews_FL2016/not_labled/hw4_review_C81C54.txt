@@ -1,0 +1,1 @@
+This lab was cool, much like the last lab it built on the average word count.  It's nice to finally see how useful toolrunner actually is by implementing it on the IP address lab.  I also like the IP address lab, since it sounds slightly more useful to real life than average word length or word count.

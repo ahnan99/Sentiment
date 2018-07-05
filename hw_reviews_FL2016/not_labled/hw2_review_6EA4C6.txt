@@ -1,0 +1,1 @@
+I thought this homework was very helpful and informative. It really drove home points about the stages of getting data from a file to its final form using key value pairs. I haven't used java very much so I am still a little confused when it comes to packaging the various classes.

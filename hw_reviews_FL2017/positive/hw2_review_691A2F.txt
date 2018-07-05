@@ -1,0 +1,1 @@
+This homework really help me a lot. In the lecture, I only have a theoretical understanding, and I have some confusion with how do they work with the mapper function and mapper reducer. The homework make me much clearer with the concept and when I talk with my partner, I will get different ideas and different understanding ways from each other. 

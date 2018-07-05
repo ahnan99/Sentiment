@@ -1,0 +1,2 @@
+This week we learn about PIG. This is pretty interesting application for Hadoop. It looks much faster than mapreduce, and much more easy to get query answer without thinking about how to write the mapreduce program. And all we want can be easily found in the slides or in the book. So this homework I think is pretty easy but useful.
+

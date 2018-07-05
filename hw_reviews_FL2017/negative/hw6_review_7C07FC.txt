@@ -1,0 +1,1 @@
+I thought this homework was somewhat challenging. The instructions for the lab could have been written a lot more clearly. The example code that was given from the github repository just made me more confused because there were so many things that we didn’t cover and I didn’t know I was supposed to ignore or delete.

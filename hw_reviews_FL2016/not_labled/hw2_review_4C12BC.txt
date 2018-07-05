@@ -1,0 +1,4 @@
+HW2 is harder than HW1. 
+First is the coding part. We need to write more code than HW1. Also the interaction with hadoop become more complex. Everytime we want to test something, we have to move the file to Hadoop space.
+
+Also since I am not familiar with Java, I spend a  lot of time in debuging.

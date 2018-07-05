@@ -1,0 +1,3 @@
+This homework was awful. It took way too long. The questions were vague. The API was awful. I hope that the homeworks stop taking
+more and more time as time goes on. I also hope that we have a lab soon so I can clarify all of questions. The test was also great.
+That sarcasm. Does sentiment analysis pick up sarcasm?

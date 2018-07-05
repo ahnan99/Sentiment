@@ -1,0 +1,1 @@
+This homework was particularly hard in the sense that the matrix part as well as the application wasn't really explained clearly in class, so I had to spend a lot of time reading the text to get even a slight sense of how to approach doing the problem. I think walking through example implementations would be more helpful in the future.

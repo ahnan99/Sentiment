@@ -1,0 +1,4 @@
+This is a light-loaded homework that I can fully understood the materials covered by the topic of Spark.
+Comparing to Hadoop MapReduce task, Spark is more handy and efficient. Complex work in Hadoop can be done 
+in few minutes in Spark even if the users have limited programming backgroung. The constrution of RDD is 
+also pretty creative.

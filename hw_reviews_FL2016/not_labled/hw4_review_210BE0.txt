@@ -1,0 +1,1 @@
+I found homework 4 to be very challenging. I feel like we were not given information that could have made the homework go by much quicker (and still not take away from the assignment) such as how to break up a log line so that there is only the IP and status code. 

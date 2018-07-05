@@ -1,0 +1,13 @@
+	For this time, I think the job is challenging though the problem 1 is 
+not difficult. While for the problem 2, I think it is a bit easier for
+me.Firstly, I was stuck in the sequencefile and it confused me for a long time.
+	And then I search the internet for help and watch some hadoop related videos
+on youtube. So that I have a better understanding of the sequence file and use 
+the snappy as my format. Thoungh it is a tough thing, I learned a lot of knowledge
+from it.
+	For the index problem, I think it is not very hard.
+	And at last, for the word coocurrence problem, I still search the internet
+for help. And I read some blogs and asked some question on stack overflow. So 
+I finally, solve it. 
+  Though, it took us a long time to complete the homework, I grasped the basic
+knowledge of sequencefile, word cooccurence.

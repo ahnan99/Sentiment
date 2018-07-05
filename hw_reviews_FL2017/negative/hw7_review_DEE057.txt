@@ -1,0 +1,7 @@
+This homework is not that hard than previous one. But I had 
+several confusions in understanding the questions. For example, 
+problem 2.a, it’s a one-step derivation from cosine similarity 
+to Pearson Correlation. So I have no idea what does the requirement 
+“show formally” ask for. However, except this minor defect, I 
+felt like this assignment expects more open ended answers which is 
+the form of questions I prefer and feel at ease.

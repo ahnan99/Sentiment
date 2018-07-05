@@ -1,0 +1,1 @@
+Switching to pyspark has been a nice change of pace. There is a bit more creativity using spark and specifically defining the functions used in pyspark. The standard Java Map Reduce paradigm certainly has some shortcummings and faults. The features of spark such as chaining, pipelining and lazy loading make it much more efficient, but also easier to work with.

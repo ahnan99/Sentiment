@@ -1,0 +1,2 @@
+Homework 4 required the implementation of several java classes and using existing classes to extend and implement new features. Using ToolRunner demonstrates the power to add parameters and input files. The Partitioner is exciting because it has taught us how to extend beyond basic Map Reduce algorithms. This was also a good opportunity to worker closer with our group partners to come up with solutions to the coding challenges.
+

@@ -1,0 +1,1 @@
+This homework could check whether we understand the theories we learn perfectly. However, as to the java coding part, for me there is something hard to understand about the codes and the command lines in terminal could not cover all the things we need here. For me, I need a much deeper understanding in different parameter types in java.

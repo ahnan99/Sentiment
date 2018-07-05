@@ -1,0 +1,1 @@
+Through this assignment, we were both better able to understand the various implementations of map reduce programs and how we can fully benefit through normalizing. The biggest challenge was retrieving the current file name from our mapper - the textbook was of  immense help as it very clearly outlined the step by step procedure of what needs to happen. Thank you.

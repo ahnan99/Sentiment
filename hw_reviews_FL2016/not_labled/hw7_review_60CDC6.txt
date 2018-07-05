@@ -1,0 +1,1 @@
+This homework was a nice respite from the harder homeworks from before. It was nice to handle some theoretical stuff that didn't require a lot of trial and error. One possible negative was that Problem 2 might be really hard mathematically if you don't have something like MATLAB to help you out.

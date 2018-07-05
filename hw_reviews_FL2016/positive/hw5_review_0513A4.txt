@@ -1,0 +1,1 @@
+I think this was a great opportunity to get more hands on work with the hadoop file system. I think I am beginning to understand how to create these map reduce programs without as much hand holding. I think I may even try to implement my own if I need to process large amounts of data

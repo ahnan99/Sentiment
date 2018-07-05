@@ -1,0 +1,1 @@
+In general, I like doing homework 8. The first and second problem are very interesting. They help me to understand more about how to create RDD data in Scala spark. They also help me to be more fluent with spark transformations and actions. Meanwhile, the last problem helps me to understand more about pipelining in spark, the reason while spark is fast, etc.

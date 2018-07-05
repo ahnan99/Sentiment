@@ -1,0 +1,1 @@
+This hw was very interesting and not too difficult. After reading the MMDS I was able to figure out the code for the link analysis page rank very quickly. The theoretical information about block and strip methods for MapReduce for Matrix Multiplication was difficult but after I went to the TA and we worked on a smaller example I was able to figure it out. 

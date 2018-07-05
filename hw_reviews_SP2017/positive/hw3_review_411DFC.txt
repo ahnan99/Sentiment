@@ -1,0 +1,1 @@
+another well designed homework as I see it. It helps me review concepts about map and reduce and hadoop distributed file system. It integrates lecture materials and labs into one single homework which makes me feel satisfied after knowing I solve these problems using the knowledge I learnt in class.

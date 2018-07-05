@@ -1,0 +1,4 @@
+This work is a lot but not very difficult.
+Problem1 and problem2 is easy, just follow the instruction.
+Problem3 is a little troublesome, especially the SA question. Although this question is not too hard, but it took a lot of time in study what is SA.
+Problem4 is a simple coding with Java. Coding part is OK, but we met some problem when setting our environment, that’s the tricky part.

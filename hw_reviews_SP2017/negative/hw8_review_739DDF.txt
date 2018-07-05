@@ -1,0 +1,1 @@
+This hw was okay except for question 3b. I really did not understand how to do that and was extrememly confused as to how to compute the cosine similarity given the reducer input. This was fairly stressfull and took almost as long as all of question 2 and the beginning of 3. I am excited that we are almost done with these homeworks, as they cause a lot of stress in my week.

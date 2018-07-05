@@ -1,0 +1,1 @@
+in doing of the homework at home where i work, i found out that hw 8 wasn't as bad as hw 7. We were able to accomplish, in a few lines of python, what we had to do with multiple files and libraries in java. This is really annoying as we are learning old methods of cloud computing, while good for basic learning, may not be useful in a workplace

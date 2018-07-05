@@ -1,0 +1,1 @@
+In this homework, we reviewed about the concept related to mapReduce. The professor pointed out some vague concept, which we need to understand. Then we studied about the methods we need to know to write the lab. I modified the wordCount program in order to get my own code. It feels great to do some kind of coding, actual practice than learning only about concept.

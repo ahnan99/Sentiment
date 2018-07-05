@@ -1,0 +1,1 @@
+I thought the homework was very helpful because it got to think about different properties of big data and how not all of these properties may apply to all types of big data. In addition, the exercise on the Bonferonni’s Principle was also interesting as it points out the danger of randomness disguised as meaningful data from data mining.

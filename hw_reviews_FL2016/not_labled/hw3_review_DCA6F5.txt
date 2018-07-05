@@ -1,0 +1,1 @@
+It's nice to see some of the homeworks build on each other. I used the examples in problem 4 of homework two in my MRunit testing process. A little tedious to work out the code and I felt like the topics weren't covered as well in lab this week, but still another intersting homework. 

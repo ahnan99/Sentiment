@@ -1,0 +1,1 @@
+The problem with this hw was getting the VM to work. There were many resources that were not avialable, so my jobs would be stuck and I could not get them to execute. This is frustating when you have the code working but you can't get the job to run. It's an important lesson--make sure to delete HDFS files when you're done with them. 

@@ -1,0 +1,1 @@
+Homework 5 is a good exercise in understanding how combiners and partitioners work and how to implement them. It also helps us get more insights into sentiment analysis. In particular, we learn the most basic approach to it and also think about its limitations and ways to improve on that approach.

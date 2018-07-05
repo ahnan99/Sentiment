@@ -1,0 +1,1 @@
+This homework has equal work to the last one. However it was useful too. We have worked with a different input format the key value one and we have implemented a Mapreduce application (word co-occurrence). In addition, we have an experience over different compressing techniques. I think it was a cool homework.

@@ -1,0 +1,1 @@
+This homework was okay. We got stuck on question two for a little, but we managed to figure it out. It was a little hard because of the initial work we had to do with Spark, but we managed to figure it out. We ran into problems with the stub script that was given to us, but we figured it out.

@@ -1,0 +1,1 @@
+This time we do something about sequence files and compression. That's pretty cool. Compression is useful for saving the space for storing data. In fact, I don't know how to use run a java code. for this time, I have some practice about use that in BONUS, that's great. And I also practice about the file read, which is pretty important.

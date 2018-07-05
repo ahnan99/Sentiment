@@ -1,0 +1,4 @@
+This homework is a challenge for me since I met a huge difficulty in iniating spark and run the applications on cluster and 
+locally. I think the major problem for me is spark shell for me is a totally new thing, so are scala and python. So I'm really struggling
+with setting up right in scala and python and learning these new languages and syntax. However, I really learn a lot during 
+the process and I think it will be better to have more helping hours on Wednesday to help me with the learning process.

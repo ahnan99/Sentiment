@@ -1,0 +1,1 @@
+In my opinion, homework 2 is pretty straightforward. The problem is close to what we are studying in class. As long as we did the lab, we can finish problem 1 and problem 4 easily. Problem 2 and problem 3 are basic of MapReduce system, so as long as we attend the lecture, we will be able to do it easily. In conclusion, I think this homework is really helpful and straightforward.

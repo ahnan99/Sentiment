@@ -1,0 +1,1 @@
+pyspark is pretty cool, since I was already trained in python is was easy to reason about the logic of pyspark. Overall I enjoyed learning about how to manipulate big data in a python environment. The questions were once again very vaguely worded which was the worse part of the assignment. 

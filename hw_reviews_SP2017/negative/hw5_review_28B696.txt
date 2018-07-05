@@ -1,0 +1,2 @@
+This homework is a little hard and I have struggling on it. I have read the book and slides first and understood what combiner and partitioner are but still have trouble in implementing 
+them in codes. My partner and I discussed a lot to work it out. If more materials can be given to us, it will be better.

@@ -1,0 +1,2 @@
+the same as usual, I am quite struggle with this assignment, I don't know if I have put the right data at right place, I may totally wrong with this homework because I used the wrong resource.
+the pig is very convinient escpecially compare to the mapreduce, I'm glad that we could finally say goodbye to MR.

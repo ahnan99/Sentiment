@@ -1,0 +1,5 @@
+# Homework6 Review
+
+ - Zheng Yuan 452091
+
+ 	In this homework, I think it gives us a great chance to learn the Sequencefile/compressed/uncompressed in advance. Besides, I think the example of inverted index is very practical for us to get familiar with some other concepts.

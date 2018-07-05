@@ -1,0 +1,1 @@
+This was quite a fun homework, since we got a chance to write code. It would've been nice to know about junit test before I wrote my program. I had to run a complete test hadoop test job just to verify if the test input had the right output. If I could use the junit test that would've been much faster. I was a little confused on what to write for problem 2. 

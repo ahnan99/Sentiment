@@ -1,0 +1,5 @@
+This homework was more hands-on than the last, which I am appreciative of. I found it useful to go through the motions of writing a Reducer, Mapper and Driver to reinforce what we covered in class.
+
+One critique I have is not of the homework itself, but of the organization of the lab writeups and pdf content: they're all over the place, and it's not clear which pdf contains which content.
+The inconsistent naming convention does not help either. Whether you want to call it a HW or a lab, keep them distinct and keep it the same for all files.
+

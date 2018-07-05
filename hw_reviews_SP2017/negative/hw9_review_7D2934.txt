@@ -1,0 +1,1 @@
+This homework was mostly busy work. It was not very clear on how we should compile scala files. It would have been better to have more practice or examples of running a scala file. The pig part of the homework was rather easy. I was a little confused on how the driver works.

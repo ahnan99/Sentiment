@@ -1,0 +1,1 @@
+This time, it is quite a hard implementation of combiner and partitioner. It required a solid knowledge and understanding of what we have learnt in class. But it is not a impossible homework assignment, and it indeed does not has much difficulty in understanding. However, there are some challenging points in coding, such as the using the distributed cache.

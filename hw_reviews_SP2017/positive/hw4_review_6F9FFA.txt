@@ -1,0 +1,1 @@
+This was an interesting hw. Some of the instructions on question 2 were confusing, and I wasn't 100% sure what was being asked at all points. I think I learned a lot about writing a full mapreduce program and test program for my map and reduce programs as well as implementing toolrunner. I'm excited to see what comes next and what more you can apply mapreduce on.

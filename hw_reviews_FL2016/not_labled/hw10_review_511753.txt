@@ -1,0 +1,1 @@
+The homework was frustrating because I could not get the stages viewer to work in the yarn ui, whenever I tried to access anything outside of the yarn rm I would get a no server found message. Other than the technical problems I encountered I also could not find the information on where spark stores its output files.  

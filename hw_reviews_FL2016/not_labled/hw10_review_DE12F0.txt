@@ -1,0 +1,1 @@
+This homework was refreshing. It was nice to work with Spark, which was pretty easy to understand and fast to implement things in. It was also incredibly nice to work interactively with a shell, instead of having to compile jobs, check for correctness, and recompile endlessly. Instant feedback was awesome.

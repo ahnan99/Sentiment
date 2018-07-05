@@ -1,0 +1,1 @@
+By this assignment, I understand how the mapper and reducer work, how to imporve the speed and efficency of the Mapreduce. It turn out to be very useful for us to think about inforamtion in the big data way. Also I have learned about HDFS, which is a brilliant idea to deal with tons of data. It gives the machines the ability to process the data faster!

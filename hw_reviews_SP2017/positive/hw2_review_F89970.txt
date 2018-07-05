@@ -1,0 +1,1 @@
+Homeword 2 consists schematic problems, numerical problems, and also some subjective questions. In order to complete this homework, we need first go through the lab1 and lab2, as well as the lab slides of the introduction of MapReduce. I feel better doing this homework than I did homework1, because I am getting more closed to the HDFS, which makes me feel excited!

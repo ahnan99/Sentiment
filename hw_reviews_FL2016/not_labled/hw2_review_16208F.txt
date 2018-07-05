@@ -1,0 +1,1 @@
+Problem 1 is a good practice for HDFS. The third question is a little bit confusing. Not sure if the master node and its copy are among the 6 node. But we figured out later. Problem 2 and 3 are very practical. We implemented the key parts of MapReduce: mapper and reducer and practiced the Hadoop commands.

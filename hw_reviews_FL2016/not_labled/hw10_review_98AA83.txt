@@ -1,0 +1,1 @@
+This homework was particularly difficult in the sense that not only did we have to learn how to use a new program in Spark, we also had to figure out concepts like how pipelining works. I feel like the concepts could have been covered better in class, but overall it was like most of the other homeworks.

@@ -1,0 +1,1 @@
+This homework was not too bad. Writing tests for mapreduce programs was the same as what we learned in lab 3 and was fun. However, part c of question 4 was a little hard, since instructions were not too clear in my opinion in the lab, so my partner and I could not figure out how to run the job locally on command line, and had to go to TA hours to get help. 

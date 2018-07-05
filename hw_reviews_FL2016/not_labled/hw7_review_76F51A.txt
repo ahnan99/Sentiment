@@ -1,0 +1,2 @@
+For this assignment, I thought that the hw was pretty straightforward. Assuming you understand how to matrix multiply, the process of the MapReduce is rather simple and pretty neat.
+It's quite interesting how you can split the matrix into separate lines. For the book questions, most of them were simple, last part of problem two was a little tricky because of how the question was phrased.

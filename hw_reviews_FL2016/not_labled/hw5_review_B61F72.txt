@@ -1,0 +1,1 @@
+The first problem is a good practice for combiner and also we learned to use YARN Resource Manager. I really like the second problem. It includes the knowledge of partitioner and distributed cache. The third question is also about partitioner. We implemented a secondary sort by using the first name and last name. 

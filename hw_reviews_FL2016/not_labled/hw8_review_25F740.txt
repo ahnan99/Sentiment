@@ -1,0 +1,7 @@
+This home work was actually pretty difficult.
+I struggled a lot with the reverse lookup of the netflix data. I was able to implement the mapreduce for n pretty easily. but i found the actual lookup pretty hard
+I was extremely frustrated as my code was fine for a long time, but I was just missing a .toString()
+
+The rest of the homework was challenging but I didnt get as annoyed with it as I did with question 1.
+
+Homework was still cool overall and I enjoyed it.

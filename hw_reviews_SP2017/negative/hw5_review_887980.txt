@@ -1,0 +1,5 @@
+This homework was incredibly poorly written and extraordinarily difficult to complete.
+We did not receive the guidance necessary to complete this and some of the code that was
+given from the slides had been deprecated or did not work. This should not be the case as
+I would expect my classes to have up to date information. Overall, this homework made me
+angry and stressed.

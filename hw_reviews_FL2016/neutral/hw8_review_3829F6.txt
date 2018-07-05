@@ -1,0 +1,3 @@
+The problems concerning the collaborative filtering was fairly confusing for a while as we struggled with which algorithm to use and to correctly derive the Pearson from cosine.
+
+The last question's wording was particularly confusing since in class we had gone over based on comparing two users, and it too a little bit of time to change our mindset to compare the similarity of the movies.

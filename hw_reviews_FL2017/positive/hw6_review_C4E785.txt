@@ -1,0 +1,2 @@
+Homework 6 introduced new challenges, especially in regards to the JAVA implementation of the topNList Map Reduce jobs. The jobs required using more complex data structures to hold the top N items in a list. The combiner was a great example of how to improve Map Reduce efficiency. I think the combiner we will be very useful when developing Map Reduce applications in the real world.
+

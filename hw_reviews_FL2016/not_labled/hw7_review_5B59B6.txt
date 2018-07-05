@@ -1,0 +1,1 @@
+My partner and I actually got into a groove and didnt have much trouble on this assingmnent. Further, we actually enjoyed the logic that went into coming up with a solution for matrix vector multiplication where the v doesnt fit in memory. All and all, this was a good homework for us

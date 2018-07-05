@@ -1,0 +1,1 @@
+This homework was longer than it needed to be and the instructions were more unclear than in previous ones, I think because we were writing a mapreduce alone for the first time. However, the implementation once we got it working made a lot of sense and helped me understand more in terms of what mapreduce does.

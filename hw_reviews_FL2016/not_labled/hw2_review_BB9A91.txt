@@ -1,0 +1,1 @@
+This homework seems rather adequate for someone just learning hadoop and cloud computing. It gives you enough information and the stubs really help you know how to handle the programming. It was also nice to be able to go back and copy the structure of something like word count. It made it a little challenging but overall worthwhile.

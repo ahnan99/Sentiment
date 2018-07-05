@@ -1,0 +1,5 @@
+This homework was a lot shorter, and thus more aproachable than a few of
+the previous ones. I enjoyed not having to do three seperate compilation
+steps just to test. It made development go much faster. It was also cool
+to have a mock scenerio to be working under, rather than somewhat 
+arbitrary tasks.

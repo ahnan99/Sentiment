@@ -1,0 +1,1 @@
+This home work is really wasting of time. We have to implemented many java files. Even though we don¡¯t have to code a lot, we spend a lot time on testing the output, which I feel is a not a good idea. I am looking forward to implement something related to the Google matrix.

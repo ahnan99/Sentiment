@@ -1,0 +1,1 @@
+This homework was somewhat frustrating because at times, my partner and I had trouble navigating the course materials on the CSE427 website to find relevant examples. We also have had trouble running our hadoop projects from the local command line. We were confused so opted to turn in the assignment after the Monday due date, and seek TA assistance on Tuesday

@@ -1,0 +1,1 @@
+Thank you so much for assigning this homework 4, I think I have learned a lot from this assignment. Through this homework, I learned how to use toolbar to run java files, how to use the unit test to make sure the code I have writtren is right. Also I have a deeper understanding of what's going on with the MapReduce. I'm appreciated for this homework.

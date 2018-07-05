@@ -1,0 +1,1 @@
+I thought that this homework wasn't too bad, as it was mainly writing scripts. I do however think that some of the instructions for the lab was incorrect, or maybe I was running into errors because I had trouble adding the ad_data files to dualcore properly. This homework was actually quite interesting this week. 

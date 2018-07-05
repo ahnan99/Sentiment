@@ -1,0 +1,18 @@
+For this homework, we have 5 major problems and 20 minor questions.
+The topics range from PageRank, Spark to Pig...
+ 
+Is that too many for one homework?
+ 
+If this homework only worth 100 pts in total... man, I will definitely abandon set of questions.
+To be honest, our graders usually deduct credit from an unperfect answer for 1~3 pts.
+Attention, this credit deducted is not proportionally to the total credit for a minor question.
+Which means if you lose 3pts from a 5pt question, Congrats, bro...
+ 
+And for this homework, you will find 100 pts for 20 minor questions, which means each one get 5pts in average.
+Again, for an unperfect answer... you will lose a great propotion of creadits due to many unperfect answers.
+ 
+Thus, I highly recommend our instructor to split this homework to two individual ones and reassign the credits.
+
+I think this homework is a tough one.  We had to learn a lot and refer to a lot of things rather than focus on only one or two aspects.
+
+

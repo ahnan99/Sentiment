@@ -1,0 +1,1 @@
+It is helpful to practice specifying configuration options for the programs by ToolRunner and I appreciate the chance to set parameters by configuration in problem 1. Problem 2 basically lets us try out different ways to test our programs locally, which can be more convenient and efficient for debugging. And I think it will be great if we can try to run a real Hadoop cluster.

@@ -1,0 +1,1 @@
+This homework was nice because it tied in a lot of what the past homeworks taught us to do and made us put it together in one assignment. It was also dealing with a large dataset, but we got to work up to by testing our program with smaller sets. We also ran test cases before even touching any external data.

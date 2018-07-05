@@ -1,0 +1,1 @@
+I though this homework was a good review of the ad system and a good way to learn PIG. Finding the low cost sites in problem 1 made me really understand how the PIG scripts work at the most detailed level. It was interesting to see the results when we ran the scripts. Problems 2 and 3 were also very interesting and gave me a good understanding of more big data metrics.

@@ -1,0 +1,1 @@
+This homework was fun. I enjoyed actually being able to implement a MapReduce job by ourselves outside of a lab/classroom setting. I do, however, wish there were a way to check that our output was correct (other than with the small sample data). Otherwise, the other problems were helpful from a conceptual point of view. Another good homework!

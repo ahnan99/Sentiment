@@ -1,0 +1,1 @@
+This homework is really confusing especially the second problem. I do not know what are the he required two mapreduce programs in part (a) meaning. So, it takes me such long time to understand and think through the problems. The first and the third questions are relatively good and give nice review for the lecture. 

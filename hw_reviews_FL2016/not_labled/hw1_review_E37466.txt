@@ -1,0 +1,5 @@
+Grace Lu
+g.lu 
+431366
+
+I thought that the first problem was a nice summarization of the exercises we've did in class, which I think helps with our understanding of the dimensions/properties of big data better. One thing that I would've appreciated is if we went over some basic probability formulas (permutation and combination ones in particular) during the previous class, as it would've helped with the second problem in the homework. I thought that reading the article was a good way of informing us on some of the ways we use big data in language and why it's important to have a large amount of probably incorrect in some ways data than a small sample amount of data. 

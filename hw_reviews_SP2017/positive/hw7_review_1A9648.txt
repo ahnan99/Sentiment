@@ -1,0 +1,1 @@
+Homework 7 was special in that it was a lot more focused on theories and algorithms. Even though it was significantly more challenging than the previous ones in terms of math, it was a helpful exercise to help us solidify our understanding of different kinds of applications of MapReduce programs and the mathematical basis of them. 

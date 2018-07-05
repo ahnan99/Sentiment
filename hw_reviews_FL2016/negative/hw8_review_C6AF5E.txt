@@ -1,0 +1,9 @@
+This homework was so hard compared to the other ones so far. The first
+problem took so long to do because it was two map reduce jobs. That
+wasn't really too hard but I kept making dumb mistakes that made life
+difficult. The second problem was kind of hard if only because it seemed
+like all the info for the answers was in the book rather than in the slides.
+I also had to read a different chapter than the ones assigned for this
+unit which was annoying. The last problem was stupidly annoying because of
+the wording. I felt like we didn't talk at all about item-item similarity
+so why was it saying "for all pairs of movies"? Ugh.

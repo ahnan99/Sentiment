@@ -1,0 +1,1 @@
+This homework was rather useful when it came to problem 4 requiring you to run the project locally in two different ways. I actually would have continued using Eclipse for the local project running, but found out that I much prefer using the command line approach. Though, explaining how you can print off the input/output values in the Eclipse testing unit would have been helpful.

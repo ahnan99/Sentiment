@@ -1,0 +1,4 @@
+I enjoyed this homework because it gave me a chance to practice using the hadoop file system and the mapreduce algorithm.
+I thought it was a bit hard at first figuring out which commands to use because using commands with hadoop has a bit different syntax.
+I look forward to practicing with hadoop more in future homeworks.
+The questions were a little ambiguous and I wish there was more clarification because it was a bit confusing.

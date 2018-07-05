@@ -1,0 +1,1 @@
+Overall, it was quite fun having a way to run mapreduce jobs locally. It allows us to be able to run tests on our job easier. Most of my trouble came from trying to understand how local mode is different than hadoop mode. I had some problems with my mapper class for problem 2, but then I remebered to switch my split regex from //w to //s (split on spaces not on noncharacters).

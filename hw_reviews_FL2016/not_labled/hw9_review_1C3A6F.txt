@@ -1,0 +1,1 @@
+This homework has equal work to the last one I think. First pig homework, seems interesting. I had one confusion about phrasing problem 1 part d, I thought that input is ad_data1.txt not the folder, I think it would be better to clarify it. The homework was useful, my first homework using Pig. The interesting thing that we work on real big data for real customer.

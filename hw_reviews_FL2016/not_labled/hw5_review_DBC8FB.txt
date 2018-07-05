@@ -1,0 +1,8 @@
+I got really stuck at some point in the homework when I was trying
+to run my partitioner on the hadoop cluster but couldn't seem to
+access the file containing positive and negative words. It was
+really frustrating since I knew it worked as it worked locally
+and on the junit test. Once I figured it out however, it was smooth
+sailing the rest of the way. I think in general, the homeworks are
+really helpful in making me feel like I understand the material
+since I have to implement it.

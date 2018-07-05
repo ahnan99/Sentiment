@@ -1,0 +1,6 @@
+In homework four, my group member and I applied the tool to work on the nodes
+and code. It is really helpful as it helps us adapting the tools available in
+this module. Compared to no tools, it is really easier for me to configure my
+files through command line if I am using the tools. A helpful assignment is
+good, and can benefit me a lot. Generally, this assignment is helpful and
+interesting.

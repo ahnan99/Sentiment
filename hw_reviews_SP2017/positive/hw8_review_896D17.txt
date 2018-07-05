@@ -1,0 +1,1 @@
+It is a quite complicated homework this time, and I actually did most of it during my trip in Chicago. It requires a thorough knowledge of mapreduce from top to bottom, and doing a mapreduce job from 0 to 100 is quite interesting though. Anyway, it is a good review of the final exam for the part in mapreduce.

@@ -1,0 +1,5 @@
+This homework was a process. A lot of unncessary time wasted could have been avoided if the homework pdf was fully updated to include specific directions on where test datasets are located.
+There were a couple Piazza posts about the location of the first test input; although this was answered promptly, the actual location was not written into the pdf in all places, leading to a repeat
+of question and answers.
+
+Again, some of the questions were a little too open-ended; it was difficult to tell what the pdf meant by a pseudo-cluster, for instance, when we have not had much experience with the terminology.

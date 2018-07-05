@@ -1,0 +1,1 @@
+Homework 8 was a good practice exercise in implementing recommendation systems algorithm, specifically the top-N-list, and also helped us understand how similarity between items is determined. I t also helped me get my feet wet with Pig and Hive, two very powerful platforms for big data analysis and yet very intuitive for programmers.

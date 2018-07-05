@@ -1,0 +1,1 @@
+For this assignment, we were able to experience the map reduce program first hand, which was very useful because we actually observed the output file and how the whole process works. I now have a much better understanding of map reduce programs and the strength it possesses, and I am excited to see further implementations of this powerful method. 

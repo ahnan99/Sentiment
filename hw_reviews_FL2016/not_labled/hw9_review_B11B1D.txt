@@ -1,0 +1,4 @@
+The homework is really practical for me to have a deeper understanding of using pig and command lines. I feel like learning
+a lot after I do the homework. Besides, the homework is based on lab 5, which also asks me to have a good understanding of the 
+basic concepts and syntax of pig. I feel really happy to figure out how to analyze the dataset by using pig and also combine the 
+things learned before. I think it is a good homework fitting beginners well, helping me set a solid foundation of pig commands .

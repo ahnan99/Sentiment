@@ -1,0 +1,2 @@
+Homework 5 is building up the tools we need to perform sentiment analysis. I found the coding to be a bit more challenging. For instance, we had to implement our own parsing of the IP addresses as well as the iterator for performing a sliding window task. I am interested to see how we pull this all together in a real-world application like sentiment analysis.
+

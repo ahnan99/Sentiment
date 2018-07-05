@@ -1,0 +1,1 @@
+This homework help us to understand what is the combiner. In the class, we have the basic idea about what is the combiner. I only know that this is a mini-reducer but don't know how to use it. After this homework, by using the combiner and compare the result of the mapreduce with combiner and without combiner. really help us to understand the work of the combiner.

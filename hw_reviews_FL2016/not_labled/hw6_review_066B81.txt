@@ -1,0 +1,1 @@
+This homework assignment is one of my favorites so far. I really enjoyed how in depth we went with SequenceFiles. I thought it was interesting to see how to write/read them as well as how to compress them. Additionally, playing around with the inverted index was fun. I enjoyed formatting the output with the filename and line number in a usable format.

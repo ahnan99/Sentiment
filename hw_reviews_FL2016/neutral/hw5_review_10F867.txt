@@ -1,0 +1,6 @@
+This hw had a lot of typos. It made things very difficult.
+In addition, some of the wording on the problems was very
+confusing and we weren't sure what the question was driving
+at. "Inevitable"? Really? Also, I wish we had a lab on writing
+partitioners; it'd be nice to get labs for everything that will
+be on exams or on homeworks just for extra practice.

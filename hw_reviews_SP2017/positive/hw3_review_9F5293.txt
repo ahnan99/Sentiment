@@ -1,0 +1,2 @@
+This time ’s homework is about writing the MapReduce Java code to do the Map and Reduce function. I implemented The driver class,Mapper class and the reducer class. Then i tested the result by using the input and output of our example to see whether it is corrected.
+Finally i got the corrected answer.Hahaha.That s all for this.

@@ -1,0 +1,4 @@
+This homework is helpful. I have applied what I have learned about Hadoop framework.
+It also helps me practice using Mapper and Reducer framework. Moreover, I have got much better understanding about driver, mapper and reducer classes, how they are implemented, how they invoked and such things.
+
+The homework level I think is good, not very hard and not trivial and hopefully next homeworks are good too.

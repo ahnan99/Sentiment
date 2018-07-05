@@ -1,0 +1,3 @@
+I enjoyed this lab more than others because it was mostly coding and not so much about answering questions.
+The coding was relatively simple but I wish I had thought about testing on something other than the Shakespeare data because the Shakespeare data took 10 or so minutes to MapReduce.
+The extra credit also doesn't make that much sense to me, I ran into a lot of problems and errors that seemed to be unrelated to MapReduce.

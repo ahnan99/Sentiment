@@ -1,0 +1,1 @@
+Homework 10 helped me gain an understanding of scala and spark within the Hadoop framework, and how these tools can be used to process things in parallel using an resilient distributed dataset (RDD). I think I now understand it better which is good, and also I think I have the choice now to use python or scala within Hadoop for data processing.

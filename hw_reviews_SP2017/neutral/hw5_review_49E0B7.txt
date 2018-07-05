@@ -1,0 +1,1 @@
+This homework was bit of a challenge for me and took a lot of my time. There were small errors that caused me to spend more time debugging than actually coding. I feel like it gave me an understanding of how it is in the real world writing code for a large, but only using simulated data. Overall, I thought this homework assignment was good and it did not cause me any stress. 

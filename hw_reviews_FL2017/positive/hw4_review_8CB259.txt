@@ -1,0 +1,1 @@
+This homework was very exciting. First time really digging into mapreduce. Great that we're getting into coding. I wish there was a little more direction particularly on the partitioner implementation. I enjoyed the challenge of needing to re-learn java and thing more ciritically about program design. I look forward to future homeworks now.

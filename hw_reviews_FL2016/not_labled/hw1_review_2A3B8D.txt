@@ -1,0 +1,9 @@
+I could use the word “struggle” to describe this homework…
+
+At first, big data’s properties are confused especially for “complexity” and “label”. It took longer time than I thought before in Problem1.
+
+For Problem2, I think it is much easier than the first one.
+
+For Problem3, it’s a little hard to abstract core idea from paper. I’m trying to get used to read English paper. 
+
+I never thought the most difficult part for me is SVN. It took me a long time to figure out how to commit my homework…. 

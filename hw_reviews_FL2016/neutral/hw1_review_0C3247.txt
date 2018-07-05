@@ -1,0 +1,12 @@
+I thought this homework was alright. I enjoyed the first problem because it gave us
+more practice with things we worked on in class--further reinforcement is always a good
+thing especially when it seems likely to occur on the exam. I found the second problem
+to be straightforwrad at first once I understood the derivation for d = 2, p = 2 in
+the book. However, it was really frustrating that none of the values we computed for the
+other inputs worked according to the table in the instructions. That probably caused me to
+bang my head on a wall and stare at that problem for too long. Finally, I thought the
+reading for the last question was interesting but difficult to read. I had to look up a lot
+of the vocabulary used because it was more specialized (to me at least) than "regular"
+computer science jargon. In addition, that section about Semantic Web felt incredibly random
+and did not make any sense in the context of the rest of the article--poorly done. Overall,
+I "liked" the hw, and I wish the future assignments would be like this, but who am I kidding?

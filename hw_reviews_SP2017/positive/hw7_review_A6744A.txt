@@ -1,0 +1,1 @@
+  This week’s homework is much easier and clearer than last week’s one. For last week, my teammate and I spent more than ten hours to finish it, and question two is extremely hard. This is week’s material is the application of matrix in mapreduce and data mining, which makes great sense to me.

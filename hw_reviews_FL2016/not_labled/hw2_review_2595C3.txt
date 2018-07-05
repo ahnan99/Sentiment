@@ -1,0 +1,1 @@
+The assignment was okay. I didn't like the overly complicated java code and felt that the mapping and reducing functions should be alot easier to work with. The question about the racks and nodes was also pretty vague which was kinda disappointing. On the other hand I felt like I learned a good chunk about how to work with HDFS on the command line. 

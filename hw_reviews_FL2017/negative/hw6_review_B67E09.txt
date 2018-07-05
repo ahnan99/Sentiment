@@ -1,0 +1,1 @@
+Homework 6 is really a tough job for me. It took me almost three hours to finish the first problem. And the virtual machine crushed for several times when I was working on it. The accidental exit of the virtual machine will make the history of the command lines disappear, which is disappointing. I must make the snapshot in case something is going wrong.

@@ -1,0 +1,1 @@
+This homework is all about Spark. Doing MAPREDUCE is not very human-friendly, because people operating MAPREDUCE jobs come from all backgrounds. Scala enable distributed system users to utilize scripting language to do the MAPREDUCE job. This is great, since scripting language will greatly speed up our development speed. HW10 introduces us to this feature. A good homework.

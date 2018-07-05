@@ -1,0 +1,16 @@
+# Homework6 Review
+
+ - Zheng Yuan 452091
+
+Program1:
+(1) Help us understand how to implement word co-occurrence MAPREDUCE program using the pairs approach.
+(2) Help us understand the limit of the implementation we did before.
+
+Program2: 
+(1) Help us get a clear concept of how to do the matrix-matrix multiplication by using Mapreduce
+(2) Help us know the concept of stripes and communication cost
+
+Program3:
+(1) Help us understand how to get a pagerank
+(2) Help us understand different ways to represent graph and the strong point/weakness for each way.
+

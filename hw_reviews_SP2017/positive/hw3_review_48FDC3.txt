@@ -1,0 +1,1 @@
+This homework was kind of fun.  It involved acutally writing a mapreduce program which was more exciting than running one pre-made for us.  It gave me a much better understanding of the whole system to work through a problem from the bottom up.  The first two problems were fairly boring though as they were straight off of the slides.

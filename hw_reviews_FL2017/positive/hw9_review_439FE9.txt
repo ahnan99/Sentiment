@@ -1,0 +1,1 @@
+This assignment was more challenging than others, but it was also one of the most informative ones so far. The homework had multiple components to it, the biggest two being Spark and PIG, and it helped me and my partner get a deep understanding of each subject's properties and how we can benefit from using it.

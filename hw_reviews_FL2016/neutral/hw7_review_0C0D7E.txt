@@ -1,0 +1,2 @@
+This homework was a bit different from the past few we've been doing. Matrices aren't something I usally enjoy doing, so some of the problems took a bit longer than I expected, especially the parts with the matrix multiplications and calculating efficient multiplication, on problem 2.
+It was nice that the homework was conceptual since I wasn't sure I had a great grasp of the materials until I finished the homework.

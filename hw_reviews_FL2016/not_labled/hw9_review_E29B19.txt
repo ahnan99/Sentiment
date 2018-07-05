@@ -1,0 +1,4 @@
+hw9 is not very hard. 
+Pig Latin is very similar with the traditional SQL language (at least I think so...).
+Also Pig Latin is very useful. Since most of the data base are SQL look-like, we can transfer previous algorithm we have to transfer to Pig.
+One of the problem I have is that, we don't know how to write some function by ourselves with Pig Latin. 
